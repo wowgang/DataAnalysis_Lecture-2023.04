@@ -1,0 +1,17 @@
+series
+
+data
+-1차원
+-numpy array 
+-type동일
+-index 를 내마음대로 만들수 있다.
+
+
+dataframe
+
+data
+-2차원
+-type 각줄은 같아야하지만 각각의줄은 달라도된다
+-인덱스를 공유하는 여러개의 series
+-col열은 같아야한는데 각 열은 다른타입이어도된다
+
