@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static resource</title>
+    <!-- <script src="../static/js/05.hello.js"></script> 권장방법이 아님 -->
+    <script src="{{url_for('static', filename='js/05.hello.js')}}"></script>
+    <!-- static폴더밑에있는 저파일내일 경로를 찾아라 -->
+</head>
+<body style="margin: 40px;">
+    <input type="button" value="Say Hello" onclick="sayHello()">
+    <br><br>
+    <img src="{{url_for('static', filename='img/고양이.jpg', q=mtime)}}" height="400">
+    <!-- q=mtime  web에서 페이지소스보면 아래처럼 보임-->
+    <!-- <img src="/static/img/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg?q=1681789339" height="400"> -->
+</body>
+</html>

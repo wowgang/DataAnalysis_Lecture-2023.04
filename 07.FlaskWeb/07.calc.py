@@ -1,0 +1,31 @@
+from flask import Flask , render_template, request
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return 'Hello Flask'
+
+@app.route('/calc', methods=['GET', 'POST'])
+def calc():
+    if request.method == 'GET':
+        op_list = ['+','-','*','/','//','%']
+        return render_template('07.calc.html', op_list=op_list)
+    else:
+        num1 = int(request.values['num1'])
+        op = request.values['op']
+        num2 = int(request.values['num2'])
+        result = eval(f'{num1}{op}{num2}')
+        return render_template('07.calc_res.html', 
+                               num1=num1, op=op, num2=num2, result=result)
+
+# >>> eval('4*6')
+# 24
+
+# 최초 calc get이고
+# 값 입력 후 = click하면 post
+# 재실행 click하면 다시 최초니까 get
+
+if __name__ == '__main__': 
+    app.run(debug=True)
+
