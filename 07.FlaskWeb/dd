@@ -31,7 +31,7 @@ not found = > 404에러
 
 순수html+ jinja control code 을 보여주는것을 rendring...이다라고
 
-
+<!-- id : js / class : css / name : sever -->
 
 get => 주소창에 치고들어가는것 get방식
 post => 
@@ -54,3 +54,17 @@ server -> response -> browser
     {% else %}
         <h1>Hello World!</h1>
     {% endif %}
+
+    
+server는 client랑 control하는 주고받는 역할
+비지니스 코드
+server코드에는 비즈니시 코드를 안넣음
+
+
+app이있는 route를 controller라고 함 
+
+MVC
+model view control
+app.py는 control만해
+view는 templates/
+model은 db access, biz logic

@@ -1,0 +1,12 @@
+{% extends "14.base.html" %}
+{% block title %}핫플레이스{% endblock %}
+{% block subtitle %}핫플레이스<i class="fas fa-home"></i>{% endblock %}
+{% block content %}
+    <form action="hotPlaces" method="post">
+        <input type="text" name="place1">
+        <input type="text" name="place2">
+        <input type="text" name="place3">
+        <input type="submit" value="제출">
+    </form>
+
+{% endblock %}
