@@ -20,7 +20,7 @@
         <h1>My Bootstrap Page</h1>
         <p>{% block subtitle %}{% endblock %}</p>
     </div>
-    <div class="container mt-3">
+    <div class="container mt-3 ">
         <nav class="navbar navbar-expand-sm bg-outline bg-warning fixed-center">
             <div class="container-fluid">
                 <ul class="navbar-nav me-auto"> 
@@ -43,6 +43,12 @@
                 <span class="navbar-text me-3" ><GARAMWORLD. class="fa-solid fa">G.R_WORLD</i></span>
             </div>
         </nav>
+        {% block add_body %}
+        <div class="row">
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        {% endblock %}
         {% block content %}{% endblock %}
 
     </div>

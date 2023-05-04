@@ -1,0 +1,97 @@
+{% extends "prototype/base.html" %}
+{% block title %}스케줄{% endblock %}
+{% block weather %}{{ weather | safe() }}{% endblock %}
+
+{% block additional_head %}
+<style>
+th { text-align: center; width: 14.28%; }
+td { height: 120px; }
+</style>
+{% endblock %}
+{% block subtitle %}일정표{% endblock %}
+{% block content %}
+
+  <div class="d-flex justify-content-between bg-white mb-1">
+    <div class="p-2">2023-03-02(목)</div>
+    <div>
+      <i class="fa-solid fa-angles-left text-primary"></i> <i class="fa-solid fa-angle-left text-primary"></i>
+      <div class="p-2 badge text-bg-primary"> 2023.03 </div> <i class="fa-solid fa-angle-right text-primary"></i> <i class="fa-solid fa-angles-right text-primary"></i>
+    </div>
+    <div class="p-2"><i class="fa-solid fa-pen text-primary"></i> <i class="fa-solid fa-list text-primary"></i></div>
+  </div>
+    <table class="table table-bordered" >
+        <tr>
+            <th class="text-danger">일</th>
+            <th>월</th><th>화</th><th>수</th> <th>목</th><th>금</th>
+            <th class="text-primary">토</th>
+        </tr>
+        <tr>
+            <td class="text-danger" style="opacity:0.5">26</td>
+            <td style="opacity:0.5">27</td>
+            <td style="opacity:0.5"> 
+              <div>28</div>
+              <div style="font-size:small">10:30 일정 테스트</div>
+            </td>
+            <td>
+              <div class="text-danger" style="float:left;">1</div>
+              <div style="float:right;">삼일절</div>
+            </td>
+            <td>2</td>
+            <td>
+              <div style="float:left;">3</div>
+              <div style="float:right;">삼겹살데이</div>
+              <div style="float:left; font-size:small">16:00 주간업무 리뷰</div>
+            </td>
+            <td class="text-primary">4</td>
+        </tr>
+        <tr>
+            <td class="text-danger">5</td>
+            <td>
+              <div style="float:left;">6</div>
+              <div style="float:right;">경칩</div>
+              <div style="float:left; font-size:small">13:00 동영상 녹화</div>
+            </td>
+            <td>
+              <div style="float:left;">7</div>
+              <div style="float:left; font-size:small">16:00 최종발표 리허설</div>
+            </td>
+            <td>8</td>
+            <td>9</td>
+            <td>10</td>
+            <td class="text-primary">11</td>
+        </tr>
+        <tr>
+            <td class="text-danger">12</td>
+            <td>13</td>
+            <td>
+              <div style="float:left;">14</div>
+              <div style="float:right;">화이트데이</div>
+            </td>
+            <td>15</td>
+            <td>16</td>
+            <td>17</td>
+            <td class="text-primary">18</td>
+        </tr>
+        <tr>
+            <td class="text-danger">19</td>
+            <td>20</td>
+            <td>
+              <div style="float:left;">21</div>
+              <div style="float:right;">춘분</div>
+            </td>
+            <td>22</td>
+            <td>23</td>
+            <td>24</td>
+            <td class="text-primary">25</td>
+        </tr>
+        <tr>
+            <td class="text-danger">26</td>
+            <td>27</td>
+            <td>28</td>
+            <td>29</td>
+            <td>30</td>
+            <td>31</td>
+            <td class="text-primary" style="opacity:0.5">1</td>
+        </tr>
+      </table>
+  {% endblock %}

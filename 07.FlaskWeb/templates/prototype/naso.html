@@ -1,0 +1,176 @@
+{% extends "prototype/base.html" %}
+{% block title %}나를소개{% endblock %}
+{% block weather %}{{ weather | safe() }}{% endblock %}
+
+{% block additional_head %}
+<style>
+a{text-decoration: none; color: inherit;}
+a img{border:none;}
+body{background-color: rgb(187, 204, 236);}
+</style>
+{% endblock %}
+{% block subtitle %}최가람{% endblock %}
+{% block content %}
+    <!-- 프로필 -->
+    <div class="container" style="margin-top: 80px;" id="home">
+        <div class="row ">
+        <div class="col-3">
+            <img class="rounded-circle" src="{{url_for('static', filename='img/na.jpg')}}" style="width: 100%">
+        </div>
+        
+        <div class="col-9 mt-5">
+            
+            <div class="text-primary" ><i class="fa-solid fa-ghost" ></i> 최가람</div>
+            <div class="text-dark"><i class="fa-solid fa-gun"></i> 94년생 개띠</div>
+            <div class="text-success"><i class="fa-solid fa-clover"></i> 지금 하자!<br></div>
+            <div class="text-primary"><img src="{{url_for('static', filename='img/github.png')}}" alt="email" style="width:18px;"> festioal17@gmail.com</div>
+            <p></p>
+            <button type="button" class="btn btn-outline-success btn-sm"> Hello~</button>
+            
+        </div>
+        </div>
+    
+        <div class="container mt-3">
+        <div class="row">
+            <div class="col mt-3">
+            <!-- 취미,여행 -->
+            <div class="col">
+            <h3 id="hobby"><i class="fa-solid fa-fish-fins"></i> <span>.</span>취미</h3><i class="fa-solid fa-fish-fins"></i>
+            <div class="row">
+                <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src="{{url_for('static', filename='img/movie.png')}}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">영화보기</h5>
+                    <p class="card-text">좋아하는 영화</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><a href="https://www.google.com/search?q=%EC%9C%84%ED%94%8C%EB%9E%98%EC%8B%9C&oq=%EC%9C%84%ED%94%8C%EB%9E%98%EC%8B%9C&aqs=chrome..69i57j46i10i433i512j0i10i512l7.1174j0j15&sourceid=chrome&ie=UTF-8" target="_blank">Best. 위플래시</a></li>
+                    <li class="list-group-item"><a href="https://www.google.com/search?q=%EB%A7%A4%EB%93%9C%EB%A7%A5%EC%8A%A4&newwindow=1&ei=tFEdZNO9Auak2roPr9ygyA8&ved=0ahUKEwjT58X_hfT9AhVmklYBHS8uCPkQ4dUDCA8&uact=5&oq=%EB%A7%A4%EB%93%9C%EB%A7%A5%EC%8A%A4&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzILCC4QgAQQsQMQgwEyBQguEIAEMgUIABCABDIFCAAQgAQyBQguEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsAM6CwgAEIAEELEDEIMBOggILhCABBCxAzoICC4QgAQQ1AI6EQguEIAEELEDEIMBEMcBENEDOhEILhCABBCxAxCDARDHARCvAToICAAQgAQQsQM6BwgAEIoFEEM6BAguEANKBAhBGABQpaABWOqnAWCTqQFoA3ABeAOAAYsBiAGpCZIBBDAuMTCYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp" target="_blank">Best. 매드맥스</a></li>
+                    <li class="list-group-item"><a href="https://www.google.com/search?q=%EC%98%81%ED%99%94%EB%93%84&newwindow=1&ei=B1IdZKujBKnl2roPk66A-AU&ved=0ahUKEwjrwpGnhvT9AhWpslYBHRMXAF8Q4dUDCA8&uact=5&oq=%EC%98%81%ED%99%94%EB%93%84&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCC4QigUQQzIHCAAQigUQQzIHCAAQigUQQzILCAAQgAQQsQMQgwEyCwgAEIAEELEDEIMBMgcIABCKBRBDMggILhCABBCxAzIHCAAQigUQQzILCAAQgAQQsQMQgwEyBQguEIAEOggIABCABBCxAzoICC4QgAQQ1AJKBAhBGABQAFiaBmCOB2gBcAF4AYABggGIAY4HkgEDMC44mAEAoAEBwAEB&sclient=gws-wiz-serp" target="_blank">Best. 듄</a></li>
+                    </ul>
+                </div>
+                </div>
+    
+            <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="{{url_for('static', filename='img/youtube.png')}}" class="card-img-top" alt="유튜브로고" style="width: 280px; height: 170px;">
+                <div class="card-body">
+                <h5 class="card-title">유튜브 보기</h5>
+                <p class="card-text">좋아하는 채널</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                <li class="list-group-item"><a href="https://www.youtube.com/@drawandrew" target="_blank">드로우앤드류</a></li>
+                <li class="list-group-item"><a href="https://www.youtube.com/@hongsi_v" target="_blank">hongsi홍시</a></li>
+                <li class="list-group-item"><a href="https://www.youtube.com/@choemazon" target="_blank">최재천의 아마존</a></li>
+                </ul>
+            </div>
+            </div>
+            <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="{{url_for('static', filename='img/netflix.png')}}" class="card-img-top" alt="넷플릭스로고" style="width: 280px; height: 170px;">
+                <div class="card-body">
+                <h5 class="card-title">넷플릭스 보기</h5>
+                <p class="card-text">좋아하는 넷플릭스 오리지널</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=m5gO8Snd7Ug&t=12s" target="_blank">Best. 빌어먹을 세상따위</a></li>
+                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=l442Wnm6bAU" target="_blank">Best. 마인드헌터</a></li>
+                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=4Afm7QucvQs&t=79s" target="_blank">Best. 힐 하우스의 유령</a></li>
+                </ul>
+            </div>
+            </div>
+            <!-- 취미,여행 -->
+            </div> 
+            <div class="col" style="margin-top: 30px;">
+            <h3 id="trip"><i class="fa-solid fa-jet-fighter-up"></i> <span>.</span>여행</h3><i class="fa-solid fa-jet-fighter-up"></i>
+            <div class="card text-center">
+                <div class="card-header">
+                <ul class="nav nav-pills card-header-pills">
+                    <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#tab01">김해</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link " data-toggle="tab" href="#tab02">가고싶은곳1</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link " data-toggle="tab" href="#tab03" tabindex="-1" aria-disabled="true">가고싶은곳2</a>
+                    </li>
+                </ul>
+                </div>
+                <div class="card-body" id="tab01">
+                <h5 class="card-title">김해</h5>
+                <img src="{{url_for('static', filename='img/gi.png')}}" class="card-img-top" alt="가야" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/gim.jpg')}}" class="card-img-top" alt="김해성곽" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/gim3.jpg')}}" class="card-img-top" alt="김해성곽" style="width: 400px; height: 400px;" >
+                <p class="card-text">가야테마파크,성곽길,고요</p>
+                <a href="https://www.gimhae.go.kr/tour.web" target="_blank" class="btn btn-primary">김해</a>
+                </div>
+                <hr>
+                <div class="card-body" id="tab02">
+                <h5 class="card-title">가고싶은곳(스페인)</h5>
+                <img src="{{url_for('static', filename='img/soccer.png')}}" class="card-img-top" alt="soccer" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/ga.png')}}" class="card-img-top" alt="가우디" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/ga1.png')}}" class="card-img-top" alt="가우디" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/sp1.png')}}" class="card-img-top" alt="해변" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/ssp.png')}}" class="card-img-top" alt="해변" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/paella.png')}}" class="card-img-top" alt="해변" style="width: 400px; height: 400px;" >
+                <p class="card-text">축구,가우디,해변,빠에야 </p>
+                <a href="https://www.skyscanner.co.kr/" target="_blank" class="btn btn-outline-success btn-sm">스페인으로Go</a>
+                </div>
+                <hr>
+                <div class="card-body" id="tab03">
+                <h5 class="card-title">가고싶은곳(이집트)</h5>
+                <img src="{{url_for('static', filename='img/eg1.png')}}" class="card-img-top" alt="이집트사진" style="width: 1200px; height: 600px;" >
+                <img src="{{url_for('static', filename='img/egypt.png')}}" class="card-img-top" alt="이집트사진" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/e.png')}}" class="card-img-top" alt="이집트사진" style="width: 400px; height: 400px;" >
+                <img src="{{url_for('static', filename='img/e2.png')}}" class="card-img-top" alt="이집트사진" style="width: 400px; height: 400px;" >
+                <p class="card-text">피라미드,사막,왕가의계곡 </p>
+                <a href="https://www.skyscanner.co.kr/" target="_blank" class="btn btn-outline-success btn-sm">이집트로Go</a>
+                </div>
+            </div>
+            </div>
+            <div class="col"></div>
+        </div>
+    
+        <!-- 음식 -->
+        <div class="row">
+            <div class="col mt-5">
+                <h1 id="food"><i class="fa-solid fa-bowl-rice"></i> <span>.</span>음식</h1><i class="fa-solid fa-bowl-rice"></i>
+                <div class="row">
+                    <div class="col">
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="{{url_for('static', filename='img/food1.png')}}" class="d-block w-100" alt="초밥" style="width: 400px; height: 500px;">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="{{url_for('static', filename='img/food2.png')}}" class="d-block w-100" alt="잔치국수" style="width: 400px; height: 500px;">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="{{url_for('static', filename='img/food3.png')}}" class="d-block w-100" alt="김밥" style="width: 400px; height: 500px;">
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+    
+        </div>
+        </div>
+        </div>
+    </div>
+    
+    <footer>
+    <div class="container mt-3">
+        <div class="row">
+        <div class="col">
+        </div>
+        <div class="col">
+            Copyright &copy; 2023-202 GR World Corp. ALL rights reserved.
+        </div>
+        </div>
+    </div>
+    </footer>
+{% endblock %}

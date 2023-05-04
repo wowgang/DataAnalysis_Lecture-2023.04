@@ -1,0 +1,13 @@
+Homework web routing table,,,,,,
+,,,,,값을 주는것/따라붙는것,
+path,함수명,method,입력 파라메터,다음 행선지,rendering parameter,비 고
+/,home(),GET,-,homework/home.html,,
+/,base(),GET,-,14.base.html,-,
+/carousel,carousel(),GET,-,13.carousel.html,-,
+/scatter,scatter(),GET,-,09.산점도.html,-,
+/scatter,scatter(),POST,"num,mean,std,
+min,max",09.산점도_res.html,(static/img/scatter.png),
+/hotPlaces,hotPlaces(),GET,-,10.HotPlaces.html,-,
+/hotPlaces,hotPlaces(),POST,"place1,place2,place3",10.HotPlaces_res.html,(static/img/hotPlace.html),
+/interpark,interpark(),GET,-,11.interpark.html,book_list,
+/progress,progress(),GET,-,13.progressbar.html,,

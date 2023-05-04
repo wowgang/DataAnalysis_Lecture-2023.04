@@ -2,9 +2,11 @@
 {% block title %}산점도결과{% endblock %}
 {% block subtitle %}산점도결과<i class="fas fa-home"></i>{% endblock %}
 {% block content %}
+<div class="row text-center">
    <h3>산점도 결과</h3>
     <hr>
     <img src="{{url_for('static', filename='img/scatter.png')}}" >
     <br><br>
     <button onclick="location.href='/scatter'">재실행</button>
+</div>
 {% endblock %}

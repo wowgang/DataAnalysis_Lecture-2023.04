@@ -1,33 +1,46 @@
 {% extends "14.base.html" %}
 {% block title %}산점도{% endblock %}
 {% block subtitle %}산점도<i class="fas fa-home"></i>{% endblock %}
+{% block add_body %}
+    <style>
+        td  {text-align: center;}
+    </style>
+{% endblock %}
 {% block content %}
+    
 
-    <form action="/scatter" method="post">
-        <table>
-            <tr>
-                <td>점의 개수</td>
-                <td><input type="text" name="num"></td>
-            </tr>
-            <tr>
-                <td>X축 평균</td>
-                <td><input type="text" name="mean"></td>
-            </tr>
-            <tr>
-                <td>X축 표준편차</td>
-                <td><input type="text" name="std"></td>
-            </tr>
-            <tr>
-                <td>Y축 최소값</td>
-                <td><input type="text" name="min"></td>
-            </tr>
-            <tr>
-                <td>Y축 최대값</td>
-                <td><input type="text" name="max"></td>
-            </tr>
-            <tr>
-                <td colspan="2"><input type="submit" value="확인"></td>
-            </tr>
-        </table>
-    </form>
+    <div class="row text-center">
+        <h3>산점도</h3>
+        <div class="col-3"></div>
+        <div class="col-6">
+        <form action="/scatter" method="post">
+            <table>
+                <tr>
+                    <td><label class="col-form-label"> 점의 개수</label></td>
+                    <td><input type="text" name="num" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td><label class="col-form-label"> X축 평균</label></td>
+                    <td><input type="text" name="mean" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td><label class="col-form-label"> X축 표준편차</label></td>
+                    <td><input type="text" name="std" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td><label class="col-form-label"> Y축 최소값</label></td>
+                    <td><input type="text" name="min" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td><label class="col-form-label"> Y축 최대값</label></td>
+                    <td><input type="text" name="max" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="submit" value="확인" ></td>
+                </tr>
+            </table>
+        </form>
+        </div>
+        <div class="col-3"></div>
+    </div>
 {% endblock %}
