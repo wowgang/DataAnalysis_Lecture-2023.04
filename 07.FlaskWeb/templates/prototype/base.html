@@ -15,103 +15,102 @@
         a { text-decoration: none; }
 
     </style>
-    <!-- 명언,주소,날씨 js -->
+    <!-- 명언,주소,날씨,프로필사진 js -->
     <script src="{{url_for('static', filename='js/ajax.js')}}"></script>
     {% block additional_head %}{% endblock %}
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" >
-        <div class="container-fluid">
-          <a class="navbar-brand" href="#"><img src="./static/img/ck-logo.png" height="36"></a>
-            <ul class="navbar-nav me-auto"> 
-              <li class="nav-item">
-                <a class="nav-link  {% if menu.ho %}active{% endif %}" href="{% if menu.ho %}#{% else %}/{% endif %}"><i class="fa-solid fa-g"></i> Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link  {% if menu.us %}active{% endif %}" href="{% if menu.us %}#{% else %}/naso{% endif %}"><i class="fa-solid fa-person-breastfeeding"></i> 사용자</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle {% if menu.cr %}active{% endif %}" href="/" role="button" data-bs-toggle="dropdown"><i class="fa-solid fa-ghost"></i> 크롤링</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="/interpark">인터파크</a></li>
-                  <li><a class="dropdown-item" href="/geniechart">지니차트</a></li>
-                  <li><a class="dropdown-item" href="/sigsin">식신</a></li>
-                  <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="#">Another link</a></li>
-                </ul>
-              </li>
-              <li class="nav-item ">
-                <a class="nav-link {% if menu.sc %}active{% endif %}" href="{% if menu.sc %}#{% else %}/schedule{% endif %}"><i class="fa-solid fa-calendar-days"></i> 스케줄</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#"><i class="fa-solid fa-right-from-bracket"></i> 로그아웃</a>
-              </li>
-            </ul>
-            <span class="navbar-text me-3">{% block weather %}{% endblock %}</span>
-        </div>
-    </nav> 
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#"><img src="./static/img/ck-logo.png" height="36"></a>
+          <ul class="navbar-nav me-auto"> 
+            <li class="nav-item">
+              <a class="nav-link  {% if menu.ho %}active{% endif %}" href="{% if menu.ho %}#{% else %}/{% endif %}"><i class="fa-solid fa-g"></i> Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  {% if menu.us %}active{% endif %}" href="{% if menu.us %}#{% else %}/naso{% endif %}"><i class="fa-solid fa-person-breastfeeding"></i> 사용자</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle {% if menu.cr %}active{% endif %}" href="/" role="button" data-bs-toggle="dropdown"><i class="fa-solid fa-ghost"></i> 크롤링</a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="/interpark">인터파크</a></li>
+                <li><a class="dropdown-item" href="/geniechart">지니차트</a></li>
+                <li><a class="dropdown-item" href="/sigsin">식신</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="#">Another link</a></li>
+              </ul>
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link {% if menu.sc %}active{% endif %}" href="{% if menu.sc %}#{% else %}/schedule{% endif %}"><i class="fa-solid fa-calendar-days"></i> 스케줄</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="fa-solid fa-right-from-bracket"></i> 로그아웃</a>
+            </li>
+          </ul>
+          <span class="navbar-text me-3">{% block weather %}{% endblock %}</span>
+      </div>
+  </nav> 
             
-    
-    <div class="container" style="margin-left: 5%; margin-top: 80px;">
-      <div class="row">
-        <div class="col-3">
-            <a href="javascript:changePfofile()">
-              <img id="profile" src="{{url_for('static', filename='data/profile.png')}}" class="rounded-circle" style="width:90%" >
-              <!-- <img class="rounded-circle" src="https://picsum.photos/256/256" alt="Card image" style="width:90%"> -->
+  <div class="container" style="margin-left: 5%; margin-top: 80px;">
+    <div class="row">
+      <div class="col-3">
+          <a href="javascript:changePfofile()">
+            <img id="profile" src="{{url_for('static', filename='data/profile.png')}}" class="rounded-circle" style="width:90%" >
+            <!-- <img class="rounded-circle" src="https://picsum.photos/256/256" alt="Card image" style="width:90%"> -->
+          </a>
+          <div id="imageInput" class="mt-2 d-none">
+            <input type="file" id="image" class="form-control form-control-sm">
+            <a href="javascript:imageSubmit()">
+              <span class="badge bg-primary">확인</span>
             </a>
-            <div id="imageInput" class="mt-2 d-none">
-              <input type="file" id="image" class="form-control form-control-sm">
-              <a href="javascript:imageSubmit()">
+          </div>
+          <div class="mt-2">
+            <p style="font-size:small">
+              <span id="quoteMsg">{{ quote }}</span>
+              <a href="javascript:changeQuote()"><span class="badge bg-secondary">수정</span> </a> </p>
+          </div>
+          <div class="mt-2">
+            <img src="{{url_for('static', filename='img/github.png')}}" alt="email" style="width:18px;"> 2023@gmail.com<br>
+          
+          <div class="text-primary"><img src="{{url_for('static', filename='img/insta.png')}}" alt="name" style="width:18px;"> james</div>
+          <div class="text-primary"><img src="{{url_for('static', filename='img/facebook.png')}}" alt="facebook" style="width:18px;"> jamesFacebook</div>
+          <a href="#" onclick="changedAddr(); return false;">
+            <img src="{{url_for('static', filename='img/addr.png')}}" alt="address" style="width:18px;"> 
+          </a>
+            <span id="addr">{{ addr }}</span> 
+            <a href="javascript:changedWeather()" onclick="changedWeather(); return false;">
+              <span class="badge text-bg-secondary">날씨</span>
+            </a>
+          <div id="addrInput" class="mt-2 d-none">
+            <!--calss="mt2 d-none" display가 보이지않음  -->
+            <input type="text" id="addrInputTag" 
+              class="form-control form-control-sm" 
+              onkeyup="if(window.event.keyCode==13) {addrSubmit()}">
+              <a href="javascript:addrSubmit()">
                 <span class="badge bg-primary">확인</span>
               </a>
-            </div>
-            <div class="mt-2">
-              <p style="font-size:small">
-                <span id="quoteMsg">{{ quote }}</span>
-                <a href="javascript:changeQuote()"><span class="badge bg-secondary">수정</span> </a> </p>
-            </div>
-            <div class="mt-2">
-              <img src="{{url_for('static', filename='img/github.png')}}" alt="email" style="width:18px;"> 2023@gmail.com<br>
-            
-            <div class="text-primary"><img src="{{url_for('static', filename='img/insta.png')}}" alt="name" style="width:18px;"> james</div>
-            <div class="text-primary"><img src="{{url_for('static', filename='img/facebook.png')}}" alt="facebook" style="width:18px;"> jamesFacebook</div>
-            <a href="#" onclick="changedAddr(); return false;">
-              <img src="{{url_for('static', filename='img/addr.png')}}" alt="address" style="width:18px;"> 
-            </a>
-              <span id="addr">{{ addr }}</span> 
-              <a href="javascript:changedWeather()" onclick="changedWeather(); return false;">
-                <span class="badge text-bg-secondary">날씨</span>
-              </a>
-            <div id="addrInput" class="mt-2 d-none">
-              <!--calss="mt2 d-none" display가 보이지않음  -->
-              <input type="text" id="addrInputTag" 
-                class="form-control form-control-sm" 
-                onkeyup="if(window.event.keyCode==13) {addrSubmit()}">
-                <a href="javascript:addrSubmit()">
-                  <span class="badge bg-primary">확인</span>
-                </a>
-            </div>
-              <div id="weather"></div>
-            </div>
-              <p></p>
-              <button type="button" class="btn btn-outline-primary btn-sm"> Edit Profile</button>
-        </div>
-
-          <div class="col-9">
-            <h3>{% block subtitle %}{% endblock %}</h3>
-            <hr>
-          {% block content %}{% endblock %}
           </div>
-        </div>
-    </div>
-
-    <nav class="navbar navbar-expand-sm bg-light fixed-bottom">
-      <div class="container-fluid justify-content-center" style="opacity:0.5">
-        Copyright &copy; 2023-202 GR World Corp. ALL rights reserved.
+            <div id="weather"></div>
+          </div>
+            <!-- <p></p> -->
+            <!-- <button type="button" class="btn btn-outline-primary btn-sm"> Edit Profile</button> -->
       </div>
-    </nav>
-    {% block additional_body %}{% endblock %}
+
+        <div class="col-9">
+          <h3>{% block subtitle %}{% endblock %}</h3>
+          <hr>
+        {% block content %}{% endblock %}
+        </div>
+      </div>
+  </div>
+
+  <nav class="navbar navbar-expand-sm bg-light fixed-bottom">
+    <div class="container-fluid justify-content-center" style="opacity:0.5">
+      Copyright &copy; 2023-202 GR World Corp. ALL rights reserved.
+    </div>
+  </nav>
+  {% block additional_body %}{% endblock %}
       
 </body>
 </html>
