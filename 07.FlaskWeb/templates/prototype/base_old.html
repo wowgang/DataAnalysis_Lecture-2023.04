@@ -8,15 +8,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://kit.fontawesome.com/29799bf237.js" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
     <title>{% block title %}{% endblock %}</title>
     <style>
        * { font-family: 'Noto Sans KR', sans-serif; }
         a { text-decoration: none; }
 
     </style>
-    <!-- 명언,주소,날씨 js -->
-    <script src="{{url_for('static', filename='js/ajax.js')}}"></script>
     {% block additional_head %}{% endblock %}
 </head>
 
@@ -56,46 +53,21 @@
     <div class="container" style="margin-left: 5%; margin-top: 80px;">
       <div class="row">
         <div class="col-3">
-            <a href="javascript:changePfofile()">
-              <img id="profile" src="{{url_for('static', filename='data/profile.png')}}" class="rounded-circle" style="width:90%" >
-              <!-- <img class="rounded-circle" src="https://picsum.photos/256/256" alt="Card image" style="width:90%"> -->
-            </a>
-            <div id="imageInput" class="mt-2 d-none">
-              <input type="file" id="image" class="form-control form-control-sm">
-              <a href="javascript:imageSubmit()">
-                <span class="badge bg-primary">확인</span>
-              </a>
-            </div>
+            <img class="rounded-circle" src="https://picsum.photos/256/256" alt="Card image" style="width:90%">
             <div class="mt-2">
               <p style="font-size:small">
-                <span id="quoteMsg">{{ quote }}</span>
-                <a href="javascript:changeQuote()"><span class="badge bg-secondary">수정</span> </a> </p>
+                오늘의 명언을 이자리에 표시합니다.
+                <span class="badge bg-secondary">수정</span> </p> 
             </div>
             <div class="mt-2">
-              <img src="{{url_for('static', filename='img/github.png')}}" alt="email" style="width:18px;"> 2023@gmail.com<br>
+              <img src="{{url_for('static', filename='img/github.png')}}" alt="email" style="width:18px;"> james2023@gmail.com<br>
             
             <div class="text-primary"><img src="{{url_for('static', filename='img/insta.png')}}" alt="name" style="width:18px;"> james</div>
             <div class="text-primary"><img src="{{url_for('static', filename='img/facebook.png')}}" alt="facebook" style="width:18px;"> jamesFacebook</div>
-            <a href="#" onclick="changedAddr(); return false;">
-              <img src="{{url_for('static', filename='img/addr.png')}}" alt="address" style="width:18px;"> 
-            </a>
-              <span id="addr">{{ addr }}</span> 
-              <a href="javascript:changedWeather()" onclick="changedWeather(); return false;">
-                <span class="badge text-bg-secondary">날씨</span>
-              </a>
-            <div id="addrInput" class="mt-2 d-none">
-              <!--calss="mt2 d-none" display가 보이지않음  -->
-              <input type="text" id="addrInputTag" 
-                class="form-control form-control-sm" 
-                onkeyup="if(window.event.keyCode==13) {addrSubmit()}">
-                <a href="javascript:addrSubmit()">
-                  <span class="badge bg-primary">확인</span>
-                </a>
+            <img src="{{url_for('static', filename='img/addr.png')}}" alt="address" style="width:18px;"> 용인지 수지구 <span class="badge text-bg-secondary">날씨</span><br>
             </div>
-              <div id="weather"></div>
-            </div>
-              <p></p>
-              <button type="button" class="btn btn-outline-primary btn-sm"> Edit Profile</button>
+            <p></p>
+            <button type="button" class="btn btn-outline-primary btn-sm"> Edit Profile</button>
         </div>
 
           <div class="col-9">

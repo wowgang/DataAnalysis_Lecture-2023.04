@@ -36,6 +36,7 @@ def hot_places(places, app):    # app.static_folder을 위해 app인자를 하�
 
     df['위도'] = lat_list
     df['경도'] = lng_list
+    
 
 
     # map그리기
@@ -51,3 +52,25 @@ def hot_places(places, app):    # app.static_folder을 위해 app인자를 하�
     map.save(filename) # 맵 저장하기
     # return render_template('10.HotPlaces_res.html') # 지도여기에 보여줘라
 
+
+# 주소에서 위도,경도 얻어서 날씨구하려고 
+def get_coord(addr):
+    with open('../04.지도시각화/data/roadapikey.txt') as f:
+        road_key = f.read()
+    base_url = 'https://www.juso.go.kr/addrlink/addrLinkApiJsonp.do' #가이드에있는 API기본정보 get호출
+    params1 = f'confmKey={road_key}&currentPage=1&countPerPage=10'
+    params2 = f"keyword={quote(addr)}&resultType=json" 
+    url = f'{base_url}?{params1}&{params2}' 
+    result = requests.get(url)
+    res = json.loads(result.text[1:-1])
+    road_addr = res['results']['juso'][0]['roadAddr']
+
+    with open('../04.지도시각화/data/kakaoapikey.txt') as f:
+        kakao_key = f.read()
+    base_url = 'https://dapi.kakao.com/v2/local/search/address.json' # 카카오 Request get
+    header = {'Authorization': f'KakaoAK {kakao_key}'}
+    url = f'{base_url}?query={quote(road_addr)}'
+    result = requests.get(url, headers=header).json() 
+    lat = float(result['documents'][0]['y'])
+    lng = float(result['documents'][0]['x'])
+    return lat, lng
