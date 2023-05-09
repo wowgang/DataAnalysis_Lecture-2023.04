@@ -8,10 +8,18 @@ th{text-align: center;}
 td{text-align: center;}
 </style>
 {% endblock %}
-{% block subtitle %}수원맛집{% endblock %}
+{% block subtitle %}식신검색결과{% endblock %}
 {% block content %}    
-    <form action="interpark" method="post" >
-    <table border="1" class="table table-bordered table-sm">
+    <form action="sigsin" method="post">
+        <table>
+            <tr>
+                <td style="width: 80%;"><input class="form-control" type="text" name="places"></td>
+                <td><input class="btn btn-primary ms-3" type="submit" value="제출"></td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <table class="table">
         <tr>
             <th>이미지</th>
             <th>타이틀</th>
@@ -29,5 +37,6 @@ td{text-align: center;}
         </tr>
         {% endfor %}
     </table>
-    </form>
+    
     {% endblock %}
+    

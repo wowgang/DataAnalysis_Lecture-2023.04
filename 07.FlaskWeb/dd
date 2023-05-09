@@ -68,3 +68,9 @@ model view control
 app.py는 control만해
 view는 templates/
 model은 db access, biz logic
+
+
+web	{{ secssion }}
+ajax return str
+html return render_template()
+url return redirect()

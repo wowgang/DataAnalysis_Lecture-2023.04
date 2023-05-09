@@ -1,0 +1,8 @@
+{% extends "prototype/base.html" %}
+{% block title %}핫플레이스 결과{% endblock %}
+{% block weather %}{{ weather | safe() }}{% endblock %}
+{% block subtitle %}핫플레이스 결과<i class="fas fa-home"></i>{% endblock %}
+{% block content %}
+    <iframe src="{{url_for('static', filename='img/hotPlaces.html')}}" frameborder="1" width="800" height="500"></iframe>
+    <button onclick="location.href='/hotPlaces'">재실행</button>
+{% endblock %}

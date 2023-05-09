@@ -2,17 +2,16 @@
 import os, random
 import numpy as np
 import matplotlib.pyplot as plt
-from flask import Flask , render_template, request
+from flask import Flask , render_template, request,redirect
 import map_util as mu # 내가 만든 파일import한거
 import interpark_util as inter
 import sigsin_util as sigsin
 import genie_util as genie
 from weather_util import get_weather, get_weather_by_coord
 import image_util as iu
-import time
 
 app = Flask(__name__)
-# 구버전
+# # 구버전
 # @app.before_first_request
 # def before_first_request():
 #     global quote,quotes  # quotes 함수 밖에서도 사용가능변수가됨 / 전역변수
@@ -63,6 +62,11 @@ def change_profile():
     mtime = iu.change_profile(app, filename)
     return str(mtime)
 #####################
+
+@app.route('/user')
+def user():
+    menu = {'ho':0, 'us':1, 'cr':0, 'sc':0}
+    return redirect('/schedule')
 
 
 @app.route('/')

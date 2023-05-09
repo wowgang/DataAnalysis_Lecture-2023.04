@@ -37,9 +37,11 @@ function changeQuote() {
 
     });
   }
+  
   function changePfofile(){
     $('#imageInput').attr('class', 'mt-2');
   }
+  
   function imageSubmit(){
     let imageInputVal = $('#image')[0];
     let formData = new FormData();
@@ -57,3 +59,4 @@ function changeQuote() {
       }
     });
   }
+  
