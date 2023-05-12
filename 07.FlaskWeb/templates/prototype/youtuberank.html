@@ -1,0 +1,28 @@
+{% extends "prototype/pbase.html" %}
+{% block title %}유튜브차트{% endblock %}
+{% block content %}
+<h3>유튜브Top1000</h3>
+<hr>
+<a href="/y20"><button style="width: 80%;">top20</button></a>
+<br>
+<table class="table">
+    <tr>
+        <th>순위</th>
+        <th>카테고리</th>
+        <th>채널명</th>
+        <th>구독자수</th>
+        <th>조회수</th>
+        <th>비디오</th>
+    </tr>
+    {% for youtube in youtube_list %}
+    <tr>
+        <td style="text-align: center;">{{youtube.순위}}</td>
+        <td style="text-align: center;">{{youtube.카테고리}}</a></td>
+        <td style="text-align: center;">{{youtube.채널명}}</td>
+        <td style="text-align: center;">{{youtube.구독자수}}</td>
+        <td style="text-align: center;">{{youtube.조회수}}</td>
+        <td style="text-align: center;">{{youtube.비디오}}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}
