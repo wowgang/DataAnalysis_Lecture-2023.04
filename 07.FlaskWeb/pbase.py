@@ -22,28 +22,37 @@ def melon():
     melon_list = mu.melonutil()
     return render_template('prototype/melon.html', melon_list=melon_list)
 
-@app.route('/youtube_ranking')
+@app.route('/youtube_ranking', methods=['GET','POST'])
 def youtuberank():
-    youtube_list = yr.youtuberankutil()
-    return render_template('prototype/youtuberank.html', youtube_list=youtube_list)
+    if request.method == 'GET':
+        return render_template('prototype/spinner.html')
+    else:
+        youtube_list = yr.youtuberankutil()
+        return render_template('prototype/youtuberank.html', youtube_list=youtube_list)
 
-@app.route('/y20')
+@app.route('/y20', methods=['GET','POST'])
 def y20():
-    youtube_list = yr.youtuberankutil()
-    return render_template('prototype/y20.html',youtube_list=youtube_list )
+    if request.method == 'GET':
+        return render_template('prototype/spinner.html')
+    else:
+        youtube_list = yr.youtuberankutil()
+        return render_template('prototype/y20.html',youtube_list=youtube_list )
 
-@app.route('/yc10')
+@app.route('/yc10', methods=['GET','POST'])
 def yc10():
-    youtube_list = yr.youtuberankutil()
-    a = pd.read_csv("static/카테고리10.csv", sep=",")
-    dic=[]
-    for i in range(10):
-        dic.append(a.iloc[i][0])
-        dic.append(a.iloc[i][1])
-    names = dic[::2]
-    values = dic[1::2]
-    my_dict = {names[i]: values[i] for i in range(len(names))}
-    return render_template('prototype/yc10.html',youtube_list=youtube_list, my_dict=my_dict, names=names,values=values )
+    if request.method == 'GET':
+        return render_template('prototype/spinner.html')
+    else:
+        youtube_list = yr.youtuberankutil()
+        a = pd.read_csv("static/카테고리10.csv", sep=",")
+        dic=[]
+        for i in range(10):
+            dic.append(a.iloc[i][0])
+            dic.append(a.iloc[i][1])
+        names = dic[::2]
+        values = dic[1::2]
+        my_dict = {names[i]: values[i] for i in range(len(names))}
+        return render_template('prototype/yc10.html',youtube_list=youtube_list, my_dict=my_dict, names=names,values=values )
 
 if __name__ == '__main__': 
     app.run(debug=True)

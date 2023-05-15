@@ -1,0 +1,19 @@
+{% extends "prototype/pbase.html" %}
+{% block title %}유튜브차트{% endblock %}
+{% block content %}
+<h3>유튜브Top1000</h3>
+<hr>
+<a href="/y20"><button style="width: 50%;">Top20</button></a>
+<a href="/yc10"><button style="width: 50%;">카테고리별Top10</button></a>
+<br>
+<img src="{{ url_for('static', filename='please-wait.gif')}}" alt="">
+<form style="display: none;" action="/youtube_ranking" method="post" id="form">
+    <input type="hidden" id="dummy">
+</form>
+<script>
+    window.onload = function() {
+        let form = document.getElementById('form')
+        form.submit();
+    }
+</script>
+{% endblock %} 
