@@ -4,7 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
-
+ 
 
 def convert(s):
     s = s.replace('억','').replace('개','').replace(',','').replace('만','0000')

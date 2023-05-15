@@ -2,7 +2,7 @@ import requests
 from urllib.parse import quote
 import pandas as pd
 from bs4 import BeautifulSoup
-
+ 
 def melonutil():
     url = 'https://www.melon.com/chart/'
     header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'}

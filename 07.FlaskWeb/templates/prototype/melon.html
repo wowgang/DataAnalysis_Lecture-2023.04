@@ -1,5 +1,10 @@
 {% extends "prototype/pbase.html" %}
 {% block title %}멜론차트{% endblock %}
+{% block additional_head %}
+<style>
+    td{text-align: center;}
+</style>
+{% endblock %}
 {% block content %}
 <h3>멜론Top100</h3>
 <hr>
@@ -13,12 +18,12 @@
     </tr>
     {% for melon in melon_list %}
     <tr>
-        <td style="text-align: center;">{{melon.순위}}</td>
-        <td><a href="{{melon.href}}" target="_blank">{{melon.제목}}</a></td>
-        <td>{{melon.아티스트}}</td>
-        <td>{{melon.앨범}}</td>
-        <td style="text-align: center;"><img src="{{melon.이미지}}" height="40"></td>
+        <td width="8%">{{melon.순위}}</td>
+        <td width="20%"><a href="{{melon.href}}" target="_blank">{{melon.제목}}</a></td>
+        <td width="20%">{{melon.아티스트}}</td>
+        <td width="30%">{{melon.앨범}}</td>
+        <td width="40%"><img src="{{melon.이미지}}" height="40"></td>
     </tr>
     {% endfor %}
 </table>
-{% endblock %}
+{% endblock %} 
