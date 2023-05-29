@@ -1,6 +1,43 @@
 songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,plylstSeq
-57583,오래전 그날,윤종신,발라드,The Natural,박주연,윤종신,19931101,https://cdnimg.melon.co.kr/cm/album/images/000/04/382/4382_500.jpg/melon/resize/282/quality/80/optimize,47,27194,,406125585 418666508
-1931126,칵테일 사랑,마로니에,댄스,칵테일 사랑,김선민,김선민,19940301,https://cdnimg.melon.co.kr/cm/album/images/003/98/193/398193_500.jpg/melon/resize/282/quality/80/optimize,127,39228,"마음 울쩍한날엔 거리를 걸어보고 
+57583,오래전 그날,윤종신,발라드,The Natural,박주연,윤종신,19931101,https://cdnimg.melon.co.kr/cm/album/images/000/04/382/4382_500.jpg/melon/resize/282/quality/80/optimize,47,27206,"교복을 벗고 처음으로 만났던 너
+그때가 너도 가끔 생각 나니
+뭐가 그렇게도 좋았었는지
+우리들만 있으면
+너의 집 데려다 주던 길을 걸으며
+수줍게 나눴던 많은 꿈
+너를 지켜주겠다던 다짐 속에
+그렇게 몇해는 지나
+너의 새 남자친구 얘길 들었지
+나 제대하기 얼마 전
+이해했던 만큼 미움도 커졌었지만
+오늘 난 감사 드렸어
+몇 해 지나 얼핏 너를 봤을때
+누군가 널 그처럼 아름답게
+지켜주고 있었음을
+그리고 지금 내 곁엔
+나만을 믿고 있는 한 여자와
+잠못드는 나를 달래는 오래전 그 
+노래 만이
+새 학기가 시작되는 학교에는
+그 옛날 우리의 모습이 있지
+뭔가 분주하게 약속이 많은
+스무살의 설레임
+너의 학교 그 앞을 난 가끔 거닐지
+일상에 찌들어 갈때면
+우리 슬픈 계산이 없었던 시절
+난 만날수 있을테니
+너의 새 남자친구 얘길 들었지
+나 제대하기 얼마 전
+이해했던 만큼 미움도 커졌었지만
+오늘 난 감사 드렸어
+몇 해 지나 얼핏 너를 봤을때
+누군가 널 그처럼 아름답게
+지켜주고 있었음을
+그리고 지금 내 곁엔
+나만을 믿고 있는 한 여자와
+잠못드는 나를 달래는 오래전 그 
+노래 만이",406125585 418666508
+1931126,칵테일 사랑,마로니에,댄스,칵테일 사랑,김선민,김선민,19940301,https://cdnimg.melon.co.kr/cm/album/images/003/98/193/398193_500.jpg/melon/resize/282/quality/80/optimize,127,39279,"마음 울쩍한날엔 거리를 걸어보고 
 향기로운 칵테일에 취해도 보고 
 한편의 시가 있는 전시회장도 가고 
 밤새도록 그리움에 편지 쓰고파 
@@ -36,7 +73,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 향기로운 칵테일에 취해도 보고 
 한편의 시가 있는 전시회장도 가고 
 밤새도록 그리움에 편지 쓰고파",406125585 100098244
-38757,넌 할 수 있어,강산에,록/메탈,나는 사춘기,강산에,나비,1994,https://cdnimg.melon.co.kr/cm/album/images/000/03/031/3031_500.jpg/melon/resize/282/quality/80/optimize,23,4780,"후회하고 있다면 
+38757,넌 할 수 있어,강산에,록/메탈,나는 사춘기,강산에,나비,1994,https://cdnimg.melon.co.kr/cm/album/images/000/03/031/3031_500.jpg/melon/resize/282/quality/80/optimize,23,4777,"후회하고 있다면 
 깨끗이 잊어버려  
 가위로 오려낸 것처럼 
 다 지난 일이야  
@@ -73,7 +110,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 마음있으니 
 굴하지 않는 보석같은
 마음있으니",418666508 439683766
-91116,립스틱 짙게 바르고,임주리,성인가요/트로트,임주리3집[그대 떠난 뒤],양인자,김희갑,-,https://cdnimg.melon.co.kr/cm/album/images/000/04/686/4686_500.jpg/melon/resize/282/quality/80/optimize,3,1853,"내일이면 잊으리 꼭 잊으리 
+91116,립스틱 짙게 바르고,임주리,성인가요/트로트,임주리3집[그대 떠난 뒤],양인자,김희갑,,https://cdnimg.melon.co.kr/cm/album/images/000/04/686/4686_500.jpg/melon/resize/282/quality/80/optimize,3,1853,"내일이면 잊으리 꼭 잊으리 
 립스틱 짙게 바르고 
 사랑이란 길지가 않더라 
 영원하지도 않더라 
@@ -95,7 +132,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 내정녕 당신을 잊어주리라 
 별이 지고 이밤도 가고나면 
 내 정녕 당신을 잊어 주리라",425524406 439476159
-91114,난 널 사랑해,신효범,발라드,Shin Hyo Bum,엄승섭,신성호,19940401,https://cdnimg.melon.co.kr/cm/album/images/000/04/267/4267_500.jpg/melon/resize/282/quality/80/optimize,20,9713,"힘겨운 아침 햇살을
+91114,난 널 사랑해,신효범,발라드,Shin Hyo Bum,엄승섭,신성호,19940401,https://cdnimg.melon.co.kr/cm/album/images/000/04/267/4267_500.jpg/melon/resize/282/quality/80/optimize,20,9714,"힘겨운 아침 햇살을
 받으며 눈을 뜨니
 어제의 내가 아님을
 나는 느꼈던거야
@@ -121,36 +158,31 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 너의 모든 몸짓이 큰 의미인걸
 난 널 사랑해
 내 마음 깊은곳에 영원히",101516705 406125585
-61829,마법의 성,더 클래식,발라드,마법의 성,김광진,김광진,199407,https://cdnimg.melon.co.kr/cm/album/images/000/05/381/5381_500.jpg/melon/resize/282/quality/80/optimize,84,19294,"믿을 수 있나요 나의 꿈 속에서 
+61829,마법의 성,더 클래식,발라드,마법의 성,김광진,김광진,199407,https://cdnimg.melon.co.kr/cm/album/images/000/05/381/5381_500.jpg/melon/resize/282/quality/80/optimize,84,19298,"믿을 수 있나요 나의 꿈 속에서 
 너는 마법에 빠진 공주란걸 
 언제나 너를 향한 몸짓엔 
 수많은 어려움 뿐이지만 
-
 그러나 언제나 굳은 다짐 뿐이죠 
 다시 너를 구하고 말거라고 
 두 손을 모아 기도했죠 
 끝 없는 용기와 지혤 달라고 
-
 마법의 성을 지나 늪을 건너 
 어둠의 동굴 속 멀리 그대가 보여 
 이제 나의 손을 잡아보아요 
 우리의 몸이 떠오르는 것을 느끼죠 
-
 자유롭게 저 하늘을 
 날아가도 놀라지 말아요 
 우리 앞에 펼쳐질 세상이 
 너무나 소중해 함께라면 
-
 마법의 성을 지나 늪을 건너 
 어둠의 동굴 속 멀리 그대가 보여 
 이제 나의 손을 잡아보아요 
 우리의 몸이 떠오르는 것을 느끼죠 
-
 자유롭게 저 하늘을 
 날아가도 놀라지 말아요 
 우리 앞에 펼쳐질 세상이 
 너무나 소중해 함께 있다면 -",406125585 418666508
-3363619,일과 이분의 일,투투,댄스,일과 이분의 일,오지훈,오지훈,1994,https://cdnimg.melon.co.kr/cm/album/images/012/46/881/1246881_500.jpg/melon/resize/282/quality/80/optimize,105,43860,"멀리서 널 보았을 때 
+3363619,일과 이분의 일,투투,댄스,일과 이분의 일,오지훈,오지훈,1994,https://cdnimg.melon.co.kr/cm/album/images/012/46/881/1246881_500.jpg/melon/resize/282/quality/80/optimize,105,43883,"멀리서 널 보았을 때 
 다른 길로 갈까 생각했는데 
 변한듯한 널 보고 싶고 
 짧은 인사 할까하는 마음에 
@@ -202,8 +234,8 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 네가 가져간 나의 
 반쪽 때문인가 
 그래서 넌 둘이 될 수 
-있었던거야",
-851719,서시,신성우,록/메탈,서시,신성우,이근상,19940701,https://cdnimg.melon.co.kr/cm/album/images/003/03/596/303596_500.jpg/melon/resize/282/quality/80/optimize,44,28886,"해가 지기전에 가려했지  
+있었던거야",466256773 406125585
+851719,서시,신성우,록/메탈,서시,신성우,이근상,19940701,https://cdnimg.melon.co.kr/cm/album/images/003/03/596/303596_500.jpg/melon/resize/282/quality/80/optimize,44,28896,"해가 지기전에 가려했지  
 너와 내가 있던 그 언덕  
 풍경속에  
 아주 키작은 그 마음으로  
@@ -280,7 +312,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 그대가 믿기만 한다면
 언젠가 새로운
 모습이 되었을거야
-
 나에게 힘든
 수많은 일들
 나를 쓰러지게
@@ -303,7 +334,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 또 여긴 어딘가
 이젠 우리 앞을
 향해서만 나가겠어-
-
 난 누군가
 또 여긴 어딘가
 지금 저 멀리서
@@ -312,7 +342,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 또 여긴 어딘가
 이젠 우린 앞을
 향해서만 나가겠어-",406125585 408492850
-91475,멀어져 간 사람아,박상민,발라드,멀어져간 사람아,신대철,신대철,199403,https://cdnimg.melon.co.kr/cm/album/images/000/03/844/3844_500.jpg/melon/resize/282/quality/80/optimize,13,5510,"내게 사랑한다는 말하고 
+91475,멀어져 간 사람아,박상민,발라드,멀어져간 사람아,신대철,신대철,199403,https://cdnimg.melon.co.kr/cm/album/images/000/03/844/3844_500.jpg/melon/resize/282/quality/80/optimize,13,5516,"내게 사랑한다는 말하고 
 멀어져 간 사람아 
 사랑이 무언지도 모르는 그대여 
 내게 안녕이란 말하고 
@@ -337,7 +367,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 머나먼 저 바다로 가면
 찾을 수 있나
 머나먼 저 하늘 위에는
-있지 않을까",
+있지 않을까",100098236 433145748
 742447,추억 #1,조규찬,발라드,따뜻한 커피조차도,조규찬,조규찬,19931101,https://cdnimg.melon.co.kr/cm/album/images/003/01/048/301048_500.jpg/melon/resize/282/quality/80/optimize,4,519,"나에게서 멀어진건
 거짓없는 그대 사랑일뿐
 난 괜찮아 그대 떠나가도
@@ -349,7 +379,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 수 많은 사람과
 그 햇살 그 향기마저도
 잊을 수 있을까
-
 난 ？I찮아 그대 떠나가도
 잊을 수 있어
 그대 웃음마저도
@@ -365,7 +394,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 수많은 얘기와
 그 눈물 뒷모습마저도
 잊을 수 있을까",101595339 429945103
-56449,그냥 걸었어,임종환,발라드,Reggae,김준기,김준기,1994,https://cdnimg.melon.co.kr/cm/album/images/000/06/844/6844_500.jpg/melon/resize/282/quality/80/optimize,17,3753,"처음엔 그냥 걸었어
+56449,그냥 걸었어,임종환,발라드,Reggae,김준기,김준기,1994,https://cdnimg.melon.co.kr/cm/album/images/000/06/844/6844_500.jpg/melon/resize/282/quality/80/optimize,17,3755,"처음엔 그냥 걸었어
 비도 오고 해서
 오랫만에 빗속을 걸으니
 옛 생각도 나데
@@ -382,7 +411,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 우우 우우
 나 그냥 갈까 워워 우워 우워
 워워 워
-
 정말이야 처음엔 그냥 걸었어
 비도 오고 기분도 그렇고해서
 정말이야 거짓말이 아냐
@@ -394,7 +422,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 워워 우워우워 워
 워워 워워 워워 워우
 워우워우 워 워워 워워",406125585 100098244
-1877188,넌 언제나,모노,발라드,넌 언제나,장경아,박정원,19931025,https://cdnimg.melon.co.kr/cm/album/images/003/82/278/382278_500.jpg/melon/resize/282/quality/80/optimize,74,10853,"넌 언제나 넌 언제나 
+1877188,넌 언제나,모노,발라드,넌 언제나,장경아,박정원,19931025,https://cdnimg.melon.co.kr/cm/album/images/003/82/278/382278_500.jpg/melon/resize/282/quality/80/optimize,74,10858,"넌 언제나 넌 언제나 
 하루하루 늘어갈 뿐이야 
 널 향한 그리움은 아픔은 
 늘 새롭지만 넌 너의 길을 가네 
@@ -428,172 +456,119 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 너를 위해 
 내가 살아있다는 걸 느꼈어",485926496 439683766
 32442,자유시대,모자이크,댄스,자유시대,김준범,김준범,199312,https://cdnimg.melon.co.kr/cm/album/images/000/03/464/3464_500.jpg/melon/resize/282/quality/80/optimize,10,2824,"금방 전화를 끊고나서
-
 누구에게
-
 전화를 또 거는건지
-
 같은 농담을
-
 두번씩 하고 있잖아
-
 다른 여자와 길을 걷다
-
 눈에 띌까
-
 불안하지는 않은지
-
 미안한 마음 없다해도
-
 용돈은
-
 어떻게 감당하는지
-
 누구나 한번은
-
 겪어야 할
-
 당연한 경험이라
-
 하는 사람들도 있지
-
 어차피 인생은 선택이라
-
 가슴에 남겨지는
-
 죄책감을 외면하면서
-
 살아가는건
-
 네 마음이겠지
-
 능력있다
-
 말할수도 있지만
-
 단 한명 사랑하기도
-
 쉽지 않은 세상에
-
 상처 받을
-
 그 사람을 생각해
-
-
 
 누구나 한번은
-
 겪어야 할
-
 당연한 경험이라
-
 하는 사람들도 있지
-
 어차피 인생은 선택이라
-
 가슴에 남겨지는
-
 죄책감을 외면하면서
-
 살아가는건
-
 네 마음이겠지
-
 능력있다
-
 말할 수도 있지만
-
 단 한명 사랑하기도
-
 쉽지 않은 세상에
-
 상처 받을
-
 그 사람을 생각해
-
-
 
 라-------라-------
-
 살아가는건
-
 네 마음이겠지
-
 능력있다
-
 말할 수도 있지만
-
 단 한명 사랑하기도
-
 쉽지 않은 세상에
-
 상처받을
-
 그 사람을 생각해
-
 살아가는건
-
 네 마음이겠지
-
 능력있다
-
 말할 수도 있지만
-
 단 한명 사랑하기도
-
 쉽지 않은 세상에
-
 상처받을
-
 그 사람을 생각해
-
 살아가는건
-
 네 마음이겠지
-
 능력있다
-
 말할 수도 있지만
-
 단 한명 사랑하기도
-
 쉽지 않은 세상에
-
 상처받을
-
 그 사람을 생각해
-
 라--------라-------",487081506 101595234
-172354,비창,이상우,발라드 국내드라마,결혼 OST,박수진,안진우,19940201,https://cdnimg.melon.co.kr/cm/album/images/000/08/069/8069_500.jpg/melon/resize/282/quality/80/optimize,7,2817,"나 이제 너를 떠나려 해 
+172354,비창,이상우,발라드 국내드라마,결혼 OST,박수진,안진우,19940201,https://cdnimg.melon.co.kr/cm/album/images/000/08/069/8069_500.jpg/melon/resize/282/quality/80/optimize,7,2818,"나 이제 너를 떠나려 해 
 잠시 너를 외면하려해 
 늘 기다리던 그 길 
 어둠 베인 가슴 안고 
-
 아픔이겠지 함께 듣던 
 피아노 선율까지도 
 낡은 외투에 손을 넣으며 
 가슴 저몄던 날들 
-
 널 항상 기억해 
 힘이 되는 슬픔으로 
 다시 사랑하기 위해 
 널 보내는 거야 
-
 나 이제 너를 떠나려 해 
 잠시 너를 외면하려해 
 늘 기다리던 그 길 
 어둠 베인 가슴 안고 
-
 아픔이겠지 함께듣던 
 피아노 선율까지도 
 낡은 외투에 손을 넣으며 
 가슴 저몄던 날들 
-
 널 항상 기억해 
 힘이 되는 슬픔으로 
 다시 사랑하기 위해 
 널 보내는 거야 -",479848178 101591704
-532083,내게,이승환,발라드,My Story,김광진,김광진,199309,https://cdnimg.melon.co.kr/cm/album/images/000/35/119/35119_500.jpg/melon/resize/282/quality/80/optimize,10,2223,,485926496 449215193
+532083,내게,이승환,발라드,My Story,김광진,김광진,199309,https://cdnimg.melon.co.kr/cm/album/images/000/35/119/35119_500.jpg/melon/resize/282/quality/80/optimize,10,2224,"그렇게 기다리던 당신의 생일인데 
+창 밖으로 그대 모습을 그리고만 있네 
+장미꽃 한 다발을 가슴에 드리고 싶지만 
+표정없는 그대 모습이 너무 두려워 
+돌아갈 수 없는 날이 눈 앞에 그림처럼 스쳐가고 
+남겨진 것은 바래져 가는 사진 하나 
+눈부신 아침햇살이 밝아도 너를 볼 수 없다기에 
+어쩔 수 없이 흘러내린 눈물 
+약해지지마 흔들리지마 내게 다시 올거야 
+넌 이제 나를 슬프게 할 수 없어 그럴 순 없어 
+돌아갈 수 없는 날이 눈 앞에 그림처럼 스쳐가고 
+남겨진 것은 바래져 가는 사진 하나 
+이별이란 말은 우리 사이엔 어울리지 않았지만 
+어쩔 수 없이 흘러내린 눈물 
+ 
+돌아갈 수 없는 날이 눈 앞에 그림처럼 스쳐가고 
+어쩔 수 없이 흘러내린 눈물 
+ 
+약해지지마 흔들리지마 내게 다시 올거야 
+넌 이제 나를 슬프게 할 수 없어 그럴 순 없어 
+믿을 수 없어 약속하지마 내게 그럴 순 없어",485926496 449215193
 39348,혼자만의 사랑,김태영,발라드,Kim Tae Young 1,한경혜,외국 곡,199404,https://cdnimg.melon.co.kr/cm/album/images/000/03/083/3083_500.jpg/melon/resize/282/quality/80/optimize,6,1092,"이젠 너의 모든것을 지워야겠지
 더 짙은 어둠의 숲 저 밖으로
 지금까지 사는건 너 있는 추억 때문이었지
@@ -617,7 +592,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 추억은 이 쯤에서 접어야만 하는 거야
 누구의 가슴으로 기대어 살까
 아픔은 혼자만의 몫인걸 아픔은",433145748 405055297
-57339,너를 사랑해,한동준,발라드,처음 받은 느낌으로,한동준,한동준,199301,https://cdnimg.melon.co.kr/cm/album/images/000/07/237/7237_500.jpg/melon/resize/282/quality/80/optimize,22,15955,"아침이 오는 소리에 문득 
+57339,너를 사랑해,한동준,발라드,처음 받은 느낌으로,한동준,한동준,199301,https://cdnimg.melon.co.kr/cm/album/images/000/07/237/7237_500.jpg/melon/resize/282/quality/80/optimize,22,15961,"아침이 오는 소리에 문득 
 잠에서 깨어
 내 품안에 잠든 너에게 
 워우우워 우워워 너를 사랑해 
@@ -644,7 +619,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 하늘이 우리를 갈라놓을 때까지
 워우우워 우워워 너를 
 사랑해 너를 사랑해",424293700 401699188
-58937,그 후로 오랫동안,신승훈,발라드,그 후로 오랫동안...,신승훈,신승훈,19940915,https://cdnimg.melon.co.kr/cm/album/images/000/04/172/4172_500.jpg/melon/resize/282/quality/80/optimize,29,8355,"우연인지 몰라도 네가 눈물 흘릴 때마다
+58937,그 후로 오랫동안,신승훈,발라드,그 후로 오랫동안...,신승훈,신승훈,19940915,https://cdnimg.melon.co.kr/cm/album/images/000/04/172/4172_500.jpg/melon/resize/282/quality/80/optimize,29,8359,"우연인지 몰라도 네가 눈물 흘릴 때마다
 하늘에선 비가 내렸어
 익숙해져버린 난 그냥 너의 슬픈 눈을 보면서
 차가운 한마디 울지마
@@ -660,7 +635,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 내 님이 있는 곳 너는 쉽게 알 수 있잖아
 내가 살아있는 동안에 한번만이라도 그대를
 우연일지라도 너를 믿을게 너의 눈물 맞으며
-
 그 후로 오랫동안 비가 왔어
 내리는 비만큼 나도 울었어
 하지만 더 견딜 수가 없는 건
@@ -668,8 +642,8 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 하늘이여 나를 도와줘 그렇게 울고 있지 말고
 내 님이 있는 곳 너는 쉽게 알 수 있잖아
 내가 살아있는 동안에 한번만이라도 그대를
-우연일지라도 너를 믿을게 너의 눈물 맞으며",
-108385,마지막 승부,김민교,록/메탈 국내드라마,마지막 승부 OST,강은경,신훈철,19940101,https://cdnimg.melon.co.kr/cm/album/images/000/08/380/8380_500.jpg/melon/resize/282/quality/80/optimize,25,6396,"처음부터 알순 없는 거야  
+우연일지라도 너를 믿을게 너의 눈물 맞으며",445029956 485926496
+108385,마지막 승부,김민교,록/메탈 국내드라마,마지막 승부 OST,강은경,신훈철,19940101,https://cdnimg.melon.co.kr/cm/album/images/000/08/380/8380_500.jpg/melon/resize/282/quality/80/optimize,25,6397,"처음부터 알순 없는 거야  
 그 누구도 본적 없는 내일  
 기대만큼 두려운 미래지만  
 너와 함께 달려가는 거야  
@@ -741,7 +715,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 생각해 봐 생각해 봐
 그 모든 걸 그 모든 걸
 샤바라바라바랍
-
 시간은 그렇게 흘러갔어
 나는 자꾸 널 닮아갔지
 그렇게 세련된 것만
@@ -767,8 +740,36 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 생각해 봐 생각해 봐
 그 모든 걸 그 모든 걸
 생각해 봐 생각해 봐",402472865 403648710
-2796367,그대 사랑안에 머물러,김정민,발라드,김정민,오진우,김은희,19940601,https://cdnimg.melon.co.kr/cm/album/images/009/91/354/991354_500.jpg/melon/resize/282/quality/80/optimize,8,2310,,493754796 485926496
-56245,신(新) 인류의 사랑,015B,록/메탈,The Fourth Movement,정석원,정석원,19930825,https://cdnimg.melon.co.kr/cm/album/images/000/03/472/3472_500.jpg/melon/resize/282/quality/80/optimize,34,6228,"맘에 안드는 그녀에겐
+2796367,그대 사랑안에 머물러,김정민,발라드,김정민,오진우,김은희,19940601,https://cdnimg.melon.co.kr/cm/album/images/009/91/354/991354_500.jpg/melon/resize/282/quality/80/optimize,8,2312,"늘 항상 울고싶진 않지만
+그대 사랑안에 그렇게
+침묵으로 말하는 그대의 
+눈빛으로 난 울었네 
+내게 찾아온 사랑의 힘으로
+어느덧 다가올 그날에
+다시 만날것을 약속하면서
+그대 사랑안에 머물러
+생각해봐요 우리 사랑을
+모든것이 사라진다 해도 
+우리가 나누었던 그날의 꿈들을
+잊을순 없을거야
+언제나 내 마음속 깊은곳에 
+또하나의 그대가 있으므로 
+생각해봐요우리 사랑을
+다시만날 그날을 위해
+
+내게 찾아온 사랑의 힘으로 
+어느덧 다가올 그날에 
+다시 만날것을 약속하면서
+그대 사랑안에 머물러
+생각해봐요 우리 사랑을
+모든것이 사라진다 해도 
+우리가 나누었던 그날의 꿈들을
+잊을순 없을거야
+언제나 내 마음속 깊은곳에
+또하나의 그대가 있으므로 
+생각해봐요 우리 사랑을
+다시 만날 그날을 위해",493754796 485926496
+56245,신(新) 인류의 사랑,015B,록/메탈,The Fourth Movement,정석원,정석원,19930825,https://cdnimg.melon.co.kr/cm/album/images/000/03/472/3472_500.jpg/melon/resize/282/quality/80/optimize,34,6239,"맘에 안드는 그녀에겐
 계속 전화가 오고
 내가 전화하는 그녀는
 나를 피하려 하고
@@ -794,7 +795,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 야이 야이 야이 야
 나도 이젠 다른 친구들처럼
 맘에 드는 누군가를 사귀어 보고 싶어",406125585 413491319
-33046705,사랑하고 있다는 걸,손지창,발라드,사랑하고 있다는걸,손지창,K2 김성면,19940221,https://cdnimg.melon.co.kr/cm2/album/images/105/15/124/10515124_20201106164611_500.jpg?29a7a841101823a0c1f3177fd9e5245a/melon/resize/282/quality/80/optimize,5,272,"기다릴 수 없어 이제는
+33046705,사랑하고 있다는 걸,손지창,발라드,사랑하고 있다는걸,손지창,K2 김성면,19940221,https://cdnimg.melon.co.kr/cm2/album/images/105/15/124/10515124_20201106164611_500.jpg?29a7a841101823a0c1f3177fd9e5245a/melon/resize/282/quality/80/optimize,5,273,"기다릴 수 없어 이제는
 그렇게 쉽게 얘기하지마
 포기할 수 없어 너만은
 모두가 나를 떠나가버려도
@@ -819,7 +820,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 말해줘 말해줘 내가 너를 사랑한만큼
 너도 나를 사랑하고 있다는걸
 너도 나를 사랑하고 있다는걸",477010145 460454166
-33571,날아라 병아리,넥스트,발라드,The Return Of N.EX.T Part 1 The Being,신해철,신해철,19940501,https://cdnimg.melon.co.kr/cm/album/images/000/03/202/3202_500.jpg/melon/resize/282/quality/80/optimize,41,7713,"육교 위의 네모난
+33571,날아라 병아리,넥스트,발라드,The Return Of N.EX.T Part 1 The Being,신해철,신해철,19940501,https://cdnimg.melon.co.kr/cm/album/images/000/03/202/3202_500.jpg/melon/resize/282/quality/80/optimize,41,7714,"육교 위의 네모난
 상자 속에서
 처음 나와 만난
 노란 병아리 얄리는
@@ -872,7 +873,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 굳바이 얄리
 언젠가 다음 세상에도
 내 친구로 태어나 줘",406125585 424293700
-37036,난 너에게,민들레,발라드 포크/블루스,민들레,강영호,강영호,199404,https://cdnimg.melon.co.kr/cm/album/images/000/03/460/3460_500.jpg/melon/resize/282/quality/80/optimize,9,2225,"나 너에게 할말이 있어
+37036,난 너에게,민들레,발라드 포크/블루스,민들레,강영호,강영호,199404,https://cdnimg.melon.co.kr/cm/album/images/000/03/460/3460_500.jpg/melon/resize/282/quality/80/optimize,9,2226,"나 너에게 할말이 있어
 그대에겐 아직 표현 못했지만
 나 그대만을 사랑하고 있어
 얘기할 기회 내게 줘
@@ -907,7 +908,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 포기할 수 없어
 날 돌아봐줘 슬픈 눈물 흘리기엔
 난 아직 그댈 너무 사랑하니까",411322165 430429343
-2323160,하얀 겨울,Mr.2,발라드,미스터 투 1집,오동석,오동석,19931016,https://cdnimg.melon.co.kr/cm/album/images/006/93/152/693152_500.jpg/melon/resize/282/quality/80/optimize,26,7089,"언제부터인지 그댈 
+2323160,하얀 겨울,Mr.2,발라드,미스터 투 1집,오동석,오동석,19931016,https://cdnimg.melon.co.kr/cm/album/images/006/93/152/693152_500.jpg/melon/resize/282/quality/80/optimize,26,7091,"언제부터인지 그댈 
 멀게 느낀건 
 다른 누군가와 함께 
 있는 걸 본 후 
@@ -951,7 +952,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 지난 겨울 어느날 
 함께 지내왔던 날들을 
 그리움의 눈물 흘러 내릴때까지 
-이제 돌아와 줘 내게",
+이제 돌아와 줘 내게",406125585 438456156
 59448,늪,조관우,발라드,My First Story,하광훈,하광훈,19941001,https://cdnimg.melon.co.kr/cm/album/images/000/04/776/4776_500.jpg/melon/resize/282/quality/80/optimize,27,6280,"내가 그녀를 
 처음 본 순간에도
 이미 그녀는 
@@ -1011,7 +1012,6 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 내가 그립지 않을 수 있도록
 행복하길 행복하길 어느 누구보다
 내 슬픈 바램을 들어줘
-
 세상 모든 사람이 나를 떠나버려도
 너만은 나를 찾아 돌아올 고마웠던 사람
 그런 착한 너에게 시린 상처만 주고
@@ -1020,7 +1020,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 아픈 추억에 마음이 메이지 않도록
 행복하길 행복하길 어느 누구보다
 내 슬픈 바램을 들어줘",423913596 413069677
-32676,100일(日)째 만남,룰라,댄스,Roots Of Reggae,강은경,박근태,19940701,https://cdnimg.melon.co.kr/cm/album/images/000/03/424/3424_500.jpg/melon/resize/282/quality/80/optimize,10,1411,"모처럼 큰맘 먹고 너를 위해서 
+32676,100일(日)째 만남,룰라,댄스,Roots Of Reggae,강은경,박근태,19940701,https://cdnimg.melon.co.kr/cm/album/images/000/03/424/3424_500.jpg/melon/resize/282/quality/80/optimize,10,1413,"모처럼 큰맘 먹고 너를 위해서 
 가진 돈 모두 털어 선물을 샀어 
 디기디 
 어떤걸 좋아할지 모르겠지만  
@@ -1086,7 +1086,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 너를 지켜줄테야 
 디기디 디기디 디기디 디기디
 항상 너의 곁에서",418666508 400903962
-3603383,너 하나만을 위해,구본승,발라드,구본승 1집,이현도,이현도,19940701,https://cdnimg.melon.co.kr/cm/album/images/020/31/507/2031507_500.jpg/melon/resize/282/quality/80/optimize,15,1595,"지금까지 나 살아온 동안에
+3603383,너 하나만을 위해,구본승,발라드,구본승 1집,이현도,이현도,19940701,https://cdnimg.melon.co.kr/cm/album/images/020/31/507/2031507_500.jpg/melon/resize/282/quality/80/optimize,15,1596,"지금까지 나 살아온 동안에
 내가 나의 전부였어
 세상 가운데 내가 서 있다고
 느끼며 살아왔었던 거야
@@ -1159,7 +1159,7 @@ songId,title,artist,genre,album,lyricist,composer,date,img,comment,like,lyric,pl
 우리들이 항상 바라는것
 서로가 웃고 돕고 사는것
 이젠 함께 하나를 보며 나가요",403648710 486172257
-104786,오래된 친구,빛과 소금,록/메탈,오래된 친구,Kio장기호,Kio장기호,19940301,https://cdnimg.melon.co.kr/cm/album/images/000/10/271/10271_500.jpg/melon/resize/282/quality/80/optimize,38,4459,"Mr박 Mr장
+104786,오래된 친구,빛과 소금,록/메탈,오래된 친구,Kio장기호,Kio장기호,19940301,https://cdnimg.melon.co.kr/cm/album/images/000/10/271/10271_500.jpg/melon/resize/282/quality/80/optimize,38,4460,"Mr박 Mr장
 우리는 오래된 친구
 성격은 달라도
 마음은 아주 잘 통해
@@ -1185,7 +1185,6 @@ Mr박 Mr장
 서로를 이해하네
 Mr박 Mr장
 Mr박 Mr장
-
 우리는 오래된 친구
 하나밖에 없는 친구
 진실한 마음 하나로
@@ -1203,7 +1202,6 @@ Mr박 Mr장
 예예예예 예예 예예
 서로를 이해하네",495631097 425913659
 56962,어려워 정말 (Extended Ver.),닥터 레게,댄스,Dr. Reggae With Taavi Mote,김장윤,김장윤,199311,https://cdnimg.melon.co.kr/cm/album/images/000/07/483/7483_500.jpg/melon/resize/282/quality/80/optimize,0,79,"어려워 정말
-
 어려워 정말
 나 이렇게
 널 바라보는데
@@ -1213,7 +1211,6 @@ Mr박 Mr장
 널 사랑하기는
 어려 어려워 정말
 어려 어려워
-
 나 혼자서
 서 있을 수도 있지만
 네가 필요해 오늘도 난
@@ -1233,7 +1230,6 @@ Mr박 Mr장
 널 사랑하기는
 어려 어려워 정말
 어려 어려워
-
 어떤날에는 혼자가
 싫다고 투정하지
 심할 정도로
@@ -1255,7 +1251,6 @@ Mr박 Mr장
 그 눈빛이
 어려 어려워 정말
 어려 어려워 예
-
 난 이렇게 널
 바라보는데
 넌 날 보며 웃지도
@@ -1263,7 +1258,6 @@ Mr박 Mr장
 알수 없는 널 사랑하기는
 어려 어려워
 어려 어려
-
 나 이렇게
 널 바라보는데
 넌 날 보며 웃지도
@@ -1273,7 +1267,7 @@ Mr박 Mr장
 그 눈빛이
 어려 어려워 정말
 어려 어려워 예",401120730 400700068
-2981592,일어나,김광석,포크/블루스,김광석 네번째,김광석,김광석,19940625,https://cdnimg.melon.co.kr/cm/album/images/010/47/955/1047955_500.jpg/melon/resize/282/quality/80/optimize,4,2308,"검은 밤의 가운데 서 있어
+2981592,일어나,김광석,포크/블루스,김광석 네번째,김광석,김광석,19940625,https://cdnimg.melon.co.kr/cm/album/images/010/47/955/1047955_500.jpg/melon/resize/282/quality/80/optimize,4,2310,"검은 밤의 가운데 서 있어
 한치 앞도 보이질 않아
 어디로 가야 하나
 어디에 있을까
@@ -1316,7 +1310,7 @@ Mr박 Mr장
 다시 한번 해보는 거야
 일어나 일어나
 봄의 새싹들처럼",408723261 502978023
-58967,너 없는 동안,김원준,댄스,KIM WON JUN 3,김원준,김원준,19940616,https://cdnimg.melon.co.kr/cm/album/images/000/03/658/3658_500.jpg?59942d1e0c535c6fe2f9fd558eb56150/melon/resize/282/quality/80/optimize,29,3465,"아무런 기대없이 나간 
+58967,너 없는 동안,김원준,댄스,KIM WON JUN 3,김원준,김원준,19940616,https://cdnimg.melon.co.kr/cm/album/images/000/03/658/3658_500.jpg?59942d1e0c535c6fe2f9fd558eb56150/melon/resize/282/quality/80/optimize,29,3467,"아무런 기대없이 나간 
 우리 첫 만남은
 너무 쉽게 운명처럼 
 빨리 이뤄졌지
@@ -1362,7 +1356,6 @@ Mr박 Mr장
 낯선 그 말이
 낯설어지기도 하지
 또 낯선 그 말이
-
 낯설은 우리
 낯설어 보여도 우리
 애써 만나게 됐어
@@ -1376,15 +1369,12 @@ Mr박 Mr장
 낯선 그 말이
 낯설어 지기도 하지
 또 낯선 그 말이
-
 낯설은 우리
 낯설어 보여도 우리
 애써 만나게 됐어
-
 낯선 그 말이
 낯설어 지기도 하지
 또 낯선 그 말이
-
 낯설은 우리
 낯설어 보여도 우리
 애써 만나게 됐어
@@ -1399,36 +1389,27 @@ Mr박 Mr장
 떠나가라 했지
 너의 아름다운 기억만으로
 살아가기엔 너무 힘들어
-
 추억은 잊으라는데 나는
-
 무얼 잊어야 하는건지
 내게는 아직 어려운 얘기인걸
 다시 예전처럼 우리가
 만날 수 있다 해도
 그 무엇도 달라질 수는 없어
-
 많은 것을 원하는 약속은 싫어
 외로움만 더한걸
-
 너의 아름다운 기억만으로
 살아가기엔 너무 힘들어
-
 추억은 잊으라는데 나는
-
 무얼 잊어야 하는건지
 내게는 아직 어려운 얘기인걸
 다시 예전처럼 우리가
 만날 수 있다 해도
 그 무엇도 달라질 수는 없어
-
 많은 것을 원하는 약속은 싫어
 외로움만 더한걸
-
 다시 예전처럼 우리가
 만날 수 있다 해도
 그 무엇도 달라질 수는 없어
-
 많은 것을 원하는 약속은 싫어
 외로움만 더한걸",437893740 421063388
 2323166,난 단지 나일뿐,Mr.2,발라드,미스터 투 1집,강은경,윤일상,19931016,https://cdnimg.melon.co.kr/cm/album/images/006/93/152/693152_500.jpg/melon/resize/282/quality/80/optimize,1,186,"세상에서 내가 제일 듣기 싫은
@@ -1453,7 +1434,6 @@ oh baby
 처음부터 난 나였을 뿐이니까
 누구도 날 대신 할 수는 없듯이
 나 또한 단지 나일 뿐
-
 멋진 영화배우도
 화려한 뮤지션도
 음 독특한 개성이 없다면
@@ -1464,7 +1444,7 @@ oh baby
 처음부터 난 나였을 뿐이니까
 누구도 날 대신 할 수는 없듯이
 나 또한 단지 나일 뿐",421063388 477010145
-62462,잘못된 만남,김건모,댄스,Kim Gun Mo 3,김창환,김창환,19950124,https://cdnimg.melon.co.kr/cm/album/images/000/03/707/3707_500.jpg/melon/resize/282/quality/80/optimize,114,53627,"난 너를 믿었던 만큼 
+62462,잘못된 만남,김건모,댄스,Kim Gun Mo 3,김창환,김창환,19950124,https://cdnimg.melon.co.kr/cm/album/images/000/03/707/3707_500.jpg/melon/resize/282/quality/80/optimize,114,53645,"난 너를 믿었던 만큼 
 난 내 친구도 믿었기에
 난 아무런 부담없이 널 
 내 친구에게 소개 시켜줬고
@@ -1527,8 +1507,8 @@ oh baby
 또다른 내 친구는 내 어깰 
 두드리며
 잊어버리라 했지만 잊지 
-못할것 같아",
-1622501,사랑을 할꺼야,녹색지대,발라드,사랑을 할거야,이성환,이성환,19940101,https://cdnimg.melon.co.kr/cm/album/images/003/49/938/349938_500.jpg/melon/resize/282/quality/80/optimize,30,11700,"이젠 나도 널 잊겠어 
+못할것 같아",406125585 407307299
+1622501,사랑을 할꺼야,녹색지대,발라드,사랑을 할거야,이성환,이성환,19940101,https://cdnimg.melon.co.kr/cm/album/images/003/49/938/349938_500.jpg/melon/resize/282/quality/80/optimize,30,11706,"이젠 나도 널 잊겠어 
 너무 힘이 들잖아
 원하는 대로 해줄 순 있지만
 난 더 이상 해줄게 없어
@@ -1564,7 +1544,7 @@ oh baby
 아무도 모르게 너만을 위하여
 나를 지켜봐줘 나를 지켜봐줘
 아무도 모르는 사랑을",406125585 418666508
-66261,이 밤의 끝을 잡고,솔리드,R&B/Soul,Solid,김혜선,"정재윤,  김형석",19950301,https://cdnimg.melon.co.kr/cm/album/images/000/05/397/5397_500.jpg/melon/resize/282/quality/80/optimize,59,15374,"다신 널 볼 수 없겠지 
+66261,이 밤의 끝을 잡고,솔리드,R&B/Soul,Solid,김혜선,"정재윤,  김형석",19950301,https://cdnimg.melon.co.kr/cm/album/images/000/05/397/5397_500.jpg/melon/resize/282/quality/80/optimize,59,15376,"다신 널 볼 수 없겠지 
 나의 입술이 너의 하얀 
 어깨를 감싸 안으며 
 그렇게 우린 이 밤의 끝을
@@ -1607,7 +1587,7 @@ oh baby
 있는 나의 사랑이 더 이상
 초라하지 않게 
 나를 위해 울지마 난 괜찮아 우",418666508 100098486
-62098,슬픈 인연,015B,발라드,Big 5,Agi Yoko,Uzaki Ryudo,19941120,https://cdnimg.melon.co.kr/cm/album/images/000/03/476/3476_500.jpg/melon/resize/282/quality/80/optimize,34,16154,"멀어져 가는 저 뒷모습을 
+62098,슬픈 인연,015B,발라드,Big 5,Agi Yoko,Uzaki Ryudo,19941120,https://cdnimg.melon.co.kr/cm/album/images/000/03/476/3476_500.jpg/melon/resize/282/quality/80/optimize,34,16163,"멀어져 가는 저 뒷모습을 
 바라보면서 
 난 아직도 이 순간을 이별이라 
 하지 않겠네 
@@ -1628,8 +1608,8 @@ oh baby
 그러나 그 시절에 너를 또 만나서 
 사랑할 수 있을까 
 흐르는 그 세월에 나는 또 얼마나 
-많은 눈물을 흘리려나",
-66052,슬프도록 아름다운 ...,K2 김성면,록/메탈,슬프도록 아름다운...,K2 김성면,K2 김성면,19950115,https://cdnimg.melon.co.kr/cm/album/images/000/05/451/5451_500.jpg/melon/resize/282/quality/80/optimize,26,8189,"그리움의 끝엔 언제나
+많은 눈물을 흘리려나",445029956 406125585
+66052,슬프도록 아름다운 ...,K2 김성면,록/메탈,슬프도록 아름다운...,K2 김성면,K2 김성면,19950115,https://cdnimg.melon.co.kr/cm/album/images/000/05/451/5451_500.jpg/melon/resize/282/quality/80/optimize,26,8191,"그리움의 끝엔 언제나
 눈물 속에 항상 네가 있는 것은
 돌아갈 수 없는 아픔인듯 시린
 추억이 가슴속에 남아서야
@@ -1657,7 +1637,7 @@ oh baby
 어떻게 널 잊을수 있어
 슬프도록 아름다웠던
 우리 지난 날의 사랑아",433145748 439683766
-61240,내게로,장혜진,발라드,Before The Party,박창학,유정연,19941101,https://cdnimg.melon.co.kr/cm/album/images/000/04/743/4743_500.jpg/melon/resize/282/quality/80/optimize,6,2229,"너무 서두르지마 
+61240,내게로,장혜진,발라드,Before The Party,박창학,유정연,19941101,https://cdnimg.melon.co.kr/cm/album/images/000/04/743/4743_500.jpg/melon/resize/282/quality/80/optimize,6,2230,"너무 서두르지마 
 견디기 힘이들때면
 애써 따라오려 하지말고
 오히려 더 천천히
@@ -1694,7 +1674,7 @@ oh baby
 앞으로도 우린 아주
 먼길을 가야만 해 
 서두르지마",423913596 449215193
-1839641,난 행복해,이소라,발라드,이소라 1집,김현철,김현철,19950901,https://cdnimg.melon.co.kr/cm/album/images/003/74/853/374853_500.jpg/melon/resize/282/quality/80/optimize,13,4562,"날 용서해
+1839641,난 행복해,이소라,발라드,이소라 1집,김현철,김현철,19950901,https://cdnimg.melon.co.kr/cm/album/images/003/74/853/374853_500.jpg/melon/resize/282/quality/80/optimize,13,4561,"날 용서해
 너에게 이런 말
 정말 하고 싶진 않아
 그러나 이젠
@@ -1728,7 +1708,7 @@ oh baby
 있던 그날들 때문에 
 난 널 못 잊어 
 죽는 날까지 사랑해",433145748 438456156
-66311,상상속의 너,노이즈,댄스,Noise 3rd Revolution,김창환,김창환,199504,https://cdnimg.melon.co.kr/cm/album/images/000/05/348/5348_500.jpg/melon/resize/282/quality/80/optimize,22,11235,"나는 가끔 이런 생각들을 했어
+66311,상상속의 너,노이즈,댄스,Noise 3rd Revolution,김창환,김창환,199504,https://cdnimg.melon.co.kr/cm/album/images/000/05/348/5348_500.jpg/melon/resize/282/quality/80/optimize,22,11247,"나는 가끔 이런 생각들을 했어
 내가 사랑할 수 있는 누군가도 
 지금 나와같은 생각으로
 나의 모습들을 가끔씩 그려보는지
@@ -1803,7 +1783,6 @@ oh baby
 부디 좋은 사람 만나길 바래
 많은 사람들의 축복속에서
 잊어줘 살아갈 이유 잃어버린 날
-
 이젠 더이상 눈물 짓지마
 아직도 흘릴 눈물 남았니
 뒤돌아 볼것도 없어 빨리가렴
@@ -1819,7 +1798,7 @@ oh baby
 부디 좋은 사람 만나길 바래
 많은 사람들의 축복속에서
 잊어줘 살아갈 이유 잃어버린 날",433627406 449215193
-63343,사랑의 서약,한동준,발라드,한동준 3,김광진,김광진,1995,https://cdnimg.melon.co.kr/cm/album/images/000/05/063/5063_500.jpg/melon/resize/282/quality/80/optimize,9,8041,"그토록 바라던 시간이 왔어요 
+63343,사랑의 서약,한동준,발라드,한동준 3,김광진,김광진,1995,https://cdnimg.melon.co.kr/cm/album/images/000/05/063/5063_500.jpg/melon/resize/282/quality/80/optimize,9,8043,"그토록 바라던 시간이 왔어요 
 모든 사람의 축복에 
 사랑의 서약을 하고 있죠 
 세월이 흘러서 병들고 지칠 때 
@@ -1839,7 +1818,7 @@ oh baby
 힘든 날도 있겠죠 하지만 후횐 없어요 
 저 하늘이 부르는 그날까지 
 사랑만 가득하다는 것을 믿어요",438456156 461461544
-66240,날개 잃은 천사,룰라,댄스,날개 잃은 천사,이건우,최준영,1995,https://cdnimg.melon.co.kr/cm/album/images/000/05/343/5343_500.jpg/melon/resize/282/quality/80/optimize,44,13861,"아 그럴거야 나를 아낄려고 
+66240,날개 잃은 천사,룰라,댄스,날개 잃은 천사,이건우,최준영,1995,https://cdnimg.melon.co.kr/cm/album/images/000/05/343/5343_500.jpg/melon/resize/282/quality/80/optimize,44,13867,"아 그럴거야 나를 아낄려고 
 굳이 내게 말 안하고 멀리 
 떠나갔던가 
 아 그럴거야 나를 아낄려고 
@@ -1926,7 +1905,7 @@ oh baby
 떠나갔던가 
 아 그럴거야 나를 아낄려고 
 굳이 내게 말 안하고 멀리 
-떠나갔던가",
+떠나갔던가",406125585 407307299
 1698660,살다보면,권진원,포크/블루스,권진원 Vol.2,유기환,권진원,1996,https://cdnimg.melon.co.kr/cm/album/images/003/55/858/355858_500.jpg/melon/resize/282/quality/80/optimize,9,5621,"살다보면
 괜시리 외로운 날
 너무도 많아
@@ -1965,7 +1944,7 @@ oh baby
 그랬으면 좋겠네
 그랬으면 좋겠네
 그랬으면 좋겠네",406125585 413491319
-66156,시간이 흐른뒤에,피노키오,록/메탈,피노키오 2,김의찬,김의찬,19941030,https://cdnimg.melon.co.kr/cm/album/images/000/05/122/5122_500.jpg/melon/resize/282/quality/80/optimize,6,1094,"너의 뒷모습에 익숙해져 같어 
+66156,시간이 흐른뒤에,피노키오,록/메탈,피노키오 2,김의찬,김의찬,19941030,https://cdnimg.melon.co.kr/cm/album/images/000/05/122/5122_500.jpg/melon/resize/282/quality/80/optimize,6,1095,"너의 뒷모습에 익숙해져 같어 
 먼저 말한 이별 
 너의 내민 손을 잡긴 했지 
 아직 내 것 같지 않은 이별인데 
@@ -1994,7 +1973,7 @@ oh baby
 나는 생각했어 
 시간이 흐르면 
 몰랐던거야 갈수록",433145748 101601936
-1620554,날 위한 이별,김혜림,발라드,날 위한 이별,박주연,김형석,19941001,https://cdnimg.melon.co.kr/cm/album/images/003/49/645/349645_500.jpg/melon/resize/282/quality/80/optimize,32,10669,"난 알고 있는데
+1620554,날 위한 이별,김혜림,발라드,날 위한 이별,박주연,김형석,19941001,https://cdnimg.melon.co.kr/cm/album/images/003/49/645/349645_500.jpg/melon/resize/282/quality/80/optimize,32,10670,"난 알고 있는데
 다 알고 있는데
 니가 있는
 그 곳 어딘지
@@ -2051,8 +2030,8 @@ oh baby
 이별이었다면
 다시 되돌려야 해
 나는 충분히
-불행하니까",
-33146,머피의 법칙,DJ DOC,발라드 댄스 랩/힙합,D'J DOC,"강은경,  이승호",이승호,19950519,https://cdnimg.melon.co.kr/cm/album/images/000/03/260/3260_500.jpg/melon/resize/282/quality/80/optimize,16,6123,"돈 싫어 명예 싫어
+불행하니까",406125585 413491319
+33146,머피의 법칙,DJ DOC,발라드 댄스 랩/힙합,D'J DOC,"강은경,  이승호",이승호,19950519,https://cdnimg.melon.co.kr/cm/album/images/000/03/260/3260_500.jpg/melon/resize/282/quality/80/optimize,16,6129,"돈 싫어 명예 싫어
 따분한 음악 우린 정말 싫어
 펑키 비트의 신나는 댄스
 노래하는 창렬이
@@ -2130,7 +2109,7 @@ One Two Three Four
 돌아와줘 내게로 
 사랑해 아픔이 쌓인 만큼  
 기억할 수 있을 때까지  
-워 그대여 내 맘 알고 있다면",
+워 그대여 내 맘 알고 있다면",445029956 406125585
 607938,너의 곁에 있고 싶어,신효범,발라드,5집,신효범,연석원,1995,https://cdnimg.melon.co.kr/cm/album/images/000/40/261/40261_500.jpg/melon/resize/282/quality/80/optimize,0,200,"그냥 그대로 있어
 떠나지 말아
 네가 떠나면
@@ -2138,28 +2117,23 @@ One Two Three Four
 떠나는 널 보며
 울고싶지는 않아
 잠시 너의 곁에 있게 해줘
-
 너를 보내야만 하는
 이 깊은 슬픔속에서
 돌아서는 너를 위해
 이렇게 웃고 있잖아
-
 너는 떠나겠지
 아무 일 없는 듯
 우리 사랑마저
 없던 것처럼
-
 너를 보내야만 하는
 이 깊은 슬픔속에서
 마지막 이 순간까지
 널 위해 웃고 있잖아
-
 너는 떠나겠지
 아무 일 없는 듯
 우리 사랑마저
-
 잊은 것처럼",401120730 460454167
-66366,고요속의 외침,R.ef,댄스,Rave Effect,홍재선,홍재선,199503,https://cdnimg.melon.co.kr/cm/album/images/000/05/321/5321_500.jpg?e1e1e20e3568fd27b0a1d9466b781b5f/melon/resize/282/quality/80/optimize,17,2950,"더 이상 나에게 너만을 
+66366,고요속의 외침,R.ef,댄스,Rave Effect,홍재선,홍재선,199503,https://cdnimg.melon.co.kr/cm/album/images/000/05/321/5321_500.jpg?e1e1e20e3568fd27b0a1d9466b781b5f/melon/resize/282/quality/80/optimize,17,2951,"더 이상 나에게 너만을 
 강요하지는 말아줘 
 서둘러 가야할 이별에
 눈물은 장애가 될뿐야
@@ -2203,7 +2177,7 @@ One Two Three Four
 운명처럼 받아들인 
 헤어짐이 눈물로
 흐르는 눈물로",406125585 487081506
-104067,그리움만 쌓이네,노영심,발라드,노영심 2집,여진,여진,199506,https://cdnimg.melon.co.kr/cm/album/images/000/02/352/2352_500.jpg/melon/resize/282/quality/80/optimize,26,10953,"다정했던 사람이여
+104067,그리움만 쌓이네,노영심,발라드,노영심 2집,여진,여진,199506,https://cdnimg.melon.co.kr/cm/album/images/000/02/352/2352_500.jpg/melon/resize/282/quality/80/optimize,26,10956,"다정했던 사람이여
 나를 잊었나
 벌써 나를 잊어버렸나
 그리움만 남겨놓고
@@ -2228,7 +2202,6 @@ One Two Three Four
 오 네가 보고파서
 나는 어쩌나
 그리움만 쌓이네
-
 아 이별이 그리 쉬운가
 세월 가 버렸다고
 이젠 나를 잊고서
@@ -2270,8 +2243,8 @@ One Two Three Four
 이렇게 더 사랑하는 너를 
 달려가 내 몸을 너에게 안길거야 
 조금씩 더 크게 네 이름 부를거야 
-이렇게 더 사랑하는 너를",
-65305,이브의 경고,박미경,댄스,Jungle New Style,김창환,천성일,19950722,https://cdnimg.melon.co.kr/cm/album/images/000/03/884/3884_500.jpg/melon/resize/282/quality/80/optimize,62,18132,"오늘도 넌 나를 피해 
+이렇게 더 사랑하는 너를",418666508 400903962
+65305,이브의 경고,박미경,댄스,Jungle New Style,김창환,천성일,19950722,https://cdnimg.melon.co.kr/cm/album/images/000/03/884/3884_500.jpg/melon/resize/282/quality/80/optimize,62,18137,"오늘도 넌 나를 피해 
 딴 생각을 하지만  
 난 알고 있어  
 나의 예감은 한번도  
@@ -2339,10 +2312,8 @@ One Two Three Four
 그렇게 날 속이려고 하면 
 나에게는 더이상 순애보는 
 없어 난 널 
-그냥 떠나버릴 거야",
-32854,친구를 위해,더 블루,발라드,The Blue,김민종,K2 김성면,1995,https://cdnimg.melon.co.kr/cm/album/images/000/03/384/3384_500.jpg/melon/resize/282/quality/80/optimize,10,1601,"<div class=""lyric"" id=""d_video_summary""><!-- height:auto; 로 변경시, 확장됨 -->
-
-하늘위로 날아가는 새들은
+그냥 떠나버릴 거야",405487309 406125585
+32854,친구를 위해,더 블루,발라드,The Blue,김민종,K2 김성면,1995,https://cdnimg.melon.co.kr/cm/album/images/000/03/384/3384_500.jpg/melon/resize/282/quality/80/optimize,10,1601,"하늘위로 날아가는 새들은
 자유로운 날개짓을 하며
 말이 없는 내마음을 아는지
 작은 내모습 위로 날아가네
@@ -2358,7 +2329,6 @@ One Two Three Four
 그 누구나 새로운 많은 날이 있잖아
 나의 꿈을 찾아서 다시 노래할꺼야
 언제까지 변하지 않는 나의 친구와
-
 지난 나의 마지막 무대위에 섰을 때
 내이름을 부르던 사람들은 떠나고
 그런 나의 모습에 그댄 사라져 갔어
@@ -2369,7 +2339,7 @@ One Two Three Four
 언제까지 변하지 않는 나의 친구와
 노래가 끝나가는 지금 내곁엔
 나를 보는 친구가 있네......",439683766 461461544
-63699,천일동안,이승환,발라드,Human,이승환,김동률,19950629,https://cdnimg.melon.co.kr/cm/album/images/000/04/524/4524_500.jpg/melon/resize/282/quality/80/optimize,34,16971,"천일동안 난 우리의 사랑이 
+63699,천일동안,이승환,발라드,Human,이승환,김동률,19950629,https://cdnimg.melon.co.kr/cm/album/images/000/04/524/4524_500.jpg/melon/resize/282/quality/80/optimize,34,16975,"천일동안 난 우리의 사랑이 
 영원할 거라 믿어 왔었던거죠
 어리석게도 그런 줄로만 알고 있었죠
 헤어지자는 말은 참을수 있었지만 
@@ -2381,21 +2351,19 @@ One Two Three Four
 보고싶겠죠 천일이 훨씬 
 지난 후에라도 역시 그럴테죠 
 난 괜찮아요 당신이 내곁에 있어줬잖아요
-
 그 천일동안 알고 있었나요 
 많이웃고 또 많이울던 당신을 항상
 지켜주던 감사해하던 너무 사랑했던 나를 
 보고싶겠죠 천일이 훨씬 
 지난 후에라도 역시 그럴테죠
 잊지마요 우리 사랑 아름다운 이름들을
-
 그 천일동안 힘들었었나요 
 혹시 내가 당신을 아프게 했었나요
 용서해요 그랬다면 마지막일거니까요
 난 자유롭죠 그날 이후로 다만 
 그냥 당신이 궁금할 뿐이죠
-다음 세상에서라도 우리 다시는 만나지 마요",
-91487,날 떠나지마,박진영,댄스,Blue City,서윤정,박진영,199409,https://cdnimg.melon.co.kr/cm/album/images/000/03/957/3957_500.jpg/melon/resize/282/quality/80/optimize,57,16225,"멀어지는 너의 모습은
+다음 세상에서라도 우리 다시는 만나지 마요",445029956 406125585
+91487,날 떠나지마,박진영,댄스,Blue City,서윤정,박진영,199409,https://cdnimg.melon.co.kr/cm/album/images/000/03/957/3957_500.jpg/melon/resize/282/quality/80/optimize,57,16227,"멀어지는 너의 모습은
 나의 눈물속에서
 점점 더 번져가고
 작아지는 널 느낄 수록
@@ -2435,89 +2403,48 @@ One Two Three Four
 내 사랑이 너의 오는 길을
 비춰줄거야 oh baby",413491319 418666508
 62922,아담과 이브는 사과를 깨물었다,조규찬,발라드,조규찬 Ⅱ,조규찬,조규찬,199503,https://cdnimg.melon.co.kr/cm/album/images/000/04/757/4757_500.jpg/melon/resize/282/quality/80/optimize,5,396,"널 만나는 동안
-
 난 3번이나 널 배신했어
-
 오직 너만 생각할거라
-
 넌 믿겠지만 이게 현실이야
-
 아무것도 모르고 있는
-
 널 바라보며 난 웃고 있어
-
 이젠 좀더 솔직하겠어
-
 날 믿고 있는 그 맘을 위해
-
 지금부터 내가 들려주는 얘길
-
 화내지 말고 잘 들어봐
-
 언제부터 이렇게 내 머릿속에
-
 두 생각이 자라나게 됐는지
-
 널 만나는 동안
-
 난 3번이나 널 배신했어
-
 오직 너만 생각할거라
-
 넌 믿겠지만 이게 현실이야
-
 어젯밤에 두 시간 통화중일 때
-
 수화길 잘못 놓은 게 아냐
-
 친구가 봤었다던 월요일 거리
-
 내 곁에 선 그녀와 얘기중이었어
-
 널 만나는 동안
-
 난 3번이나 널 배신했어
-
 오직 너만 생각할거라
-
 넌 믿겠지만 이게 현실이야
-
 아무래도 그녈 봤다면 반했을걸
-
 솔직히 그 순간에는
-
 까맣게 널 잊었었어
-
 믿을 수 없는 일이겠지만
 
-
-
 아무것도 모르고 있는
-
 널 바라보며 난 웃고 있어
-
 이젠 좀더 솔직하겠어
-
 날 믿고 있는 그 맘을 위해
 
-
-
 널 만나는 동안
-
 난 3번이나 널 배신했어
-
 오직 너만 생각할거라
-
 넌 믿겠지만 이게 현실이야
-
 아무것도 모르고 있는
-
 널 바라보며 난 웃고 있어
-
 이젠 좀더 솔직하겠어
-
 날 믿고 있는 그 맘을 위해",402576519 401120730
-60807,이유같지 않은 이유,박미경,댄스,이유같지 않은 이유,김창환,천성일,19941014,https://cdnimg.melon.co.kr/cm/album/images/000/03/881/3881_500.jpg/melon/resize/282/quality/80/optimize,26,6339,"아무것도 필요없어 니가 나를 떠나려한다면 
+60807,이유같지 않은 이유,박미경,댄스,이유같지 않은 이유,김창환,천성일,19941014,https://cdnimg.melon.co.kr/cm/album/images/000/03/881/3881_500.jpg/melon/resize/282/quality/80/optimize,26,6342,"아무것도 필요없어 니가 나를 떠나려한다면 
 나를 사랑했단 말도 모두 연극처럼 느낄뿐야 
 마음이 변했다면 이유를 대지마~~예 
 내가 싫어진걸 난 알고있어 
@@ -2534,18 +2461,16 @@ One Two Three Four
 이젠 기대하지않아 너의곁엔 다른얼굴 다른모습뿐야 
 다시는 나도 돌아가지 않아 너를 위해 더이상 난 
 슬퍼지긴 싫어 
-
 이젠 기대하지않아 
 너의곁엔 다른얼굴 다른 모습뿐야 
 다시는 나도 돌아가지않아 
 너를 위해 더이상 난 슬퍼지긴싫어 
-
 이젠 기대하지않아 
 너의곁엔 다른얼굴 다른 모습뿐야 
 다시는 나도 돌아가지않아
 너를 위해 더이상 난 슬퍼지긴싫어 
 빠밤~~~~",418666508 487081506
-58937,그 후로 오랫동안,신승훈,발라드,그 후로 오랫동안...,신승훈,신승훈,19940915,https://cdnimg.melon.co.kr/cm/album/images/000/04/172/4172_500.jpg/melon/resize/282/quality/80/optimize,29,8355,"우연인지 몰라도 네가 눈물 흘릴 때마다
+58937,그 후로 오랫동안,신승훈,발라드,그 후로 오랫동안...,신승훈,신승훈,19940915,https://cdnimg.melon.co.kr/cm/album/images/000/04/172/4172_500.jpg/melon/resize/282/quality/80/optimize,29,8359,"우연인지 몰라도 네가 눈물 흘릴 때마다
 하늘에선 비가 내렸어
 익숙해져버린 난 그냥 너의 슬픈 눈을 보면서
 차가운 한마디 울지마
@@ -2561,7 +2486,6 @@ One Two Three Four
 내 님이 있는 곳 너는 쉽게 알 수 있잖아
 내가 살아있는 동안에 한번만이라도 그대를
 우연일지라도 너를 믿을게 너의 눈물 맞으며
-
 그 후로 오랫동안 비가 왔어
 내리는 비만큼 나도 울었어
 하지만 더 견딜 수가 없는 건
@@ -2569,7 +2493,7 @@ One Two Three Four
 하늘이여 나를 도와줘 그렇게 울고 있지 말고
 내 님이 있는 곳 너는 쉽게 알 수 있잖아
 내가 살아있는 동안에 한번만이라도 그대를
-우연일지라도 너를 믿을게 너의 눈물 맞으며",
+우연일지라도 너를 믿을게 너의 눈물 맞으며",445029956 485926496
 71914,기억에 남는건 너의 젖은 눈동자,박정운,발라드,박정운 Live & Single,박정운,박정운,199712,https://cdnimg.melon.co.kr/cm/album/images/000/03/933/3933_500.jpg/melon/resize/282/quality/80/optimize,0,159,"기억에 남는건
 너의 젖은 눈동자
 너에게 물었지 외로우냐고
@@ -2589,7 +2513,6 @@ One Two Three Four
 언제나 빗소리가
 들려오면 떠오르는 너의얼굴
 아쉬운 기억으로 남겨두겠어
-
 비오는 날이면
 그렇게도 좋다며
 티없이 웃었던
@@ -2606,7 +2529,7 @@ One Two Three Four
 언제나 빗소리가
 들려오면 떠오르는 너의얼굴
 아쉬운 기억으로 남겨둘거야",401120730 460454167
-64242,청혼가,박진영,댄스,딴따라,박진영,박진영,199509,https://cdnimg.melon.co.kr/cm/album/images/000/03/958/3958_500.jpg/melon/resize/282/quality/80/optimize,8,2296,"그대가 나와 결혼을 해준다면 
+64242,청혼가,박진영,댄스,딴따라,박진영,박진영,199509,https://cdnimg.melon.co.kr/cm/album/images/000/03/958/3958_500.jpg/melon/resize/282/quality/80/optimize,8,2297,"그대가 나와 결혼을 해준다면 
 니가 나의 부인이 돼줬으면 해 
 나의 아이의 엄마가 돼줬으면 해 
 작은 집에서 둘이서 아침에 
@@ -2630,7 +2553,7 @@ One Two Three Four
 나는 그대의 노예가 되어도 좋아 
 그대가 나의 사랑을 받아준다면 
 그대와 나는 영원히 함께 할거야",418666508 438722256
-66411,내가 날 버린 이유,베이시스,발라드,Looking For Myself,김혜선,정재형,19950506,https://cdnimg.melon.co.kr/cm/album/images/000/04/598/4598_500.jpg/melon/resize/282/quality/80/optimize,21,4208,"그때 내가 한말 기억하니 
+66411,내가 날 버린 이유,베이시스,발라드,Looking For Myself,김혜선,정재형,19950506,https://cdnimg.melon.co.kr/cm/album/images/000/04/598/4598_500.jpg/melon/resize/282/quality/80/optimize,21,4211,"그때 내가 한말 기억하니 
 울면서 애원했었지 
 돌아갈곳없는 난 어떡해 
 제발 이러지마 부탁이야 
@@ -2649,7 +2572,7 @@ One Two Three Four
 너의 사랑을 받은 이유로 
 나는 나를 버려야했어 
 내 모든것을 다가진 네가 
-남은게 없는 날 버렸기에",
+남은게 없는 날 버렸기에",406125585 101408955
 66447,유년시절의 기행,아낌없이 주는 나무,발라드,Ⅰ. 아낌없이 주는 나무,이혜민,이혜민,19950101,https://cdnimg.melon.co.kr/cm/album/images/000/04/235/4235_500.jpg?5da059d89f32bebc66892a59278cec95/melon/resize/282/quality/80/optimize,3,939,"어제는 하늘을 나는
 아름다운 꿈을 꾸었지
 오랜만의 유년 시절의 나를
@@ -2666,7 +2589,6 @@ One Two Three Four
 어색한 표정의 사진들은
 무뎌진 나의 가슴에 숨은
 기억을 깨우네
-
 정든 학교를 떠나고
 까만 교복을 입던 날
 혼돈스런 날을 보내며 조금
@@ -2712,7 +2634,6 @@ One Two Three Four
 소중한걸 이제야
 가르쳐 준 너를
 난 사랑해 너를
-
 그 모든 것을 이해하며 따라 준
 그녀에게
 난 나만의 그 모든
@@ -2778,7 +2699,7 @@ One Two Three Four
 아무도 이해할 순 없겠죠
 그대여 내게 대답해줘요
 끝난 건가요 워 끝난 건가요 우린",433145748 449215193
-61776,산다는 건 다 그런게 아니겠니,여행스케치,포크/블루스,다 큰 애들 이야기,조병석,조병석,19940918,https://cdnimg.melon.co.kr/cm/album/images/000/04/327/4327_500.jpg/melon/resize/282/quality/80/optimize,8,2870,"너는 어떻게 살고있니 아기 엄마가 되었다면서 
+61776,산다는 건 다 그런게 아니겠니,여행스케치,포크/블루스,다 큰 애들 이야기,조병석,조병석,19940918,https://cdnimg.melon.co.kr/cm/album/images/000/04/327/4327_500.jpg/melon/resize/282/quality/80/optimize,8,2873,"너는 어떻게 살고있니 아기 엄마가 되었다면서 
 밤 하늘의 별빛을 닮은 너의 눈빛 
 수줍던 소녀로 널 기억하는데 
 오늘 부부싸움도 해 보니 남편은 벌이가 괜찮니 
@@ -2824,7 +2745,6 @@ One Two Three Four
 하지만 내 님 떠나고
 이젠 나 홀로 남아
 그대의 앞길을 비추네
-
 지나간 기억 속에
 그대 모습 생각나
 견딜수가 없는
@@ -2845,8 +2765,7 @@ One Two Three Four
 하지만 내 님 떠나고
 이젠 나 홀로 남아
 그대의 앞길을 비추네",406125585 101579569
-66475,뭐야 이건,지니,록/메탈,Cool World,신성우,이동규,19960101,https://cdnimg.melon.co.kr/cm/album/images/000/05/271/5271_500.jpg/melon/resize/282/quality/80/optimize,10,2115,"뭐야 이건
-
+66475,뭐야 이건,지니,록/메탈,Cool World,신성우,이동규,19960101,https://cdnimg.melon.co.kr/cm/album/images/000/05/271/5271_500.jpg/melon/resize/282/quality/80/optimize,10,2116,"뭐야 이건
 거리위에 지쳐버린 사람들의 한숨 속에 
 잃어버린 나를 보았지
 그냥 열심히 어린시절 반짝이던 눈망울로
@@ -2863,7 +2782,6 @@ One Two Three Four
 또 다른 나의 세상을 위해 
 언제까지나 어린날의 나의 꿈을 찾아가는 거야
 또 다른 나의 세상을 위해서
-
 어렵고 힘들어도 부딪혀 이겨내는 거야 
 고통이 항상 나쁘지는 않아
 오히려 내겐 힘이되는 거야 
@@ -2877,7 +2795,6 @@ One Two Three Four
 기다리는 이에겐
 저절로 돌아오는건 없을껄
 일어나 먼져 부딪쳐 보는거야
-
 수많은 질문과
 함께 자란 내 꿈에
 조그만 날개를
@@ -2895,7 +2812,6 @@ One Two Three Four
 기다리는 이에겐
 저절로 돌아오는건 없을껄
 일어나 먼져 부디쳐 보는거야
-
 한때는 내가 만든 어두움 속에
 스스로 빠져 울기도 했지만
 더이상 나 자신에게
@@ -2918,7 +2834,7 @@ One Two Three Four
 기다리는 이에겐
 저절로 돌아오는건 없을껄
 일어나 먼져 부디쳐보는 거야",438722256 436389281
-3793378,가질수 없는 너,뱅크,발라드,The Bank,강은경,정시로,19950501,https://cdnimg.melon.co.kr/cm/album/images/021/22/186/2122186_500.jpg/melon/resize/282/quality/80/optimize,32,17120,"술에 취한 니 목소리  
+3793378,가질수 없는 너,뱅크,발라드,The Bank,강은경,정시로,19950501,https://cdnimg.melon.co.kr/cm/album/images/021/22/186/2122186_500.jpg/melon/resize/282/quality/80/optimize,32,17127,"술에 취한 니 목소리  
 문득 생각났다던 그 말 
 슬픈 예감 가누면서  
 네게로 달려갔던 날 그밤 
@@ -2953,7 +2869,6 @@ One Two Three Four
 나를 봐 이렇게 곁에 있어도 
 널 갖진 못하잖아",101595339 465431254
 66397,왕자와 병사들,모자이크,발라드,모자이크 3,김준범,김준범,199504,https://cdnimg.melon.co.kr/cm/album/images/000/03/894/3894_500.jpg/melon/resize/282/quality/80/optimize,24,2830,"빠빠 빠 빠빠빠 빠빠 빠 빠빠 빠
-
 니가 원하는 것들 모두
 다 해줄순 없어
 그래도 나에겐
@@ -2976,7 +2891,6 @@ One Two Three Four
 사랑 영원하도록
 내 친구들이 항상
 우릴 축복할거야
-
 내가 바라는 것들 모두
 다 채울순 없어
 너의 그 사랑만으로
@@ -2999,7 +2913,6 @@ One Two Three Four
 영원하도록
 내 친구들이 항상
 우릴 축복할거야
-
 빠 빠빠 빠 빠빠 빠빠빠빠빠빠
 여기 나의 친구들
 모두 너를 좋아해
@@ -3024,7 +2937,7 @@ One Two Three Four
 나나 나 나나나
 나나 나 나나나
 나나 나 나나나
-나나 나 나나나",
+나나 나 나나나",101506663 423913596
 38931,흔들리지마,강수지,발라드,Kang Susie 6,박주연,Eric Lee,20000114,https://cdnimg.melon.co.kr/cm/album/images/000/03/045/3045_500.jpg/melon/resize/282/quality/80/optimize,2,389,"예전엔 몰랐어 사랑이라는 건
 지키는게 더 어렵다는 걸
 작은 오해로도 너무나 쉽게
@@ -3041,7 +2954,6 @@ One Two Three Four
 난 항상 준비가 되있어
 어려움 이긴 연인들처럼
 축복의 날 위해
-
 이제 나는 알아 사랑이라는 건
 서로에게 힘이 된다는 걸
 둘이 함께라면
@@ -3058,7 +2970,6 @@ One Two Three Four
 난 항상 준비가 되있어
 어려움 이긴 연인들처럼
 축복의 날 위해
-
 너 뿐이야
 너의 그 눈빛을 믿을뿐야
 눈처럼 부푼 세상 소문에도
@@ -3066,7 +2977,6 @@ One Two Three Four
 너와 함께라면
 난 항상 준비가 되있어
 어려움 이긴 연인들처럼
-
 축복의 날 위해",433124690 493973527
 61181,내일이 오면,양수경,발라드,양수경 Vol.7,이건우,김범룡,199408,https://cdnimg.melon.co.kr/cm/album/images/000/04/287/4287_500.jpg/melon/resize/282/quality/80/optimize,2,579,"무엇을 원했는지 몰라
 단 하나 내겐 사랑뿐
@@ -3084,7 +2994,6 @@ One Two Three Four
 다시는 사랑할 수 없겠지
 하지만 웃으면서 멀리 떠나야지
 눈물은 감출수 없어도
-
 이대로 눈을 감고 싶어
 슬픔을 접어둔 채로
 이별을 생각하진 않아
@@ -3120,7 +3029,6 @@ One Two Three Four
 슬픈 약속을 모두 기억해
 영원히 흘러간 사랑이여
 자랑스럽게 너를 기억해
-
 내가 갈 수 없기에
 그대 멀리서 나를 지켜봐 줘
 이 세상 힘들 때면
@@ -3153,7 +3061,6 @@ One Two Three Four
 밀려오는 외로움
 이렇게 하루가 저무네",460454167 513554562
 62151,오렌지 향기속으로,피아노,발라드,오렌지 향기속으로,장성희,안성준,1994,https://cdnimg.melon.co.kr/cm/album/images/000/05/100/5100_500.jpg/melon/resize/282/quality/80/optimize,3,227,"워 우 워 워 우 워 워 우 워
-
 워 우 워 너의 모습 발견하고
 아무렇지 않게
 난 웃어주고 있어
@@ -3174,7 +3081,6 @@ One Two Three Four
 현실의 너를 돌아다봐
 따르르스띠로루
 스띠로루 예이예이예이예
-
 사소한 슬픔과 기쁨을
 눈물방울에 감추고
 누구보다 오래 간직한다해도
@@ -3192,7 +3098,7 @@ One Two Three Four
 워우워 워우워
 워우워 워우워
 아쉬움만 남아",100122929 401120730
-1719746,내가 만일,안치환,포크/블루스,너를 사랑한 이유,김범수,김범수,19990218,https://cdnimg.melon.co.kr/cm/album/images/003/57/081/357081_500.jpg/melon/resize/282/quality/80/optimize,40,18006,"내가 만일 하늘이라면
+1719746,내가 만일,안치환,포크/블루스,너를 사랑한 이유,김범수,김범수,19990218,https://cdnimg.melon.co.kr/cm/album/images/003/57/081/357081_500.jpg/melon/resize/282/quality/80/optimize,40,18010,"내가 만일 하늘이라면
 그대 얼굴에 물들고 싶어
 붉게 물든 저녁 저 노을처럼
 나 그대 뺨에 물들고 싶어
@@ -3221,7 +3127,7 @@ One Two Three Four
 사랑하는 나의 사람아 너는 아니
 워 이런 나의 마음을
 이런 나의 마음을",406125585 418666508
-33189,달팽이,패닉,록/메탈,Panic,이적,이적,1995,https://cdnimg.melon.co.kr/cm/album/images/000/03/255/3255_500.jpg/melon/resize/282/quality/80/optimize,100,28635,"집에 오는 길은 때론 너무 길어 
+33189,달팽이,패닉,록/메탈,Panic,이적,이적,1995,https://cdnimg.melon.co.kr/cm/album/images/000/03/255/3255_500.jpg/melon/resize/282/quality/80/optimize,100,28641,"집에 오는 길은 때론 너무 길어 
 나는 더욱 더 지치곤 해 
 문을 열자마자 잠이 들었다가 
 깨면 아무도 없어 
@@ -3264,8 +3170,8 @@ One Two Three Four
 아무도 못 봤지만 
 기억 속 어딘가 들리는 파도 
 소리 따라서 
-나는 영원히 갈래",
-1719746,내가 만일,안치환,포크/블루스,너를 사랑한 이유,김범수,김범수,19990218,https://cdnimg.melon.co.kr/cm/album/images/003/57/081/357081_500.jpg/melon/resize/282/quality/80/optimize,40,18006,"내가 만일 하늘이라면
+나는 영원히 갈래",445029956 406125585
+1719746,내가 만일,안치환,포크/블루스,너를 사랑한 이유,김범수,김범수,19990218,https://cdnimg.melon.co.kr/cm/album/images/003/57/081/357081_500.jpg/melon/resize/282/quality/80/optimize,40,18010,"내가 만일 하늘이라면
 그대 얼굴에 물들고 싶어
 붉게 물든 저녁 저 노을처럼
 나 그대 뺨에 물들고 싶어
@@ -3294,7 +3200,7 @@ One Two Three Four
 사랑하는 나의 사람아 너는 아니
 워 이런 나의 마음을
 이런 나의 마음을",406125585 418666508
-33206,널 사랑하겠어,동물원,발라드 포크/블루스,동물원 6,김창기,김창기,19951001,https://cdnimg.melon.co.kr/cm/album/images/000/03/256/3256_500.jpg/melon/resize/282/quality/80/optimize,33,17243,"내 뜨거운 입술이 너의 
+33206,널 사랑하겠어,동물원,발라드 포크/블루스,동물원 6,김창기,김창기,19951001,https://cdnimg.melon.co.kr/cm/album/images/000/03/256/3256_500.jpg/melon/resize/282/quality/80/optimize,33,17245,"내 뜨거운 입술이 너의 
 부드러운 입술에 닿길 원해 
 내 사랑이 너의 
 가슴에 전해지도록 
@@ -3330,7 +3236,7 @@ One Two Three Four
 널 사랑하겠어 
 지금 이 순간처럼 
 이 세상 그 누구보다 
-널 사랑하겠어",
+널 사랑하겠어",406125585 418666508
 64565,모래성,조관우,발라드,Memory,하광훈,하광훈,1995,https://cdnimg.melon.co.kr/cm/album/images/000/04/783/4783_500.jpg/melon/resize/282/quality/80/optimize,4,567,"나를 사랑한다면 이쯤에서 헤어져
 아무 것도 묻지 말고
 눈을 들어 나를 보아요
@@ -3366,7 +3272,7 @@ One Two Three Four
 이게 그때의 대가인가 봐요
 괜찮아요 나도 예전엔
 누구의 마음 아프게 한적 많았죠",100083984 101598642
-64025,영원히 내게,안상수,발라드,영원히 내게,김신우,김신우,19950901,https://cdnimg.melon.co.kr/cm/album/images/000/04/225/4225_500.jpg/melon/resize/282/quality/80/optimize,11,2179,"이 넓은 세상에
+64025,영원히 내게,안상수,발라드,영원히 내게,김신우,김신우,19950901,https://cdnimg.melon.co.kr/cm/album/images/000/04/225/4225_500.jpg/melon/resize/282/quality/80/optimize,11,2180,"이 넓은 세상에
 날 위한 건 너 하나였어
 밤 새워 그렇게도 눈물 흘렸지
 어려움 속에 어디에 있는지
@@ -3382,7 +3288,6 @@ One Two Three Four
 나에게 돌아와
 이젠 내게 있어 줘
 영원히 내게
-
 지금 내게 무엇도 필요치않아
 나를 대신하던 너 였어
 이젠 너를 나 없는 어둠속에서
@@ -3394,8 +3299,7 @@ One Two Three Four
 영원히 내게
 나에게 돌아와
 이젠 내게 있어 줘
-
-영원히 내게",
+영원히 내게",438456156 461461544
 106885,아주 가끔은,신해철,국내영화,정글스토리 OST,신해철,신해철,19960518,https://cdnimg.melon.co.kr/cm/album/images/000/09/568/9568_500.jpg/melon/resize/282/quality/80/optimize,8,1134,"1. 대낮에 길을 걷다보면 썰렁함을 느껴. 
 왜 그렇게 황당한 표정으로 날 쳐다들 보는지 
 난 집에 혼자 있을 때는 책도 봐. 
@@ -3430,7 +3334,7 @@ One Two Three Four
 평생에 후회하느니 한 번쯤 미친 척 하는 게 나아. 
  
 그댄 자신 안에 갇혀있어. 이젠 문을 열고 세상을 봐.",410441907 425786988
-68743,歸天道哀 (귀천도애),김민종,발라드,歸天道哀 (귀천도애),김민종,서영진,19960801,https://cdnimg.melon.co.kr/cm/album/images/000/03/660/3660_500.jpg?2c02361e9de7868f893c592b6388167d/melon/resize/282/quality/80/optimize,24,4346,"난 이대로 떠나 갈게요
+68743,歸天道哀 (귀천도애),김민종,발라드,歸天道哀 (귀천도애),김민종,서영진,19960801,https://cdnimg.melon.co.kr/cm/album/images/000/03/660/3660_500.jpg?2c02361e9de7868f893c592b6388167d/melon/resize/282/quality/80/optimize,24,4347,"난 이대로 떠나 갈게요
 그대 더 이상 슬퍼 말아요
 내가 떠나가는 건
 다시 돌아 올 수 있기에
@@ -3459,8 +3363,8 @@ One Two Three Four
 난 이렇게도 웃고 있는데
 그대가 힘이들어 나를 잊어도
 그댈 지켜 줄게요 언제까지나 영원히
-영원히 영원히 사랑해요",
-983247,정 (위험한 이별),영턱스클럽,댄스,Young Turks Club,이승호,윤일상,1996,https://cdnimg.melon.co.kr/cm/album/images/003/08/947/308947_500.jpg/melon/resize/282/quality/80/optimize,80,19760,"다른여자 생긴거라면 
+영원히 영원히 사랑해요",445029956 438456156
+983247,정 (위험한 이별),영턱스클럽,댄스,Young Turks Club,이승호,윤일상,1996,https://cdnimg.melon.co.kr/cm/album/images/003/08/947/308947_500.jpg/melon/resize/282/quality/80/optimize,80,19770,"다른여자 생긴거라면 
 혼자있고 싶어서라면 
 언제까지 기다릴 수 있을거야 
 우리 사랑을위해 
@@ -3519,46 +3423,39 @@ One Two Three Four
 우리 정말 이 세상에서 
 함께할 수 없는거라면 
 같이 할 수 있는 오늘까지만 
-여기 남아있어",
-67691,환생,윤종신,발라드,우(愚),윤종신,윤종신,19960401,https://cdnimg.melon.co.kr/cm/album/images/000/04/390/4390_500.jpg/melon/resize/282/quality/80/optimize,53,19201,"다시 태어난 것 같아요 
+여기 남아있어",406125585 418666508
+67691,환생,윤종신,발라드,우(愚),윤종신,윤종신,19960401,https://cdnimg.melon.co.kr/cm/album/images/000/04/390/4390_500.jpg/melon/resize/282/quality/80/optimize,53,19205,"다시 태어난 것 같아요 
 내 모든게 다 달라졌어요 
 그대만난 후로 난 새 사람이 됐어요 
 우리 어머니가 제일 놀라요 
-
 우선 아침 일찍 깨어나 
 그대가 권해줬던 음악 틀죠 
 뭔지 잘 몰라도 난 그 음악이 좋아요 
 제목도 외기 힘든 그 노래 
-
 할 때도 안된 샤워를 하며 
 그 멜로디를 따라해요 
 늘 힘들었던 나의 아침이 
 이렇게 즐거울 수 있나요 
-
 오 놀라워라 그대 향한 내 마음 
 오 새로워라 처음 보는 내 모습 
 매일 이렇다면 모진 이 세상도 
 참 살아갈 만 할거예요 
-
 전철 안의 예쁜 여자들 
 이제는 쳐다보지 않아요 
 몇 정거장 지나면 그댈 만나게 되요 
 차창에 비친 내 얼굴 웃네요 
-
 관심도 없던 꽃가게에서 발길이 멈춰져요 
 주머니 털어 한 다발 샀죠 
 오늘은 아무날도 아닌데... 
-
 오 놀라워라 그대 향한 내 마음 
 오 새로워라 처음 보는 내 모습 
 매일 이렇다면 모진 이 세상도 
 참 살아갈 만 할거예요 
-
 오 놀라워라 그대 향한 내 마음 
 오 새로워라 처음 보는 내 모습 
 매일 이렇다면 모진 이 세상도 
 참 살아갈 만 할거예요 -",406125585 418666508
-70896,꿍따리 샤바라,클론,댄스,Are You Ready?,김창환,김창환,19960501,https://cdnimg.melon.co.kr/cm/album/images/000/05/210/5210_500.jpg/melon/resize/282/quality/80/optimize,26,7099,"마음이 울적하고 답답할 땐 
+70896,꿍따리 샤바라,클론,댄스,Are You Ready?,김창환,김창환,19960501,https://cdnimg.melon.co.kr/cm/album/images/000/05/210/5210_500.jpg/melon/resize/282/quality/80/optimize,26,7104,"마음이 울적하고 답답할 땐 
 산으로 올라가 소릴 한번 질러봐 
 나처럼 이렇게 가슴을 펴고 
 꿍따리 샤바라 빠빠빠빠 
@@ -3614,7 +3511,7 @@ One Two Three Four
 꿍따리 샤바라 빠빠빠 
 빠빠빠빠빠 빠빠빠 
 꿍따리 샤바라 빠빠빠 
-빠빠빠빠빠 빠빠빠",
+빠빠빠빠빠 빠빠빠",406125585 100098244
 67561,잊을수 없는 너,최재훈,발라드,잊을 수 없는 너,김혜선,김형준,19960201,https://cdnimg.melon.co.kr/cm/album/images/000/04/982/4982_500.jpg/melon/resize/282/quality/80/optimize,14,3375,"이렇게 너 떠나가고
 홀로 남겨 지는게
 어떤 건지 예감 했었지만
@@ -3641,9 +3538,7 @@ One Two Three Four
 그 많은 정을 남기려고
 나를 떠났지만
 남아 있는 내겐 그게 삶인데
-
 너와의 약속을 기억해
-
 모두 잊고 밝게
 살 거라 했지만
 너를 잊으라 하지마
@@ -3655,9 +3550,8 @@ One Two Three Four
 그 많은 정을 남기려고
 나를 떠났지만
 남아 있는 내겐 그게 삶인데
-남아 있는 내겐 그게 삶인데",
+남아 있는 내겐 그게 삶인데",485926496 517680521
 70600,넌 나의 처음이자 마지막이야!,솔리드,R&B/Soul,Light Camera Action!,이건우,정재윤,1996,https://cdnimg.melon.co.kr/cm/album/images/000/05/402/5402_500.jpg/melon/resize/282/quality/80/optimize,19,2309,"우리사랑 지금부터 시작인거야
-
 아무 말도 하지마
 어둠 만이 너와 나를
 만질 수 있어
@@ -3695,7 +3589,6 @@ One Two Three Four
 난 할 수 있어
 넌 나의 모든 것
 처음이자 마지막이야
-
 아무 말도 하지마
 어둠 만이 너와 나를
 만질 수 있어
@@ -3706,7 +3599,7 @@ One Two Three Four
 넌 나의 처음이자 마지막이야
 너는 나의 그 모든 것
 처음이자 마지막이야",461461544 405943595
-38445,스피드,김건모,댄스,Exchange kg. M4,이건우,최준영,19960517,https://cdnimg.melon.co.kr/cm/album/images/000/02/952/2952_500.jpg/melon/resize/282/quality/80/optimize,27,7983,"허구헌날 매일 매일 무기력한 
+38445,스피드,김건모,댄스,Exchange kg. M4,이건우,최준영,19960517,https://cdnimg.melon.co.kr/cm/album/images/000/02/952/2952_500.jpg/melon/resize/282/quality/80/optimize,28,7988,"허구헌날 매일 매일 무기력한 
 내 생활에
 나에게도 이런 일이 
 ONE TWO THREE
@@ -3760,8 +3653,8 @@ ONE TWO THREE
 오 지금 난 누구보다 행복해
 그토록 기다렸던 순간이야
 오 믿을 수 없어 이런 
-맘 처음이야",
-33089,여름이야기 (Sky Mix),DJ DOC,댄스 랩/힙합,Summer,이승호,신피디,19960701,https://cdnimg.melon.co.kr/cm/album/images/000/03/270/3270_500.jpg/melon/resize/282/quality/80/optimize,6,2563,"지나간 여름 하하 그 바닷가에서 만났던 그녀 
+맘 처음이야",418666508 487081506
+33089,여름이야기 (Sky Mix),DJ DOC,댄스 랩/힙합,Summer,이승호,신피디,19960701,https://cdnimg.melon.co.kr/cm/album/images/000/03/270/3270_500.jpg/melon/resize/282/quality/80/optimize,6,2564,"지나간 여름 하하 그 바닷가에서 만났던 그녀 
 허리까지 내려오는 까만 생머리 
 이것저것 잴 것 없이 난 그냥 푹 빠져 버렸어 
 아예아예 난 사랑에 푹 빠져버렸어
@@ -3796,7 +3689,6 @@ ONE TWO THREE
 청천벽력 날벼락 그녀가 내 앞에 나타난거야 
 내가 사준 썬그라스 목걸이 그대로인데 
 단지 틀려진건 내 친구와 함께라는 것 
-
 하늘 무너지는 소릴 듣고 있어 
 내가 기다려온 그녈 만난거야 
 우리 헤어졌던 그때 그 바닷가 다시 널 본거야
@@ -3812,11 +3704,10 @@ ONE TWO THREE
 내지난 여름 얘기를 마구마구 해버린거야 
 고개숙인 그녀가 펑펑 울었고 
 나도 울고 하늘도 울고 아~ 슬프다 
-
 랄랄랄 라 랄라 헤이
 랄랄랄 라 랄라 헤이 
 랄랄랄랄라라라라라~",487081506 438722256
-66954,여우야(女雨夜),더 클래식,발라드,여우야,김광진,김광진,19951116,https://cdnimg.melon.co.kr/cm/album/images/000/05/384/5384_500.jpg/melon/resize/282/quality/80/optimize,49,12753,"창 밖엔 서글픈 비만 내려오네
+66954,여우야(女雨夜),더 클래식,발라드,여우야,김광진,김광진,19951116,https://cdnimg.melon.co.kr/cm/album/images/000/05/384/5384_500.jpg/melon/resize/282/quality/80/optimize,49,12761,"창 밖엔 서글픈 비만 내려오네
 내 마음 너무 안타까워
 이제 다시 볼 수가 없기에
 처음 만났던 그날도 비가 왔어
@@ -3847,7 +3738,6 @@ ONE TWO THREE
 닿을 수 없다는거 알고 있어
 긴 밤을 꼬박 세우고 빗속으로
 어느새 새벽이 오고 있어
-
 이 밤 너에게 주고 픈 노래
 너만을 사랑
 너만을 사랑하고 있다는걸
@@ -3857,7 +3747,7 @@ ONE TWO THREE
 닿을 수 없다
 닿을 수 없다는거 알고 있어
 긴 밤을 꼬박 세우고 빗속으로
-어느새 새벽이 오고 있어",
+어느새 새벽이 오고 있어",418666508 512081827
 69620,완전한 사랑,장혜진,발라드,Temptation,이승호,황세준,19960401,https://cdnimg.melon.co.kr/cm/album/images/000/04/727/4727_500.jpg/melon/resize/282/quality/80/optimize,1,255,"나 이제 모든걸 그대로 간직한 체
 이 세상을 떠나려해요
 내 남은 사랑을 더 이상 원치 않아
@@ -3869,7 +3759,6 @@ ONE TWO THREE
 완전해질 저 다음 세상에서
 나 이런 이유로 그대를 여기에
 남겨둔 체 떠나려해요
-
 내 몸에 흐르는 선홍빛 눈물들이
 추억으로 잠들려해요
 나 그대를 이렇게 떠날 수 있을 만큼
@@ -3881,7 +3770,7 @@ ONE TWO THREE
 나 저 다음 세상 먼저 가서
 기다릴께요
 다시 내게 오실때까지",401120730 460454168
-1622512,준비 없는 이별,녹색지대,발라드,내가 지켜줄께,이희승,김범룡,19950101,https://cdnimg.melon.co.kr/cm/album/images/003/49/939/349939_500.jpg/melon/resize/282/quality/80/optimize,25,13780,"지난시간 내곁에서 머물러 
+1622512,준비 없는 이별,녹색지대,발라드,내가 지켜줄께,이희승,김범룡,19950101,https://cdnimg.melon.co.kr/cm/album/images/003/49/939/349939_500.jpg/melon/resize/282/quality/80/optimize,25,13788,"지난시간 내곁에서 머물러 
 행복했던 시간들이 
 고맙다고 다시 또 살게되도 
 당신을 만나 겠다고 
@@ -3923,7 +3812,7 @@ ONE TWO THREE
 차라리 나 기다리다 말을해 
  
 영원토록 바라볼수 있도록",445029956 406125585
-1675592,말하자면,김성재,댄스 랩/힙합,김성재,이현도,이현도,19951111,https://cdnimg.melon.co.kr/cm/album/images/003/54/447/354447_500.jpg/melon/resize/282/quality/80/optimize,142,18503,"말 하자면
+1675592,말하자면,김성재,댄스 랩/힙합,김성재,이현도,이현도,19951111,https://cdnimg.melon.co.kr/cm/album/images/003/54/447/354447_500.jpg/melon/resize/282/quality/80/optimize,142,18505,"말 하자면
 너를 사랑하고 있다는 말이야
 하지만 나는 말할 수
 없단 얘기야
@@ -3969,7 +3858,7 @@ ONE TWO THREE
 없단 얘기야
 하루가 또 지나도
 난 항상 제자리에",406125585 407307299
-1876466,내 눈물 모아,서지원,발라드,Seojiwon2. Tears,김희탐,정재형,19960122,https://cdnimg.melon.co.kr/cm/album/images/003/82/202/382202_500.jpg/melon/resize/282/quality/80/optimize,160,53443,"창 밖으로 하나 둘씩
+1876466,내 눈물 모아,서지원,발라드,Seojiwon2. Tears,김희탐,정재형,19960122,https://cdnimg.melon.co.kr/cm/album/images/003/82/202/382202_500.jpg/melon/resize/282/quality/80/optimize,160,53445,"창 밖으로 하나 둘씩
 불빛이 꺼질 때 쯤이면
 하늘에 편지를 써
 날 떠나 다른 사람에게 갔던
@@ -3996,7 +3885,7 @@ ONE TWO THREE
 내 눈물의 편지 하늘에 닿으면
 언젠가 그대 돌아오겠죠 내게로
 난 믿을거예요 눈물모아",403014132 101470463
-38585,애인(愛人),김정민,발라드,Change,박주연,고성진,199610,https://cdnimg.melon.co.kr/cm/album/images/000/03/017/3017_500.jpg/melon/resize/282/quality/80/optimize,24,4010,"보고 싶었던거야 단지 그 
+38585,애인(愛人),김정민,발라드,Change,박주연,고성진,199610,https://cdnimg.melon.co.kr/cm/album/images/000/03/017/3017_500.jpg/melon/resize/282/quality/80/optimize,24,4017,"보고 싶었던거야 단지 그 
 마음뿐이었어
 헤어졌던 그 이유와 상처는 
 모두 잊은 채 워
@@ -4026,8 +3915,8 @@ ONE TWO THREE
 다시 나를 살게 했다는 걸
 나를 걸어 너를 지킬께
 너 아니면 끝났을 날 위해 
-사랑을 위해",
-38083,Aspirin (아스피린) (12 String Guitar Ver.),걸,록/메탈,Rock'n Roll Revolution,최병훈,최병훈,19951010,https://cdnimg.melon.co.kr/cm/album/images/000/03/156/3156_500.jpg/melon/resize/282/quality/80/optimize,34,9271,"끔찍한 일이 될거야 Darling 
+사랑을 위해",493754796 455359115
+38083,Aspirin (아스피린) (12 String Guitar Ver.),걸,록/메탈,Rock'n Roll Revolution,최병훈,최병훈,19951010,https://cdnimg.melon.co.kr/cm/album/images/000/03/156/3156_500.jpg/melon/resize/282/quality/80/optimize,34,9278,"끔찍한 일이 될거야 Darling 
 어른이 된다는상상만으로도 내겐 
 숨이 막혀버릴것 같은 고통일거야 
 Oh help me날 이해해줘 
@@ -4047,7 +3936,6 @@ Woo I need your love
 Woo I need your love love love 
 네게로 빠져드는 내가 두려워 
 이런 제길 이런게 또 어딨어 예 
-
 끔찍한 일이 될거야 Darling 
 어른이 된다는상상만으로도 내겐 
 숨이 막혀버릴것 같은 고통일거야 
@@ -4071,8 +3959,8 @@ Woo I need your love love love
 Woo I need your love 
 Woo I need your love love love 
 네게로 빠져드는 내가 두려워 
-이런 제길 이런게 또 어딨어 예",
-66964,작은 기다림,쿨 (COOL),댄스,The [Ku:l] 2집,정세희,최준영,19951001,https://cdnimg.melon.co.kr/cm/album/images/000/05/196/5196_500.jpg/melon/resize/282/quality/80/optimize,58,8735,"널 이렇게 보내 줄 수 
+이런 제길 이런게 또 어딨어 예",406125585 407307299
+66964,작은 기다림,쿨 (COOL),댄스,The [Ku:l] 2집,정세희,최준영,19951001,https://cdnimg.melon.co.kr/cm/album/images/000/05/196/5196_500.jpg/melon/resize/282/quality/80/optimize,58,8742,"널 이렇게 보내 줄 수 
 밖에 없었어 
 나 후회할 지도 모른 채
 끝없이 다가오는 너와의 기억을 
@@ -4122,7 +4010,7 @@ Woo I need your love love love
 혼자 가는 길이 힘들어 쉬고 
 싶을땐 
 나를 한번 생각해봐줘",101516705 101408955
-70679,이방인(異邦人),전람회,발라드,Exhibition 2,김동률,김동률,199604,https://cdnimg.melon.co.kr/cm/album/images/000/04/715/4715_500.jpg/melon/resize/282/quality/80/optimize,21,4938,"쉴곳을 찾아서 결국 또 난 여기까지 왔지
+70679,이방인(異邦人),전람회,발라드,Exhibition 2,김동률,김동률,199604,https://cdnimg.melon.co.kr/cm/album/images/000/04/715/4715_500.jpg/melon/resize/282/quality/80/optimize,21,4937,"쉴곳을 찾아서 결국 또 난 여기까지 왔지
 내 몸 하나 가눌 수도 없는 벌거벗은 마음과
 가난한 모습으로
 네 삶의 의미는 나이기에 보내는 거라며
@@ -4144,7 +4032,7 @@ Woo I need your love love love
 그토록 찾아 헤매던 나의 머물곳은 너였음을
 숨이 끊어질때 그토록 찾아헤매던
 나의 머물곳은 너였음을",485926496 443413135
-69374,하늘만 허락한 사랑,엄정화,발라드,Uhm Jung Hwa 2,성지훈,윤성희,199601,https://cdnimg.melon.co.kr/cm/album/images/000/04/322/4322_500.jpg/melon/resize/282/quality/80/optimize,32,6293,"내가 느낀 그를 향한 이끌림 
+69374,하늘만 허락한 사랑,엄정화,발라드,Uhm Jung Hwa 2,성지훈,윤성희,199601,https://cdnimg.melon.co.kr/cm/album/images/000/04/322/4322_500.jpg/melon/resize/282/quality/80/optimize,32,6297,"내가 느낀 그를 향한 이끌림 
 사랑이 아니기를 나는 
 기도했었지 
 나를 보는 안타까운 그 눈빛 
@@ -4181,7 +4069,7 @@ Woo I need your love love love
 우리를 위해서 흘려진 
 눈물 기억해 
 그만큼 소중히 아낄게",445029956 401014454
-38651,슬픈 언약식,김정민,발라드,4Love,박주연,Papertonic,19951101,https://cdnimg.melon.co.kr/cm/album/images/000/03/023/3023_500.jpg/melon/resize/282/quality/80/optimize,74,19156,"너를 내게 주려고 날 혼자 둔거야 
+38651,슬픈 언약식,김정민,발라드,4Love,박주연,Papertonic,19951101,https://cdnimg.melon.co.kr/cm/album/images/000/03/023/3023_500.jpg/melon/resize/282/quality/80/optimize,74,19163,"너를 내게 주려고 날 혼자 둔거야 
 내 삶을 지금껏 나에게 
 너 아닌 사람은 
 그저 스쳐 지난 것 처럼 
@@ -4233,7 +4121,7 @@ Woo I need your love love love
 한때는 전부였지만
 새로운 만남을 위해 이쯤에서 끝내
 나에게 미련을 갖지마",401014454 517680521
-1761801,7년간의 사랑,화이트,발라드,The Logic Feel,유영석,유영석,19950909,https://cdnimg.melon.co.kr/cm/album/images/003/60/761/360761_500.jpg/melon/resize/282/quality/80/optimize,19,4822,"7년을 만났죠
+1761801,7년간의 사랑,화이트,발라드,The Logic Feel,유영석,유영석,19950909,https://cdnimg.melon.co.kr/cm/album/images/003/60/761/360761_500.jpg/melon/resize/282/quality/80/optimize,19,4824,"7년을 만났죠
 아무도 우리가
 이렇게 쉽게 이별 
 할줄은 몰랐죠
@@ -4288,7 +4176,7 @@ Woo I need your love love love
 그리곤 울었죠 그 애 마지막 말
 사랑해 듣고싶던 그 
 한 마디 때문에",406125585 101595234
-1185237,겨울이야기 (Radio Version),DJ DOC,댄스,D際(제)2德(덕) 3집,강은경,윤일상,19951231,https://cdnimg.melon.co.kr/cm/album/images/003/17/415/317415_500.jpg/melon/resize/282/quality/80/optimize,16,5540,"하염없이 내리던 하얀눈에  
+1185237,겨울이야기 (Radio Version),DJ DOC,댄스,D際(제)2德(덕) 3집,강은경,윤일상,19951231,https://cdnimg.melon.co.kr/cm/album/images/003/17/415/317415_500.jpg/melon/resize/282/quality/80/optimize,16,5541,"하염없이 내리던 하얀눈에  
 가려져  
 이젠 두 번다시 볼 수 없는  
 네 뒷모습  
@@ -4366,25 +4254,22 @@ you n me 지금 멀리있다해도
 마음 한구석엔 여전히 허전했어 
 외로움을 달래줄 그런여자 
 어디없나 
-남아 있는 이겨울이 따뜻하게",
-70696,취중진담(醉中眞談),전람회,발라드,Exhibition 2,김동률,김동률,199604,https://cdnimg.melon.co.kr/cm/album/images/000/04/715/4715_500.jpg/melon/resize/282/quality/80/optimize,37,23996,"그래 난 취했는지도 몰라 실수인지도 몰라 
+남아 있는 이겨울이 따뜻하게",101595234 101595339
+70696,취중진담(醉中眞談),전람회,발라드,Exhibition 2,김동률,김동률,199604,https://cdnimg.melon.co.kr/cm/album/images/000/04/715/4715_500.jpg/melon/resize/282/quality/80/optimize,37,24002,"그래 난 취했는지도 몰라 실수인지도 몰라 
 아침이면 까마득히 생각이 안나 
 불안해 할지도 몰라 
 하지만 꼭 오늘 밤엔 해야 할 말이 있어 
 약한 모습 미안해도 술김에 하는 
 말이라 생각지는 마 
-
 언제나 네 앞에 서면 준비했던 말도 
 왜 난 반대로 말해놓고 돌아서 후회하는지 
 이젠 고백할께 처음부터 너를 사랑해 왔다고 
 이렇게 널 사랑해 
-
 어설픈 나의 말이 촌스럽고 못 미더워도 
 그냥 하는 말이 아냐. 
 두 번 다시 이런 일 없을 꺼야. 
 아침이 밝아오면 다시 한번 널 품에 안고 
 사랑한다 말할께 
-
 자꾸 왜 웃기만 하는 거니 
 농담처럼 들리니 아무 말도 하지 않고 
 어린애 보듯 날 바라보기만 하니 
@@ -4392,25 +4277,21 @@ you n me 지금 멀리있다해도
 왜 난 반대로 말해놓고 돌아서 후회하는지 
 이젠 고백할께 처음부터 너를 사랑해왔다고 
 이렇게 널 사랑해 
-
 어설픈 나의 말이 촌스럽고 못미더워도 
 아무에게나 늘 이런 얘기하는 
 그런 사람은 아냐 
 너만큼이나 나도 참 어색해 
 너를 똑바로 쳐다볼 수 없어 
-
 자꾸만 아까부터 했던 말 또 해 미안해 
 하지만 오늘 난 모두 다 말 할꺼야 
 이렇게 널 사랑해 
-
 어설픈 나의 말이 촌스럽고 못미더워도 
 그냥하는 말이 아냐 
 두번다시 이런일 없을거야 
 아침이 밝아오면 다시 한번 널 품에 안고 
 사랑한다 말할께- 
-
 널 사랑해 이렇게 널 사랑해 어설픈 나의 말이...",442706386 406125585
-70994,3!4!,룰라,댄스,All System Go,이현도,이현도,19960615,https://cdnimg.melon.co.kr/cm/album/images/000/05/349/5349_500.jpg/melon/resize/282/quality/80/optimize,58,12182,"여기 숨쉬는 이 시간은  
+70994,3!4!,룰라,댄스,All System Go,이현도,이현도,19960615,https://cdnimg.melon.co.kr/cm/album/images/000/05/349/5349_500.jpg/melon/resize/282/quality/80/optimize,58,12185,"여기 숨쉬는 이 시간은  
 나를 어데로 데려갈까  
 많은 기쁨과 한숨들이  
 뒤섞인 이 곳에서  
@@ -4471,8 +4352,8 @@ Big up Big up
 서로가 함께 영원히 행복하도록 
 나 그대 우리 모두 
 모두가 함께 여기서 만들어 가요 
-나 그대 우리 모두",
-1606430,Twist King,터보,댄스,터보(Turbo) 2집 'New Sensation',이승호,주영훈,19960801,https://cdnimg.melon.co.kr/cm/album/images/003/48/449/348449_500.jpg/melon/resize/282/quality/80/optimize,32,13055,"Let's twist Come on
+나 그대 우리 모두",406125585 100098244
+1606430,Twist King,터보,댄스,터보(Turbo) 2집 'New Sensation',이승호,주영훈,19960801,https://cdnimg.melon.co.kr/cm/album/images/003/48/449/348449_500.jpg/melon/resize/282/quality/80/optimize,32,13065,"Let's twist Come on
 a people on your big
 Come on a people
 in the air
@@ -4583,8 +4464,8 @@ Everybody
 가슴까지 시원한
 춤추는거야
 춤추는 우린 모두 다
-Twist King 예",
-70631,우리의 밤은 당신의 낮보다 아름답다,코나,발라드,Overlap,배영준,배영준,19960701,https://cdnimg.melon.co.kr/cm/album/images/000/05/485/5485_500.jpg?19905d26e294933ad01ef4a71417f81b/melon/resize/282/quality/80/optimize,57,12058,"내게 약속해줘 
+Twist King 예",418666508 430276262
+70631,우리의 밤은 당신의 낮보다 아름답다,코나,발라드,Overlap,배영준,배영준,19960701,https://cdnimg.melon.co.kr/cm/album/images/000/05/485/5485_500.jpg?19905d26e294933ad01ef4a71417f81b/melon/resize/282/quality/80/optimize,57,12065,"내게 약속해줘 
 오늘 이 밤 나를지켜줄 
 수 있다고
 함께 가는 거야 나를 믿어
@@ -4629,7 +4510,6 @@ Twist King 예",
 조금씩 보여주고 싶어
 내일은 오늘보다 더 많이
 사랑해야 하니까
-
 항상 우리 좋은날만
 있지 않겠지
 그런 날 와도 슬기롭게
@@ -4676,7 +4556,6 @@ Twist King 예",
 누구보다도 네게 익숙한
 나의 품으로 와주렴
 이제는 좀 더 포근할께
-
 사람들은 내게 말해주었지
 우리처럼 오랜 사이일수록
 작은일에 이별을 한다고
@@ -4685,7 +4564,6 @@ Twist King 예",
 인연이 아니겠지
 우린 너무 다르다며
 널 지우려 애써 보지만
-
 넌 할 수 있니 힘들지 않게
 아무일도 없었던것 처럼
 아마 그렇지 않을 거야
@@ -4695,7 +4573,7 @@ Twist King 예",
 누구보다도 네게 익숙한
 나의 품으로 와주렴
 이제는 좀 더 포근할께",401120730 460454168
-1839640,처음 느낌 그대로,이소라,발라드,이소라 1집,이소라,김광진,19950901,https://cdnimg.melon.co.kr/cm/album/images/003/74/853/374853_500.jpg/melon/resize/282/quality/80/optimize,24,5970,"남 다른 길을 가는 내게
+1839640,처음 느낌 그대로,이소라,발라드,이소라 1집,이소라,김광진,19950901,https://cdnimg.melon.co.kr/cm/album/images/003/74/853/374853_500.jpg/melon/resize/282/quality/80/optimize,24,5971,"남 다른 길을 가는 내게
 넌 아무말 하지 않았지
 기다림에 지쳐가는 걸
 다 알고있어
@@ -4720,7 +4598,7 @@ Twist King 예",
 내가 차마 네게 할 수 없는 말 그건
 사랑해 처음 느낌 그대로
 처음 느낌 그대로",101595234 101595339
-898849,나에게로의 초대,정경화,록/메탈,My Blue Dreams,김형수,이태섭,199604,https://cdnimg.melon.co.kr/cm/album/images/003/06/563/306563_500.jpg?192efc955f05047e8c9434d6ef73dea1/melon/resize/282/quality/80/optimize,14,9182,"환상속에 있어 다가설 수 없는 
+898849,나에게로의 초대,정경화,록/메탈,My Blue Dreams,김형수,이태섭,199604,https://cdnimg.melon.co.kr/cm/album/images/003/06/563/306563_500.jpg?192efc955f05047e8c9434d6ef73dea1/melon/resize/282/quality/80/optimize,14,9188,"환상속에 있어 다가설 수 없는 
 나에게 너를 보여줘 
 조금만 다가서도 멀어지는 
 나의 사랑 나의 꿈 
@@ -4737,7 +4615,6 @@ Twist King 예",
 어둠 속의 한줄기 빛처럼 느껴 my love 
 사랑하는 너를 모두 느낄 수 있어 
 어둠속의 빛처럼 
-
 너에게 나를 맞춰가고 있다 말하지마 
 나에게 너를 초대할 뿐이야 
 신비로운 너의 모습 
@@ -4755,7 +4632,7 @@ Twist King 예",
 어둠속의 한줄기 빛처럼 느껴 My love 
 사랑하는 너를 모두 느낄 수 있어 
 슬픈 나의 사랑을",406125585 418666508
-68709,조조 할인 (Feat. 이적),이문세,록/메탈,화무(花舞),윤성희 (Sunghee Yoon),유희열,1996,https://cdnimg.melon.co.kr/cm/album/images/000/04/428/4428_500.jpg/melon/resize/282/quality/80/optimize,28,15610,"아직도 생각나요
+68709,조조 할인 (Feat. 이적),이문세,록/메탈,화무(花舞),윤성희 (Sunghee Yoon),유희열,1996,https://cdnimg.melon.co.kr/cm/album/images/000/04/428/4428_500.jpg/melon/resize/282/quality/80/optimize,28,15620,"아직도 생각나요
 그 아침 햇살 속에
 수줍게 웃고있는 그 모습이
 그 시절 그 땐 그렇게
@@ -4794,8 +4671,8 @@ Twist King 예",
 수줍게 웃고 있는 그 모습이
 수많은 연인들은
 지금도 그 곳에서
-추억을 만들겠죠 우리처럼",
-2743595,내가 너의 곁에 잠시 살았다는 걸,토이,발라드,You Hee Yeol,유희열,유희열,199602,https://cdnimg.melon.co.kr/cm/album/images/009/45/658/945658_500.jpg/melon/resize/282/quality/80/optimize,77,44539,"지운 줄 알았어 
+추억을 만들겠죠 우리처럼",418666508 445594812
+2743595,내가 너의 곁에 잠시 살았다는 걸,토이,발라드,You Hee Yeol,유희열,유희열,199602,https://cdnimg.melon.co.kr/cm/album/images/009/45/658/945658_500.jpg/melon/resize/282/quality/80/optimize,77,44549,"지운 줄 알았어 
 너의 기억들을  
 친구들 함께 모여 
 술에 취한 밤 
@@ -4838,7 +4715,7 @@ Twist King 예",
 기억해 다른 사람 만나도 
 내가 너의 곁에 
 잠시 살았다는 걸",445029956 101516705
-485161,마지막 약속,김정민,발라드,4Love,하해룡,고성진,19951101,https://cdnimg.melon.co.kr/cm/album/images/000/03/023/3023_500.jpg/melon/resize/282/quality/80/optimize,6,1013,"이별은 이미 알고있어 
+485161,마지막 약속,김정민,발라드,4Love,하해룡,고성진,19951101,https://cdnimg.melon.co.kr/cm/album/images/000/03/023/3023_500.jpg/melon/resize/282/quality/80/optimize,6,1014,"이별은 이미 알고있어 
 제발 날 위해 애써 웃음 보이려 하지마 
 이런 너의 슬픈 미소 
 나의 마음을 더욱 더 아프게 만해
@@ -4873,7 +4750,6 @@ Twist King 예",
 필요한건 시간일뿐
 무책임한 눈물로
 나를 더 힘들게 하지마
-
 우습지 않니 너무
 지금 우리 위로해야 하는 건
 내가 아냐 버려진 건
@@ -4883,7 +4759,6 @@ Twist King 예",
 헤어짐을 선택한 건
 바로 너인데
 잡아주길 원하는 건 아니잖아
-
 갑작스런 이별을 참아내려
 웃고 있을뿐
 널 용서한 건 아냐
@@ -4892,7 +4767,6 @@ Twist King 예",
 너도 나를 사랑했다면
 이대로 내버려둬
 내가 널 미워할 수 있게
-
 어울리지도 않는 한숨으로
 달아나려 하지마
 헤어짐을 선택한 건
@@ -4902,7 +4776,6 @@ Twist King 예",
 내가 아냐
 버려진 건 바로 나인데
 잡아주길 원하는 건 아니잖아
-
 갑작스런 이별을 참아내려
 웃고 있을 뿐
 널 용서한 건 아냐
@@ -4919,13 +4792,12 @@ Twist King 예",
 시간일뿐야
 무책임한 눈물로
 나를 더 힘들게 하지마",401120730 421134525
-70685,찬란한 사랑 (상심II),R.ef,댄스,Back To The Black,홍재선,홍재선,199604,https://cdnimg.melon.co.kr/cm/album/images/000/05/322/5322_500.jpg/melon/resize/282/quality/80/optimize,29,2579,"너에게 아무런 도움이 되지 못했어
+70685,찬란한 사랑 (상심II),R.ef,댄스,Back To The Black,홍재선,홍재선,199604,https://cdnimg.melon.co.kr/cm/album/images/000/05/322/5322_500.jpg/melon/resize/282/quality/80/optimize,29,2582,"너에게 아무런 도움이 되지 못했어
 내가 내 불행마저 감당할 수 없는데 
 그냥 너를 좋아한 시작부터가 잘못이었다고 
 후회하고 있을 뿐이야
 그래서 떠나는거야 
 잠시 먼 여행을 떠나 
-
 너에게 돌아오고 싶은 
 내 의지마저 억누르면서 
 그냥 널 잊어보는거야 
@@ -4936,7 +4808,6 @@ Twist King 예",
 내이름을 불러줘
 얼마 살지 못할 내 기억의 
 생명을 다시 살릴 수 있게
-
 수북한 나의 그리움들 
 담을 수 없게 된 작은 
 마음을 탓하지마라 
@@ -4946,7 +4817,6 @@ Twist King 예",
 수 많은 기억속으로 가서 
 날 찾아와도 널 껴안아 
 줄 수 없어 난 힘이 없어
-
 슬픔보다도 더 깊은 추억이 있어
 너에게 다시 만날 약속이 없어도 
 언제나 눈물은 짓지마
@@ -4956,14 +4826,12 @@ Twist King 예",
 다 이룰 수 없는 사랑에 
 너는 쓰러지지 않도록 
 찬란한 사랑에 눈이 멀어야 하지
-
 멀 그렇게 생각하는 거니 
 나의 불행마저 사랑할 수 있다는 것은 
 나의 짐이 무거워 지는거야 
 생각해봐 추억은 길들여진 환상일 뿐
 현실 속에 나를 이해하고 이젠 
 멀리멀리 떠나 줘(멀리 떠나줘)
-
 슬픔보다도 더 깊은 추억이 있어
 너에게 다시 만날 약속이 없어도 
 언제나 눈물은 짓지마
@@ -4992,7 +4860,6 @@ Twist King 예",
 뛰는 가슴에 희미한 아픔이
 바로 그날처럼
 더 새로울 뿐인데
-
 처음부터 내겐 없었지
 높이 오를 수 있는 날개
 진실이란 언제나 그렇듯
@@ -5006,7 +4873,7 @@ Twist King 예",
 뛰는 가슴에 희미한 아픔이
 바로 그날처럼
 더 새로울 뿐인데",401120730 460454168
-71032,좋아 좋아,일기예보,록/메탈,좋아좋아,나들,나들,199605,https://cdnimg.melon.co.kr/cm/album/images/000/04/673/4673_500.jpg/melon/resize/282/quality/80/optimize,62,19328,"처음 널 만나는 날  
+71032,좋아 좋아,일기예보,록/메탈,좋아좋아,나들,나들,199605,https://cdnimg.melon.co.kr/cm/album/images/000/04/673/4673_500.jpg/melon/resize/282/quality/80/optimize,62,19333,"처음 널 만나는 날  
 노란 세 송이 장미를 들고  
 룰루랄라 신촌을 향하는 내  
 가슴은 마냥 두근두근 
@@ -5041,8 +4908,8 @@ Twist King 예",
 주고싶어 
 니가 좋아 너무 좋아 내모든걸 
 주고싶어 
-니가 좋아",
-62846,왜 그래,김현철,발라드,Who Stepped On It,김현철,원태연,19951101,https://cdnimg.melon.co.kr/cm/album/images/000/03/757/3757_500.jpg/melon/resize/282/quality/80/optimize,73,16111,"왜 그래 무슨일 있었어 
+니가 좋아",418666508 404939051
+62846,왜 그래,김현철,발라드,Who Stepped On It,김현철,원태연,19951101,https://cdnimg.melon.co.kr/cm/album/images/000/03/757/3757_500.jpg/melon/resize/282/quality/80/optimize,73,16117,"왜 그래 무슨일 있었어 
 너의 얼굴이 말이 아냐 말해봐 
 왜 그래 나쁜일 인거야 
 나랑 눈도 맞추질 못해 지금넌 
@@ -5095,7 +4962,6 @@ Twist King 예",
 그저 잠시 쉬어 가려 할 뿐이야
 난 결코 널 위해서
 쓰러지진 않을 테니
-
 먼저 떠나간 저 세상 속에서
 네가 날 보며 슬퍼하지 않도록
 네 몫의 꿈까지
@@ -5106,7 +4972,6 @@ Twist King 예",
 내게 말한 그 약속들을
 널 보는 그날에 기쁨의 미소로
 건넬 수 있도록
-
 예예예에
 먼저 떠나간 저 세상 속에서
 네가 날 보며 슬퍼하지 않도록
@@ -5118,7 +4983,7 @@ Twist King 예",
 내게 말한 그 약속들을
 널 보는 그날에 기쁨의 미소로
 건넬 수 있도록",439683766 507121867
-38662,나를 슬프게 하는 사람들,김경호,록/메탈,Kim:Kyungho 1997,강은경,Papertonic,19970606,https://cdnimg.melon.co.kr/cm/album/images/000/03/022/3022_500.jpg/melon/resize/282/quality/80/optimize,107,28182,"아무때고
+38662,나를 슬프게 하는 사람들,김경호,록/메탈,Kim:Kyungho 1997,강은경,Papertonic,19970606,https://cdnimg.melon.co.kr/cm/album/images/000/03/022/3022_500.jpg/melon/resize/282/quality/80/optimize,107,28187,"아무때고
 네게 전활해
 나야 하며
 말을 꺼내도
@@ -5176,7 +5041,7 @@ Twist King 예",
 울고있는 걸 봤어
 달려가 그에게 나
 이 말 해줬으면",406125585 465431254
-70148,애송이의 사랑,양파,발라드,Yangpa,최석영,Mike Taplinger,19971101,https://cdnimg.melon.co.kr/cm/album/images/000/04/261/4261_500.jpg/melon/resize/282/quality/80/optimize,44,15212,"잠 못 이룬 새벽 난 꿈을 
+70148,애송이의 사랑,양파,발라드,Yangpa,최석영,Mike Taplinger,19971101,https://cdnimg.melon.co.kr/cm/album/images/000/04/261/4261_500.jpg/melon/resize/282/quality/80/optimize,44,15215,"잠 못 이룬 새벽 난 꿈을 
 꾸고 있어 
 흐느낀 만큼 지친 눈으로 
 바라본 우리의 사랑은 
@@ -5221,7 +5086,7 @@ uh baby 제발 내 곁에 있어
 지금 모습 그대로 
 uh baby 제발 내 곁에 있어줘 
 Baby 내 곁에 있어줘",418666508 101595234
-69198,영원,조관우,발라드,My 3rd Story About...,장복신,하광훈,199612,https://cdnimg.melon.co.kr/cm/album/images/000/04/792/4792_500.jpg/melon/resize/282/quality/80/optimize,5,1886,"힘없이 내 품에 안긴채 
+69198,영원,조관우,발라드,My 3rd Story About...,장복신,하광훈,199612,https://cdnimg.melon.co.kr/cm/album/images/000/04/792/4792_500.jpg/melon/resize/282/quality/80/optimize,5,1887,"힘없이 내 품에 안긴채 
 그렇게 날 떠났지 
 어느 하늘을 보고 울어야 
 가슴에 묻힌 널 만날까 
@@ -5245,7 +5110,7 @@ Baby 내 곁에 있어줘",418666508 101595234
 받아줘 너를 잃곤 살 수 없는 난 
 처음부터 내 인생에 
 넌 마지막 연인이니까",461461544 455359115
-91534,그녀는 예뻤다,박진영,댄스,썸머징글벨,박진영,박진영,199609,https://cdnimg.melon.co.kr/cm/album/images/000/03/962/3962_500.jpg/melon/resize/282/quality/80/optimize,36,7663,"그녀는 너무 예뻤어 
+91534,그녀는 예뻤다,박진영,댄스,썸머징글벨,박진영,박진영,199609,https://cdnimg.melon.co.kr/cm/album/images/000/03/962/3962_500.jpg/melon/resize/282/quality/80/optimize,36,7664,"그녀는 너무 예뻤어 
 하늘에서 온 천사였어 
 그녀를 난 사랑했어 
 우리들은 행복했어 
@@ -5287,50 +5152,42 @@ boom here we go
 그래서 더 슬펐다 
 하늘에 별은 빛났다 
 나는 울었다",406125585 425182189
-38394,아름다운 구속,김종서,록/메탈,Kim Jong Seo V,한경혜,김종서,19961101,https://cdnimg.melon.co.kr/cm/album/images/000/03/008/3008_500.jpg/melon/resize/282/quality/80/optimize,63,12883,"오늘 하루 행복하길 
+38394,아름다운 구속,김종서,록/메탈,Kim Jong Seo V,한경혜,김종서,19961101,https://cdnimg.melon.co.kr/cm/album/images/000/03/008/3008_500.jpg/melon/resize/282/quality/80/optimize,64,12888,"오늘 하루 행복하길 
 언제나 아침에 눈뜨면 
 기도를 하게 돼 
 달아날까 두려운 행복 앞에 
-
 널 만난 건 행운이야 
 휴일에 해야 할 일들이 
 내게도 생겼어 
 약속하고 만나고 헤어지고 
-
 조금씩 집 앞에서 
 널 들여 보내기가 
 힘겨워지는 나를 어떡해 
-
 처음이야 내가 드디어 내가 
 사랑에 난 빠져 버렸어 
 혼자인 게 좋아 
 나를 사랑했던 나에게 
 또 다른 내가 온 거야 
-
 아름다운 구속인걸 
 사랑은 얼마나 
 사람을 변하게 하는지 
 살아있는 오늘이 아름다워 
-
 조금씩 집 앞에서 
 널 들여 보내기가 
 힘겨워지는 나를 어떡해 
-
 처음이야 내가 드디어 내가 
 사랑에 난 빠져버렸어 
 혼자인게 좋아 
 나를 사랑했던 나에게 
 또 다른 내가 온거야 
-
 처음이야 내가 드디어 내가 
 사랑에 난 빠져버렸어 
 혼자인게 좋아 
 나를 사랑했던 나에게 
 또 다른 내가 온거야 
-
 또 다른 내가 온거야 
 내 앞에 니가 온거야",406125585 418666508
-526820,그때 또 다시 (Again),임창정,발라드,Again,박주연,김형석,19970516,https://cdnimg.melon.co.kr/cm/album/images/000/34/771/34771_500.jpg/melon/resize/282/quality/80/optimize,44,24076,"니가 없는데도 해는 
+526820,그때 또 다시 (Again),임창정,발라드,Again,박주연,김형석,19970516,https://cdnimg.melon.co.kr/cm/album/images/000/34/771/34771_500.jpg/melon/resize/282/quality/80/optimize,44,24079,"니가 없는데도 해는 
 뜨고 또 지고
 창 너머 세상은 하나 
 변한게 없어
@@ -5379,7 +5236,7 @@ boom here we go
 참아 볼게 잊어도 볼게 
 널 위해서 라면
 허나 그래도 안되면 기다릴게 
-그때 또 다시",
+그때 또 다시",445029956 406125585
 48914,가족,이승환,발라드,Cycle,이승환,이지은,199701,https://cdnimg.melon.co.kr/cm/album/images/000/04/526/4526_500.jpg/melon/resize/282/quality/80/optimize,15,4260,"밤늦은 길을 걸어서 
 지친 하루를 되돌아 오면 
 언제나 나를 맞는 깊은 어둠과 
@@ -5420,8 +5277,8 @@ boom here we go
 영원히 함께해 야 해요 
 사랑해요 우리 
 고마워요 모두 
-지금껏 날 지켜준 사랑",
-73896,Remember,포지션,록/메탈,Wine & Tears,한진우,안정훈,19970329,https://cdnimg.melon.co.kr/cm/album/images/000/05/336/5336_500.jpg/melon/resize/282/quality/80/optimize,12,2311,"나 한심해 보여도
+지금껏 날 지켜준 사랑",418666508 436623595
+73896,Remember,포지션,록/메탈,Wine & Tears,한진우,안정훈,19970329,https://cdnimg.melon.co.kr/cm/album/images/000/05/336/5336_500.jpg/melon/resize/282/quality/80/optimize,12,2312,"나 한심해 보여도
 나름대로 많이 생각한거야
 날 사랑했었다고
 자신있게 말할 필요는 없어
@@ -5441,7 +5298,6 @@ boom here we go
 내가 먼저 이런
 얘기 하고 싶은건
 널 잊기 위해서니까
-
 너무나도 미안한듯 하며
 다른생각 하고 있는 널
 그냥 볼순 없잖아
@@ -5465,7 +5321,7 @@ boom here we go
 내가 먼저 이런
 얘기 하고 싶은건
 난 이제 사랑은 싫어",406125585 438456156
-1839666,기억해줘,이소라,발라드,영화에서처럼,이소라,허승경,19961101,https://cdnimg.melon.co.kr/cm/album/images/003/74/855/374855_500.jpg/melon/resize/282/quality/80/optimize,13,2750,"기억해줘 널 위해 준비한
+1839666,기억해줘,이소라,발라드,영화에서처럼,이소라,허승경,19961101,https://cdnimg.melon.co.kr/cm/album/images/003/74/855/374855_500.jpg/melon/resize/282/quality/80/optimize,13,2751,"기억해줘 널 위해 준비한
 오늘 이별이 힘들었단 걸 잊지마
 니 가슴에 기대어 자던 많은 날 안녕
 이전처럼 그대로 너에게 
@@ -5487,7 +5343,7 @@ boom here we go
 미워하지마 이해해줘
 이제 나의 사랑 알겠니
 미워하지마 기억해",485926496 438456156
-1622523,괜찮아,녹색지대,발라드,괜찮아,이혜상,이혜상,19970101,https://cdnimg.melon.co.kr/cm/album/images/003/49/941/349941_500.jpg/melon/resize/282/quality/80/optimize,5,1173,"널 언제까지 기다려야
+1622523,괜찮아,녹색지대,발라드,괜찮아,이혜상,이혜상,19970101,https://cdnimg.melon.co.kr/cm/album/images/003/49/941/349941_500.jpg/melon/resize/282/quality/80/optimize,5,1174,"널 언제까지 기다려야
 나에게 올런지
 그저 멀리서 널 바라와 왔지만
 날 언제까지 힘들게 할
@@ -5507,7 +5363,6 @@ boom here we go
 난 괜찮아 정말 남은 건
 너의 맘뿐
 지금 그대로 나의 품에 안겨봐
-
 알고 있어 친구들에게 들었어
 그와 헤어졌다고
 그래서 힘들어 한다고
@@ -5563,7 +5418,6 @@ boom here we go
 니 머리 위에
 떨어진 나의 눈물의 의미는
 영원한 사랑
-
 너 떠난 뒤에야
 나 알게 되었어
 니가 있어야만
@@ -5576,7 +5430,7 @@ boom here we go
 니 머리 위에
 떨어진 나의
 눈물의 의미는 영원한 사랑",425787424 477010145
-86317,다시 만나 줘,업타운,랩/힙합,다시 만나줘,정연준,정연준,19970114,https://cdnimg.melon.co.kr/cm/album/images/000/05/421/5421_500.jpg/melon/resize/282/quality/80/optimize,20,3897,"Jeah Jeah 
+86317,다시 만나 줘,업타운,랩/힙합,다시 만나줘,정연준,정연준,19970114,https://cdnimg.melon.co.kr/cm/album/images/000/05/421/5421_500.jpg/melon/resize/282/quality/80/optimize,20,3899,"Jeah Jeah 
 nineteen ninetyseven
 UPTOWN boys in full effect 
 wikified always G dafied 
@@ -5681,15 +5535,13 @@ Cause Here I stand for you
 세상과 싸워 나가며 너의 자릴 마련 하겠어
 하지만 기다림에 늙고 지쳐 쓰러지지 않게
 어서 나타나줘
-
 난 나를 지켜가겠어 언젠간 만날 너를 위해
 세상과 싸워 나가며 너의 자릴 마련 하겠어
 하지만 기다림에 늙고 지쳐 쓰러지지 않게
 어서 나타나줘
-
 약속 헌신 운명 영원 그리고 사랑
 이 낱말들을 난 아직 믿습니다 영원히",445029956 406125585
-1877126,사랑을 위하여,김종환,성인가요/트로트,사랑을 위하여,김종환,김종환,19970613,https://cdnimg.melon.co.kr/cm/album/images/003/82/274/382274_500.jpg/melon/resize/282/quality/80/optimize,28,7412,"이른 아침에 잠에서 깨어
+1877126,사랑을 위하여,김종환,성인가요/트로트,사랑을 위하여,김종환,김종환,19970613,https://cdnimg.melon.co.kr/cm/album/images/003/82/274/382274_500.jpg/melon/resize/282/quality/80/optimize,28,7414,"이른 아침에 잠에서 깨어
 너를 바라볼 수 있다면
 물안개 피는 강가에 서서
 작은 미소로 너를 부르리
@@ -5720,7 +5572,7 @@ Cause Here I stand for you
 오래 두어도 진정 변하지 않는
 사랑으로 남게 해주오
 사랑으로 남게 해주오",406125585 425524406
-9390,Doc와 춤을,DJ DOC,댄스,Season‘s Greeting,김창렬,박해운,20001212,https://cdnimg.melon.co.kr/cm/album/images/000/00/927/927_500.jpg/melon/resize/282/quality/80/optimize,44,14324,"젓가락질 잘해야만 밥을 먹나요
+9390,Doc와 춤을,DJ DOC,댄스,Season‘s Greeting,김창렬,박해운,20001212,https://cdnimg.melon.co.kr/cm/album/images/000/00/927/927_500.jpg/melon/resize/282/quality/80/optimize,44,14328,"젓가락질 잘해야만 밥을 먹나요
 잘못해도 서툴러도 밥 잘 먹어요
 그러나 주위사람 내가 밥먹을 때
 한마디씩하죠 너 밥상에 불만있냐
@@ -5764,7 +5616,7 @@ Cause Here I stand for you
 할아버지 할머니도 노래해요
 그깟나이 무슨상관 이에요
 다같이 노래해 봐요 이렇게",442706386 418666508
-91245,맨발의 청춘,벅,댄스,맨발의 청춘 (靑春),강은경,Papertonic,19970110,https://cdnimg.melon.co.kr/cm/album/images/000/05/201/5201_500.jpg/melon/resize/282/quality/80/optimize,27,10522,"One Two One Two
+91245,맨발의 청춘,벅,댄스,맨발의 청춘 (靑春),강은경,Papertonic,19970110,https://cdnimg.melon.co.kr/cm/album/images/000/05/201/5201_500.jpg/melon/resize/282/quality/80/optimize,27,10527,"One Two One Two
 Three Four
 이렇다할 빽도 비젼도 
 지금 당장은 없고 
@@ -5827,8 +5679,8 @@ Three Four
 어차피 인생은 한판의 멋진
 도박과 같은 것 
 자 맨발에 땀나도록 뛰는 거야 
-내 청춘을 위하여",
-71033,인형의 꿈,일기예보,발라드,좋아좋아,강현민,강현민,199605,https://cdnimg.melon.co.kr/cm/album/images/000/04/673/4673_500.jpg/melon/resize/282/quality/80/optimize,61,22872,"그대 먼 곳만 보네요  
+내 청춘을 위하여",406125585 418666508
+71033,인형의 꿈,일기예보,발라드,좋아좋아,강현민,강현민,199605,https://cdnimg.melon.co.kr/cm/album/images/000/04/673/4673_500.jpg/melon/resize/282/quality/80/optimize,61,22884,"그대 먼 곳만 보네요  
 내가 바로 여기 있는데 
 조금만 고개를 돌려도  
 날 볼 수 있을텐데 
@@ -5862,8 +5714,8 @@ Three Four
 영원히 내 모습 볼 수 없나요
 나를 바라보면 내게 손짓하면 
 언제나 사랑할텐데
-영원히 널 지킬텐데",
-91212,라일락이 질때,이선희,발라드,First Love,이선희,이선희,19961024,https://cdnimg.melon.co.kr/cm/album/images/000/04/521/4521_500.jpg/melon/resize/282/quality/80/optimize,17,4342,"안녕이라는 인사는 내게 단 한번도
+영원히 널 지킬텐데",445029956 418666508
+91212,라일락이 질때,이선희,발라드,First Love,이선희,이선희,19961024,https://cdnimg.melon.co.kr/cm/album/images/000/04/521/4521_500.jpg/melon/resize/282/quality/80/optimize,17,4344,"안녕이라는 인사는 내게 단 한번도
 말하지 않았어도 나는 느낌으로
 알 수 있었지 이제 다시는 만날 수
 없음을 변해가는 너의 마음이
@@ -5875,7 +5727,6 @@ Three Four
 나와 함께 했던 그 기억들은
 다시는 만질 수 없겠지
 따스한 너의 체온을
-
 변해가는 너의 마음이 내게 날카로운
 흔적을 남겨도 보고픈건 미련이
 남아서 일꺼야 이젠 내 품에서
@@ -5890,7 +5741,6 @@ Three Four
 You're my You're my love
 You're my You're my life
 given long life
-
 날 버리지 말란 말야
 니가 어디에 있든지
 다시 내게 올꺼라면
@@ -5917,7 +5767,6 @@ You're my love
 나를 떠나버린 빈자리에
 너를 기다리고 있을꺼야
 그 길로
-
 나를 떠나버린 후에
 수많은 방황을 했고
 다른 사람을 만났어
@@ -5958,7 +5807,7 @@ You're my You're my love
 yeh yeh yeh yeh
 You're my You're my love
 given long life",460454169 523455976
-78853,해변의 여인,쿨 (COOL),댄스,Summer Story,이승호,윤일상,19970701,https://cdnimg.melon.co.kr/cm/album/images/000/05/181/5181_500.jpg/melon/resize/282/quality/80/optimize,66,23825,"와우 여름이다  
+78853,해변의 여인,쿨 (COOL),댄스,Summer Story,이승호,윤일상,19970701,https://cdnimg.melon.co.kr/cm/album/images/000/05/181/5181_500.jpg/melon/resize/282/quality/80/optimize,66,23837,"와우 여름이다  
 summertime i wanna let me  
 sea the summertime  
 이게뭐야 이여름에  
@@ -6010,8 +5859,8 @@ sea the summertime
 해변의 여인 너와 함께 다시 
 돌아가는 길에 보았지
 예전의 그녀 멋진 자동차에
-어떤 남자와 함께 있는걸",
-69343,나만의 슬픔,김돈규,발라드,Separation,강은경,Papertonic,19961030,https://cdnimg.melon.co.kr/cm/album/images/000/03/581/3581_500.jpg/melon/resize/282/quality/80/optimize,36,18108,"내 소식 그녀가 들을때 쯤엔 
+어떤 남자와 함께 있는걸",100098244 430276262
+69343,나만의 슬픔,김돈규,발라드,Separation,강은경,Papertonic,19961030,https://cdnimg.melon.co.kr/cm/album/images/000/03/581/3581_500.jpg/melon/resize/282/quality/80/optimize,36,18114,"내 소식 그녀가 들을때 쯤엔 
 난 아마 세상 어디에도 없겠지 
 친구야 내게 허락된 시간이 
 이젠 다 되어가나봐 
@@ -6066,7 +5915,7 @@ sea the summertime
 이젠 갔겠지하고 뒤를 돌아보면 
 아직도 그대는 그 자리에 
 아직도 그대는 그 자리에",433145748 438456156
-73257,배반의 장미,엄정화,댄스,후애 (後愛),주영훈,주영훈,19970301,https://cdnimg.melon.co.kr/cm/album/images/000/04/324/4324_500.jpg/melon/resize/282/quality/80/optimize,22,12681,"처음부터 내겐 없던거야
+73257,배반의 장미,엄정화,댄스,후애 (後愛),주영훈,주영훈,19970301,https://cdnimg.melon.co.kr/cm/album/images/000/04/324/4324_500.jpg/melon/resize/282/quality/80/optimize,22,12692,"처음부터 내겐 없던거야
 사랑이란 작은 여유도
 그래서인지 난 너무 쉽게
 너의 눈빛 속에 빠진걸
@@ -6101,8 +5950,8 @@ sea the summertime
 어디선가 쉽게 넌 말하겠지
 세상의 모든 여잔 너무 쉽다고
 상처를 받은 나의 맘모른 채
-넌 웃고 있니 후회하게 될거야",
-72689,바람의 노래,조용필,성인가요/트로트,조용필 16집,김순곤,김정욱,19970501,https://cdnimg.melon.co.kr/cm/album/images/000/04/899/4899_500.jpg/melon/resize/282/quality/80/optimize,90,18104,"살면서 듣게될까 언젠가는
+넌 웃고 있니 후회하게 될거야",406125585 418666508
+72689,바람의 노래,조용필,성인가요/트로트,조용필 16집,김순곤,김정욱,19970501,https://cdnimg.melon.co.kr/cm/album/images/000/04/899/4899_500.jpg/melon/resize/282/quality/80/optimize,90,18112,"살면서 듣게될까 언젠가는
 바람에 노래를
 세월가면 그때는 알게될까
 꽃이지는 이유를
@@ -6116,7 +5965,6 @@ sea the summertime
 비켜갈 수 없다는 걸 우린 깨달았네
 이제 그 해답이 사랑이라면
 나는 이 세상 모든 것들을 사랑하겠네
-
 나를 떠난 사람들과 만나게될
 또다른 사람들
 스쳐가는 인연과 그리움은
@@ -6127,7 +5975,6 @@ sea the summertime
 비켜갈 수 없다는 걸 우린 깨달았네
 이제 그 해답이 사랑이라면
 나는 이 세상 모든 것들을 사랑하겠네
-
 보다 많은 실패와 고뇌의 시간이
 비켜갈 수 없다는 걸 우린 깨달았네
 이제 그 해답이 사랑이라면
@@ -6135,54 +5982,36 @@ sea the summertime
 나는 이 세상 모든 것들을 사랑하겠네
 이 세상 모든것들을 사랑하겠네",406125585 425524406
 621799,애수,진시몬,성인가요/트로트,진시몬5집 (For Two Men),김의섭,김의섭,20041001,https://cdnimg.melon.co.kr/cm/album/images/000/43/247/43247_500.jpg/melon/resize/282/quality/80/optimize,5,1854,"아직도 모르겠어 난 정말 
-
 꿈이라 생각해야 하는지 
-
 너 떠난 그 길목에서 
 널 기다리는데 
-
 세월 모두 흘러가나 
 잊혀진건 아닌데 
-
 되돌아 오는 그길은 
 너무나도 멀었어 
-
 널 매일 생각했어 
-
 보이지 않는 
 환상을 쫓고있어 
-
 그리워 목이 메어 
 눈물흘려도 눈물닦아도 
-
 언젠간 돌아올거라 믿었는데 
-
 그대여 제발 
 내게로 돌아와줘요 
-
 내마음 오직 그대뿐인걸 
-
 꿈속에서도 눈을 떠봐도 
 온통 너의모습 그뿐인걸 
-
 널 매일 생각했어 
-
 보이지 않는 
 환상을 쫓고있어 
-
 그리워 목이 메어 
 눈물흘려도 눈물닦아도 
-
 언젠간 돌아올거라 믿었는데 
-
 그대여 제발 
 내게로 돌아와줘요 
-
 내마음 오직 그대뿐인걸 
-
 꿈속에서도 눈을 떠봐도 
 온통 너의모습 그뿐인걸",422156879 429140197
-68913,오늘도 난,이승철,댄스,The Bridge Of Sonic Heaven,윤일상,이승철,19960913,https://cdnimg.melon.co.kr/cm/album/images/000/04/518/4518_500.jpg/melon/resize/282/quality/80/optimize,10,2246,"아 아 아 
+68913,오늘도 난,이승철,댄스,The Bridge Of Sonic Heaven,윤일상,이승철,19960913,https://cdnimg.melon.co.kr/cm/album/images/000/04/518/4518_500.jpg/melon/resize/282/quality/80/optimize,10,2248,"아 아 아 
 나도 알지못한 날 굳이 
 알려고 들진마 
 보여줄수 없는 내 마음만 
@@ -6221,7 +6050,7 @@ sea the summertime
 오늘도 난 기억속의 네게 
 의미없는 후횔하며 지내겠지 
 오 예 오 No No No",406125585 438722256
-71766,운명,쿨 (COOL),댄스,Destined For The Best,이승호,윤일상,19961101,https://cdnimg.melon.co.kr/cm/album/images/000/05/191/5191_500.jpg/melon/resize/282/quality/80/optimize,33,13651,"어느날 우연히 그사람 본 순간  
+71766,운명,쿨 (COOL),댄스,Destined For The Best,이승호,윤일상,19961101,https://cdnimg.melon.co.kr/cm/album/images/000/05/191/5191_500.jpg/melon/resize/282/quality/80/optimize,33,13655,"어느날 우연히 그사람 본 순간  
 다리에 힘이 풀려 주저  
 앉고 말았지  
 그토록 애가 타게 찾아헤맨  
@@ -6276,8 +6105,8 @@ sea the summertime
 없는 거 잖아 
 정말 이러다 둘다 모두 
 놓칠것 같아 
-차라리 이럴땐 남자가 되고 싶어",
-68079,비오는 거리,이승훈,발라드,비오는 거리,김신우,김신우,19970418,https://cdnimg.melon.co.kr/cm/album/images/000/06/605/6605_500.jpg/melon/resize/282/quality/80/optimize,53,16156,"비 오는 거릴 걸었어 너와 걷던 그 길을 
+차라리 이럴땐 남자가 되고 싶어",406125585 418666508
+68079,비오는 거리,이승훈,발라드,비오는 거리,김신우,김신우,19970418,https://cdnimg.melon.co.kr/cm/album/images/000/06/605/6605_500.jpg/melon/resize/282/quality/80/optimize,53,16165,"비 오는 거릴 걸었어 너와 걷던 그 길을 
 눈에 어리는 지난 얘기는 추억일까 
 그날도 비가 내렸어 나를 떠나가던 날 
 내리는 비에 너의 마음도 울고 있다면 
@@ -6348,8 +6177,8 @@ give me love give me love
 아이 야 야야 쇼킹 쇼킹
 아이 야 야야 쇼킹 쇼킹 
 아이 야 야야 쇼킹 쇼킹
-아이 야 야야",
-72698,가위,유승준,댄스,West Side,이승호,이윤상,199703,https://cdnimg.melon.co.kr/cm/album/images/000/04/349/4349_500.jpg/melon/resize/282/quality/80/optimize,43,4152,"Check it out now 
+아이 야 야야",406125585 418666508
+72698,가위,유승준,댄스,West Side,이승호,이윤상,199703,https://cdnimg.melon.co.kr/cm/album/images/000/04/349/4349_500.jpg/melon/resize/282/quality/80/optimize,43,4154,"Check it out now 
 Come on now 
 Let me bust it out Oh 
 no too slow flow 
@@ -6409,8 +6238,8 @@ yo go faster faster faster
 뭐라고 말좀해 왜 자꾸 
 울고만 있어 
 한번만 안아줘 이 꿈속에서 
-깰 수 없도록",
-91275,그땐 그랬지,카니발,발라드,Carnival (이적+김동률 프로젝트 앨범),김동률,김동률,19970504,https://cdnimg.melon.co.kr/cm/album/images/000/07/388/7388_500.jpg/melon/resize/282/quality/80/optimize,37,11635,"참 어렸었지 뭘 몰랐었지
+깰 수 없도록",406125585 101506663
+91275,그땐 그랬지,카니발,발라드,Carnival (이적+김동률 프로젝트 앨범),김동률,김동률,19970504,https://cdnimg.melon.co.kr/cm/album/images/000/07/388/7388_500.jpg/melon/resize/282/quality/80/optimize,37,11637,"참 어렸었지 뭘 몰랐었지
 설레는 젊음 하나로 그땐 그랬지
 참 느렸었지
 늘 지루했지
@@ -6445,7 +6274,7 @@ yo go faster faster faster
 첫사랑의 쓰렸던 기억들도
 이젠 안주거리
 딴에는 세상이 무너진다
-모두 끝난거다 그땐 그랬지",
+모두 끝난거다 그땐 그랬지",418666508 402039676
 667127,꿈의 대화,장혜진,발라드,Moskito (Single),이승호,주영훈,19970508,https://cdnimg.melon.co.kr/cm/album/images/000/47/222/47222_500.jpg/melon/resize/282/quality/80/optimize,3,741,"아침햇살이 내방창가에 
 소리없이 내려 앉으면 
 작은 화분 그속에 
@@ -6497,7 +6326,7 @@ yo go faster faster faster
 기대어 살겠지 
 괜찮아질거야 내 어린 
 꽃들이 있으니",418666508 449215193
-2023565,밤의 길목에서 (Remake),김세영,발라드,지나간..,원태연,정성헌,20090114,https://cdnimg.melon.co.kr/cm/album/images/004/68/852/468852_500.jpg/melon/resize/282/quality/80/optimize,14,3722,"담배를 줄여야 합니다
+2023565,밤의 길목에서 (Remake),김세영,발라드,지나간..,원태연,정성헌,20090114,https://cdnimg.melon.co.kr/cm/album/images/004/68/852/468852_500.jpg/melon/resize/282/quality/80/optimize,14,3724,"담배를 줄여야 합니다
 술을 끊어야 합니다
 커피를 줄여야 합니다
 그러기 위해서는
@@ -6520,7 +6349,6 @@ yo go faster faster faster
 그 때까지 날 기억해 또 한번 우신다면
 그 때는 어디로 내가 가드릴까요
 원하신다면 전 괜찮아요 늘 그랬듯이
-
 어제 마지막을 정리하며
 미처 버리지 못했던
 미련이 나를 잡지만
@@ -6549,7 +6377,6 @@ yo go faster faster faster
 반한것 같아
 말한뒤에라도
 후회하진 않을게요
-
 두근거려요
 마음으로 안아줘요
 같이 살아가면서
@@ -6594,7 +6421,6 @@ my love my love
 날 외면하지마 오
 사랑할 수 있도록
 내게 다시 돌아와줘 제발
-
 널 눈물속에 남겨둔 채
 난 돌아갈 수 없었던거야
 난 아직도 이별이란 걸
@@ -6614,8 +6440,8 @@ my love my love
 my love my love
 날 외면하지마 오
 사랑할 수 있도록
-내게 다시 돌아와줘 my love",
-1675485,날개,언타이틀,댄스,The Blue Color,유건형,유건형,19970201,https://cdnimg.melon.co.kr/cm/album/images/003/54/438/354438_500.jpg/melon/resize/282/quality/80/optimize,55,8826,"어렵게 살아온 내 어린 시절이 
+내게 다시 돌아와줘 my love",438456156 101506663
+1675485,날개,언타이틀,댄스,The Blue Color,유건형,유건형,19970201,https://cdnimg.melon.co.kr/cm/album/images/003/54/438/354438_500.jpg/melon/resize/282/quality/80/optimize,55,8828,"어렵게 살아온 내 어린 시절이 
 아직도 나의 머릿속을  
 복잡하게 해 
 이런 내 힘든생활 이젠 지쳤지 
@@ -6723,7 +6549,7 @@ my love my love
 변하지 않을거라 난생각해
 나는 너를 연인처럼 친구처럼
 애인처럼 나는너를 순수하게 
-아름다운 마음으로",
+아름다운 마음으로",418666508 101408955
 1865508,다시 돌아온 그대 위해,배훈,발라드,유재하를 추모하는 앨범 1987 - 다시 돌아온 그대위해,배훈,배훈,199708,https://cdnimg.melon.co.kr/cm/album/images/003/78/806/378806_500.jpg/melon/resize/282/quality/80/optimize,2,531,"그대는 아는가요
 이 세상을 떠나간 뒤
 그대 심은 그 나무가
@@ -6737,7 +6563,6 @@ my love my love
 드리고 있죠
 이 노래 드릴께요
 이제 다시 돌아온 그댈 위해
-
 우리는 꿈을꾸죠
 다시 그대를 보는 꿈
 세상이 외로워져도
@@ -6750,7 +6575,6 @@ my love my love
 우리의 기억 속에서
 영원히 살아 있도록
 우리는 기도해요
-
 이 노래 드릴께요
 이제 다시 돌아온 그댈 위해
 이제 그대의 작은 나무
@@ -6758,7 +6582,7 @@ my love my love
 이 노래 드릴께요
 이제 다시 돌아온 그댈 위해
 이제 다시 돌아온 그댈 위해",101656075 477010145
-91249,졸업,전람회,발라드,졸업(卒業),김동률,김동률,199701,https://cdnimg.melon.co.kr/cm/album/images/000/04/714/4714_500.jpg/melon/resize/282/quality/80/optimize,38,6435,"언제 만났었는지
+91249,졸업,전람회,발라드,졸업(卒業),김동률,김동률,199701,https://cdnimg.melon.co.kr/cm/album/images/000/04/714/4714_500.jpg/melon/resize/282/quality/80/optimize,38,6437,"언제 만났었는지
 이제는 헤어져야 하네
 얼굴은 밝지만 우리 젖은 눈빛으로
 애써 웃음 지을래
@@ -6783,7 +6607,7 @@ my love my love
 우리들의 추억들을
 흐뭇한 웃음을 지으며
 라라라라 라라라",413491319 438456156
-37501,그래,디바,댄스,Funky Diva,강정훈,양창익,19970829,https://cdnimg.melon.co.kr/cm/album/images/000/03/261/3261_500.jpg/melon/resize/282/quality/80/optimize,56,6614,"지금 난 너를 향해
+37501,그래,디바,댄스,Funky Diva,강정훈,양창익,19970829,https://cdnimg.melon.co.kr/cm/album/images/000/03/261/3261_500.jpg/melon/resize/282/quality/80/optimize,56,6619,"지금 난 너를 향해
 이젠 나는 모두 벗어났어
 답답한 내 틀에서
 나 언제까지 너를 사랑할께
@@ -6832,7 +6656,7 @@ my love my love
 나 언제까지 너를 사랑할께
 이제는 너와 함께 기쁨 안에서
 한번만 더 용기를 내줘",400903962 438722256
-91264,행복,H.O.T.,댄스,Wolf And Sheep,장용진,장용진,19970705,https://cdnimg.melon.co.kr/cm/album/images/000/05/284/5284_500.jpg?1e61bba381769db7ccc483a05c788776/melon/resize/282/quality/80/optimize,110,30145,"한번도 난 너를 잊어본적 없어
+91264,행복,H.O.T.,댄스,Wolf And Sheep,장용진,장용진,19970705,https://cdnimg.melon.co.kr/cm/album/images/000/05/284/5284_500.jpg?1e61bba381769db7ccc483a05c788776/melon/resize/282/quality/80/optimize,110,30155,"한번도 난 너를 잊어본적 없어
 오직그대만을 생각했는걸
 그런 너는 뭐야 날 잊었던 거야
 지금 내 눈에선 눈물이 흘러
@@ -6891,8 +6715,8 @@ my love my love
 앞엔 내가 있어요
 나를 불러줘요 그대 곁에
 있을거야 너를 사랑해 
-함께해요 그대와 영원히",
-1500836,현명한 선택,소찬휘,댄스,Eight Times - Begin Again,유유진,곽영준,20061118,https://cdnimg.melon.co.kr/cm/album/images/003/32/765/332765_500.jpg/melon/resize/282/quality/80/optimize,23,14978,"왜 나를 포기했는지 
+함께해요 그대와 영원히",406125585 100098244
+1500836,현명한 선택,소찬휘,댄스,Eight Times - Begin Again,유유진,곽영준,20061118,https://cdnimg.melon.co.kr/cm/album/images/003/32/765/332765_500.jpg/melon/resize/282/quality/80/optimize,23,14980,"왜 나를 포기했는지 
 이제 알았어 
 정말 나 보다 예전 
 그녀가 더 쉬웠겠지 
@@ -6939,7 +6763,6 @@ my love my love
 많은 날들을 엮어가고
 언젠가는 우리가 함께 나눈
 시간들을 위해
-
 사랑이라는 이유로
 하얗게 새운 많은 밤들
 이젠 멀어져 기억 속으로 묻혀
@@ -6950,12 +6773,11 @@ my love my love
 나의 눈물이
 네 뒷모습으로 가득 고여도
 나는 너를 떠날 수 없을 것만 같아
-
 사랑이라는 이유로
 많은 날들을 엮어가고
 언젠가는 우리가 함께 나눈
 시간들을 위해",403695196 447317012
-526821,결혼해줘,임창정,발라드,Again,김형석,김형석,19970516,https://cdnimg.melon.co.kr/cm/album/images/000/34/771/34771_500.jpg/melon/resize/282/quality/80/optimize,42,24406,"그럴지도 몰라 널 만나기 
+526821,결혼해줘,임창정,발라드,Again,김형석,김형석,19970516,https://cdnimg.melon.co.kr/cm/album/images/000/34/771/34771_500.jpg/melon/resize/282/quality/80/optimize,42,24411,"그럴지도 몰라 널 만나기 
 위해 많은 날들을
 아픔 속에서 내 눈물 속에서 
 보내야만 했었었는지
@@ -6988,8 +6810,8 @@ my love my love
 사랑이라는 걸
 많은 시간 지나 모두 변한대도
 지금 이 설레임들을 아름답게 
-간직 하는 거야",
-1022090,헤어진 다음날,이현우,발라드,Freewill of My Heart,이현우,이현우,19971101,https://cdnimg.melon.co.kr/cm/album/images/003/10/743/310743_500.jpg/melon/resize/282/quality/80/optimize,42,10951,"그대 오늘 하루는 어땠나요
+간직 하는 거야",418666508 101595234
+1022090,헤어진 다음날,이현우,발라드,Freewill of My Heart,이현우,이현우,19971101,https://cdnimg.melon.co.kr/cm/album/images/003/10/743/310743_500.jpg/melon/resize/282/quality/80/optimize,42,10954,"그대 오늘 하루는 어땠나요
 아무렇지도 않았나요
 혹시 후회하고 있진 않나요
 다른 만남을 준비하나요
@@ -7021,7 +6843,7 @@ my love my love
 그것만이라도 내게 말해줘요
 날 떠나가나요
 나는 아무것도 할 수 없어요",445029956 406125585
-72708,Forever,안재욱,발라드,Forever,하해룡,고성진,19970424,https://cdnimg.melon.co.kr/cm/album/images/000/04/220/4220_500.jpg/melon/resize/282/quality/80/optimize,23,7600,"사랑했던 너를 잊지 못해. 
+72708,Forever,안재욱,발라드,Forever,하해룡,고성진,19970424,https://cdnimg.melon.co.kr/cm/album/images/000/04/220/4220_500.jpg/melon/resize/282/quality/80/optimize,23,7599,"사랑했던 너를 잊지 못해. 
 부디 너를 다시 볼수 있다면. 
 기다릴 수 있어. 
 잠시 멀리 있는 거야. 
@@ -7033,7 +6855,6 @@ my love my love
 살아가는 이유였는데. 
 돌아와줘.이제라도 사랑 할수 있게. 
 영원히. 
-
 사랑했던 너를 잊지 못해. 
 부디 너를 다시 볼수 있다면. 
 기다릴 수 있어. 
@@ -7049,7 +6870,7 @@ my love my love
 살아가는 이유였는데 
 돌아와줘.이제라도 사랑 할수 있게. 
 영원히.",406125585 418666508
-91257,타인,영턱스클럽,발라드,2집- 타인,이승호,윤일상,19970520,https://cdnimg.melon.co.kr/cm/album/images/000/05/458/5458_500.jpg/melon/resize/282/quality/80/optimize,38,7759,"한번만 안아주세요 마지막 
+91257,타인,영턱스클럽,발라드,2집- 타인,이승호,윤일상,19970520,https://cdnimg.melon.co.kr/cm/album/images/000/05/458/5458_500.jpg/melon/resize/282/quality/80/optimize,38,7760,"한번만 안아주세요 마지막 
 밤이잖아요 
 이렇게 헝클어놓은 내맘을 
 달래주세요 
@@ -7107,7 +6928,7 @@ my love my love
 사랑하세요 
 그렇게 어렵지는 않을거예요 
 나 하나 잊는다는건",418666508 100029269
-83721,Poison,엄정화,댄스,Invitation,주영훈,주영훈,199807,https://cdnimg.melon.co.kr/cm/album/images/000/04/311/4311_500.jpg/melon/resize/282/quality/80/optimize,67,23187,"널 뒤로한채 그냥 걸었어
+83721,Poison,엄정화,댄스,Invitation,주영훈,주영훈,199807,https://cdnimg.melon.co.kr/cm/album/images/000/04/311/4311_500.jpg/melon/resize/282/quality/80/optimize,67,23203,"널 뒤로한채 그냥 걸었어
 미안해 하는 널 위해
 참아온 눈물 보이기 싫어 
 나 먼저 일어선거야
@@ -7141,8 +6962,8 @@ my love my love
 돌아가 그녀품으로
 그래 누구나 한 사람만을
 사랑해야 하는걸
-이제 넌 그걸 잊지 말아줘",
-38547,그녀와의 이별,김현정,댄스,Legend,유유진,최규성,19970101,https://cdnimg.melon.co.kr/cm/album/images/000/03/014/3014_500.jpg/melon/resize/282/quality/80/optimize,64,32109,"이제 우리 정말 끝난거야 
+이제 넌 그걸 잊지 말아줘",406125585 407307299
+38547,그녀와의 이별,김현정,댄스,Legend,유유진,최규성,19970101,https://cdnimg.melon.co.kr/cm/album/images/000/03/014/3014_500.jpg/melon/resize/282/quality/80/optimize,64,32122,"이제 우리 정말 끝난거야 
 니가 다시 확인시켜줬지 
 그럴 필요까진 없었는데 
 마지막 자존심까지 무너졌어 
@@ -7187,8 +7008,8 @@ my love my love
 니가 가져 버려 
 며칠이 지났어 널 잊은줄 알았어 
 그런데 지금 니가 돌아오길  
-바라는 내가 미울뿐야",
-77694,애상,쿨 (COOL),댄스,Cool 4,이승호,윤일상,199804,https://cdnimg.melon.co.kr/cm/album/images/000/05/179/5179_500.jpg/melon/resize/282/quality/80/optimize,57,21619,"알잖아 너를 이토록 
+바라는 내가 미울뿐야",405487309 406125585
+77694,애상,쿨 (COOL),댄스,Cool 4,이승호,윤일상,199804,https://cdnimg.melon.co.kr/cm/album/images/000/05/179/5179_500.jpg/melon/resize/282/quality/80/optimize,57,21625,"알잖아 너를 이토록 
 사랑하며 기다린 나를 
 뭐가 그리 바쁜지
 너무 보기 힘들어
@@ -7276,7 +7097,7 @@ my love my love
 언젠가 돌아올 것 같은 널 위해
 다른 사랑도 못하는
 바보가 되버린 내 모습 잊지
-않기를 바래",
+않기를 바래",410441907 404906399
 1606672,애인이 생겼어요,터보,댄스,터보(Turbo) 4집 'Perfect Love',이승호,윤일상,19981101,https://cdnimg.melon.co.kr/cm/album/images/003/48/469/348469_500.jpg/melon/resize/282/quality/80/optimize,9,2147,"Yeah
 My Found My True Love
 This Is The Story
@@ -7346,7 +7167,7 @@ This Is The Story
 모두 내 것만 같아
 널 생각하지 않을께
 너를 보고 있을래",400903962 445594812
-38453,뻐꾸기 둥지위로 날아간 새,김건모,댄스,Myself,이승호,윤일상,19971201,https://cdnimg.melon.co.kr/cm/album/images/000/02/953/2953_500.jpg/melon/resize/282/quality/80/optimize,24,11777,"도대체 왜 이럴까 
+38453,뻐꾸기 둥지위로 날아간 새,김건모,댄스,Myself,이승호,윤일상,19971201,https://cdnimg.melon.co.kr/cm/album/images/000/02/953/2953_500.jpg/melon/resize/282/quality/80/optimize,24,11783,"도대체 왜 이럴까 
 누가 좀 말려줘봐  
 왜 자꾸 어두워만지면은  
 밖으로 나가는지 모르겠어  
@@ -7386,7 +7207,7 @@ This Is The Story
 오늘도 역시 혼자라는 걸 
 다시 또 혼자야 오늘도 혼자야 
 저기 너무 맑은 하늘 위로
-새가 되어 버린 너",
+새가 되어 버린 너",418666508 101595234
 489873,나나나,유승준,댄스,You Seung Jun Best & J Duet Collection,이승호,김형석,20010901,https://cdnimg.melon.co.kr/cm/album/images/000/03/394/3394_500.jpg/melon/resize/282/quality/80/optimize,2,1903,"난 그냥 되는 대로 
 살았었지 
 간섭받기 싫어 그냥 피했던거지 
@@ -7471,8 +7292,26 @@ This Is The Story
 나나나 나나나 
 나나나 나나나 
 나나나 나나나",418666508 400903962
-1839686,믿음,이소라,발라드,슬픔과 분노에 관한,이소라,나원주,19980501,https://cdnimg.melon.co.kr/cm/album/images/003/74/857/374857_500.jpg/melon/resize/282/quality/80/optimize,13,3033,,478560090 410441907
-38388,착한 사랑,김민종,발라드,愛(애),김민종,김도형,19980505,https://cdnimg.melon.co.kr/cm/album/images/000/02/951/2951_500.jpg/melon/resize/282/quality/80/optimize,21,3572,"믿어지지 아니 믿을 수 없는
+1839686,믿음,이소라,발라드,슬픔과 분노에 관한,이소라,나원주,19980501,https://cdnimg.melon.co.kr/cm/album/images/003/74/857/374857_500.jpg/melon/resize/282/quality/80/optimize,13,3033,"힘든가요 내가 짐이 됐나요
+마음을 보여줘요
+안된대도 아무 상관없어요
+내 마음만 알아줘요
+다른 사람 친한
+그댈 미워하는
+나의 사랑이 모자랐나요
+늘 생각해요
+이것만 기억해요
+우리가 헤어지면
+다시는 이런 사랑 또 없을테니
+내게 힘이 돼 줘요
+난 기다려요
+그대 난 영원해요
+우는 내가 많이 지겨웠나요
+그래요 이해해요
+많은 밤이 지난
+그대 후회되면
+다시 내게로 돌아올테",478560090 410441907
+38388,착한 사랑,김민종,발라드,愛(애),김민종,김도형,19980505,https://cdnimg.melon.co.kr/cm/album/images/000/02/951/2951_500.jpg/melon/resize/282/quality/80/optimize,21,3574,"믿어지지 아니 믿을 수 없는
 지금 이 순간을 기억해야 하나
 사랑하고 있는 그대가 
 내 곁에서 떠나는 모습을
@@ -7507,8 +7346,8 @@ This Is The Story
 달래보고 있지만
 더 이상 견딜 수 없는 아픔에
 살아 가는게 너무 힘들지만
-하지만 사랑해요 난 그댈",
-1816948,To Heaven (천국으로 보낸 편지),조성모,발라드,To Heaven,이승호,Papertonic,19980903,https://cdnimg.melon.co.kr/cm/album/images/003/71/259/371259_500.jpg/melon/resize/282/quality/80/optimize,88,36134,"괜찮은거니 어떻게 지내는거야
+하지만 사랑해요 난 그댈",406125585 439683766
+1816948,To Heaven (천국으로 보낸 편지),조성모,발라드,To Heaven,이승호,Papertonic,19980903,https://cdnimg.melon.co.kr/cm/album/images/003/71/259/371259_500.jpg/melon/resize/282/quality/80/optimize,88,36140,"괜찮은거니 어떻게 지내는거야
 나 없다고
 또 울고 그러진 않니
 매일 꿈속에 찾아와
@@ -7541,8 +7380,8 @@ This Is The Story
 이별이 없는 그곳에
 우리 다시 만날 그날이
 그때까지 조금만
-날 기다려 줘",
-77363,나와 같다면,김장훈,발라드,#1998 Ballads For Tears,박주연,이동원,19980201,https://cdnimg.melon.co.kr/cm/album/images/000/03/736/3736_500.jpg/melon/resize/282/quality/80/optimize,84,9717,"어떤 약속도 없는 그런 날에
+날 기다려 줘",406125585 407307299
+77363,나와 같다면,김장훈,발라드,#1998 Ballads For Tears,박주연,이동원,19980201,https://cdnimg.melon.co.kr/cm/album/images/000/03/736/3736_500.jpg/melon/resize/282/quality/80/optimize,84,9726,"어떤 약속도 없는 그런 날에
 너만 혼자 집에 있을때
 넌 옛 생각이 나는지
 그럴땐 어떡하는지
@@ -7574,7 +7413,6 @@ This Is The Story
 그냥 나에게 오면 돼
 널 위해 비워둔 내 맘
 그 자리로
-
 그대여 나와 같다면
 내 마음과 똑같다면
 그냥 나에게 오면 돼
@@ -7582,7 +7420,7 @@ This Is The Story
 그 자리로
 나처럼 울고 싶은지
 왜 자꾸만 후회되는지",445029956 101516705
-1877126,사랑을 위하여,김종환,성인가요/트로트,사랑을 위하여,김종환,김종환,19970613,https://cdnimg.melon.co.kr/cm/album/images/003/82/274/382274_500.jpg/melon/resize/282/quality/80/optimize,28,7412,"이른 아침에 잠에서 깨어
+1877126,사랑을 위하여,김종환,성인가요/트로트,사랑을 위하여,김종환,김종환,19970613,https://cdnimg.melon.co.kr/cm/album/images/003/82/274/382274_500.jpg/melon/resize/282/quality/80/optimize,28,7414,"이른 아침에 잠에서 깨어
 너를 바라볼 수 있다면
 물안개 피는 강가에 서서
 작은 미소로 너를 부르리
@@ -7613,7 +7451,7 @@ This Is The Story
 오래 두어도 진정 변하지 않는
 사랑으로 남게 해주오
 사랑으로 남게 해주오",406125585 425524406
-38698,나의 사랑 천상(天上)에서도,김경호,록/메탈,00:00:1998 KYUNG-HO KIM,이경,유승범,19980526,https://cdnimg.melon.co.kr/cm/album/images/000/03/025/3025_500.jpg/melon/resize/282/quality/80/optimize,24,4971,"그런 일들은 없을 테지만
+38698,나의 사랑 천상(天上)에서도,김경호,록/메탈,00:00:1998 KYUNG-HO KIM,이경,유승범,19980526,https://cdnimg.melon.co.kr/cm/album/images/000/03/025/3025_500.jpg/melon/resize/282/quality/80/optimize,24,4973,"그런 일들은 없을 테지만
 만약에 우리들이 떨어져
 이 세상을 살아야 할 때 그 때
 누군가가 너를 비웃어도
@@ -7658,7 +7496,7 @@ This Is The Story
 난 언제까지 그대를 원하며 살아간다는 것을 이제는 기억해주길 바래 내겐 하나뿐인 그댈 위해 
 내 모든것을 원해도 다 줄 수 있는 사람이라고 약속할께 처음느낌 그대로 
 이별까지도 남겨질수 있어 우-사랑해요 영원히-",406125585 493703674
-46284,비(悲),김정민,발라드,Jump 98,박주연,조장혁,199803,https://cdnimg.melon.co.kr/cm/album/images/000/03/702/3702_500.jpg/melon/resize/282/quality/80/optimize,21,2780,"내가 없는 너의 하루는
+46284,비(悲),김정민,발라드,Jump 98,박주연,조장혁,199803,https://cdnimg.melon.co.kr/cm/album/images/000/03/702/3702_500.jpg/melon/resize/282/quality/80/optimize,21,2782,"내가 없는 너의 하루는
 내가 없는 너의 방안은
 내가 없는 너의 미소는
 여전히 눈부실까
@@ -7685,8 +7523,8 @@ This Is The Story
 슬픔으로 슬픔 잊히듯
 다른 사랑으로 날 잊어
 내가 눈을 감는 날부터
-나는 너를 모를테니",
-38495,Epilogue(에필로그),김종서,록/메탈,Seeds,김종서,김종서,199801,https://cdnimg.melon.co.kr/cm/album/images/000/02/956/2956_500.jpg/melon/resize/282/quality/80/optimize,4,1034,"우연히 너를 보았지
+나는 너를 모를테니",452681635 404906399
+38495,Epilogue(에필로그),김종서,록/메탈,Seeds,김종서,김종서,199801,https://cdnimg.melon.co.kr/cm/album/images/000/02/956/2956_500.jpg/melon/resize/282/quality/80/optimize,4,1035,"우연히 너를 보았지
 그토록 기도했지만
 다시는 만나지 않게 해 달라고
 한때는 내 안의 너를
@@ -7713,8 +7551,8 @@ This Is The Story
 좋은 기억마저 가져가 버려
 미움만이 남아서
 제발 널 지울 수 있게 해
-혼자남은 날 위해",
-2274404,사람이 꽃보다 아름다워,안치환,포크/블루스,Desire,정지원,안치환,19971212,https://cdnimg.melon.co.kr/cm/album/images/006/48/556/648556_500.jpg/melon/resize/282/quality/80/optimize,36,11867,"헤이 헤이 
+혼자남은 날 위해",517469057 455503626
+2274404,사람이 꽃보다 아름다워,안치환,포크/블루스,Desire,정지원,안치환,19971212,https://cdnimg.melon.co.kr/cm/album/images/006/48/556/648556_500.jpg/melon/resize/282/quality/80/optimize,36,11873,"헤이 헤이 
 강물같은 노래를 품고 사는  
 사람은 알게되지 음 알게되지  
 내내 어두웠던 산들이  
@@ -7765,7 +7603,7 @@ This Is The Story
 노래의 온기를 품고사는 
 바로 그대 바로 당신 
 바로 우리 우린 참사랑",418666508 423007172
-38793,거꾸로 강을 거슬러 오르는 저 힘찬 연어들처럼,강산에,록/메탈,연어,강산에,나비,199803,https://cdnimg.melon.co.kr/cm/album/images/000/03/034/3034_500.jpg/melon/resize/282/quality/80/optimize,68,18682,"흐르는 강물을
+38793,거꾸로 강을 거슬러 오르는 저 힘찬 연어들처럼,강산에,록/메탈,연어,강산에,나비,199803,https://cdnimg.melon.co.kr/cm/album/images/000/03/034/3034_500.jpg/melon/resize/282/quality/80/optimize,68,18688,"흐르는 강물을
 거꾸로 거슬러 오르는 연어들의 
 도무지 알 수 없는
 그들만의 신비한 이유처럼 
@@ -7802,8 +7640,8 @@ This Is The Story
 거꾸로 강을 거슬러 오르는
 저 힘찬 연어들처럼 
 걸어가다보면 걸어가다보면
-걸어가다보면",
-33972,진심,김광진,발라드,My Love My Life,김광진,김광진,1998,https://cdnimg.melon.co.kr/cm/album/images/000/03/147/3147_500.jpg/melon/resize/282/quality/80/optimize,16,3094,"그렇게 화내지 마요
+걸어가다보면",406125585 418666508
+33972,진심,김광진,발라드,My Love My Life,김광진,김광진,1998,https://cdnimg.melon.co.kr/cm/album/images/000/03/147/3147_500.jpg/melon/resize/282/quality/80/optimize,16,3095,"그렇게 화내지 마요
 그 말은 진심이 아니죠
 이해를 할 수 없다면
 그저 웃어 넘긴다면 어때요
@@ -7832,8 +7670,8 @@ This Is The Story
 이것만 기억해줘요
 그대 사랑하지요
 세상 그 무엇보다 그대만을
-영원히 나 기다려요",
-78184,('Cause) I'm Your Girl,S.E.S.,댄스,S.E.S.,유영진,유영진,19971101,https://cdnimg.melon.co.kr/cm/album/images/000/05/405/5405_500.jpg/melon/resize/282/quality/80/optimize,66,15915,"Yeah 
+영원히 나 기다려요",423913596 429945103
+78184,('Cause) I'm Your Girl,S.E.S.,댄스,S.E.S.,유영진,유영진,19971101,https://cdnimg.melon.co.kr/cm/album/images/000/05/405/5405_500.jpg/melon/resize/282/quality/80/optimize,66,15923,"Yeah 
 what's up what's up SES
 We open up the new chapter 
 of funky New jill swing 
@@ -7912,7 +7750,7 @@ Cause I'm your girl
 Hold me baby 
 너를 닮아가는 내 모습 지켜봐줘 
 Stay with me last 
-forever yeah",
+forever yeah",406125585 418666508
 32700,난 그래,리아,록/메탈,개똥철학,리아,심현보,199801,https://cdnimg.melon.co.kr/cm/album/images/000/03/426/3426_500.jpg/melon/resize/282/quality/80/optimize,9,906,"누구나 사랑을 말하지
 마치 모든 걸 아는 사람처럼 
 모두들 쉽게만 말하지
@@ -7946,7 +7784,7 @@ forever yeah",
 믿음으로 변한다고들 해 
 쉬운 사랑만을 찾지마
 지킬 수 있는 용기가 필요해",406125585 101589930
-1500839,보낼수밖에 없는 난,소찬휘,발라드,Eight Times - Begin Again,김태훈,소찬휘,20061118,https://cdnimg.melon.co.kr/cm/album/images/003/32/765/332765_500.jpg/melon/resize/282/quality/80/optimize,10,4375,"떠나는 모습까진 볼 수 없어요
+1500839,보낼수밖에 없는 난,소찬휘,발라드,Eight Times - Begin Again,김태훈,소찬휘,20061118,https://cdnimg.melon.co.kr/cm/album/images/003/32/765/332765_500.jpg/melon/resize/282/quality/80/optimize,10,4374,"떠나는 모습까진 볼 수 없어요
 꼭 그래야 할 필요없다면
 차라리 내가 먼저 돌아서는게
 서로를 위해 좋을것 같아
@@ -7976,7 +7814,7 @@ forever yeah",
 솔직히 너무 두려워져요
 함께한 시간이 짧다 믿었는데
 이제와 보니 아닌 것 같아",100098236 485926496
-33590,일상으로의 초대 (Radio Mix),신해철,록/메탈,Crom‘s Techno Works,신해철,신해철,19980601,https://cdnimg.melon.co.kr/cm/album/images/000/03/205/3205_500.jpg/melon/resize/282/quality/80/optimize,25,6621,"산책을 하고 차를 마시고
+33590,일상으로의 초대 (Radio Mix),신해철,록/메탈,Crom‘s Techno Works,신해철,신해철,19980601,https://cdnimg.melon.co.kr/cm/album/images/000/03/205/3205_500.jpg/melon/resize/282/quality/80/optimize,25,6620,"산책을 하고 차를 마시고
 책을 보고 생각에 잠길 때
 요즘엔 뭔가 텅 빈 것 같아
 지금의 난
@@ -8038,8 +7876,8 @@ I love you
 해가 저물면 둘이 나란히
 지친 몸을 서로에 기대며
 그 날의 일과 주변 일들을
-얘기하다 조용히 잠들고 싶어",
-1022090,헤어진 다음날,이현우,발라드,Freewill of My Heart,이현우,이현우,19971101,https://cdnimg.melon.co.kr/cm/album/images/003/10/743/310743_500.jpg/melon/resize/282/quality/80/optimize,42,10951,"그대 오늘 하루는 어땠나요
+얘기하다 조용히 잠들고 싶어",445029956 403254598
+1022090,헤어진 다음날,이현우,발라드,Freewill of My Heart,이현우,이현우,19971101,https://cdnimg.melon.co.kr/cm/album/images/003/10/743/310743_500.jpg/melon/resize/282/quality/80/optimize,42,10954,"그대 오늘 하루는 어땠나요
 아무렇지도 않았나요
 혹시 후회하고 있진 않나요
 다른 만남을 준비하나요
@@ -8071,7 +7909,7 @@ I love you
 그것만이라도 내게 말해줘요
 날 떠나가나요
 나는 아무것도 할 수 없어요",445029956 406125585
-437146,내 낡은 서랍 속의 바다,패닉,록/메탈,Sea Within,이적,이적,199805,https://cdnimg.melon.co.kr/cm/album/images/000/30/257/30257_500.jpg/melon/resize/282/quality/80/optimize,29,6350,"내 바다 속에는 깊은 슬픔과
+437146,내 낡은 서랍 속의 바다,패닉,록/메탈,Sea Within,이적,이적,199805,https://cdnimg.melon.co.kr/cm/album/images/000/30/257/30257_500.jpg/melon/resize/282/quality/80/optimize,29,6351,"내 바다 속에는 깊은 슬픔과
 헛된 고민들 회오리치네
 그 바다 위에선 불어닥치는
 세상의 추위 맘을 얼게 해
@@ -8130,7 +7968,7 @@ I love you
 그 때 내가 바라보던 것들 아마
 볼 수 없겠지만 그래도 눈을 감아
 나의 낡은 서랍 속의 깊은 바다
-이젠 두 눈 감고 다시 한 번 닫아",
+이젠 두 눈 감고 다시 한 번 닫아",439683766 438456156
 75052,Everybody,진주,댄스,해바라기,박진영,박진영,19971217,https://cdnimg.melon.co.kr/cm/album/images/000/04/920/4920_500.jpg/melon/resize/282/quality/80/optimize,7,1395,"스뜹뜨르르듭듭듭 Oh baby
 즐거운 리듬에 맞춰
 우리 흥겨운 리듬에 맞춰
@@ -8200,7 +8038,7 @@ Hey mama C'mon Break it down
 즐거운 리듬에 맞춰
 우리 흥겨운 리듬에 맞춰
 Not Stop",402472865 403648710
-81526,Love Love,비쥬,-,비쥬의 첫번째 겨울..,비쥬,비쥬,199811,https://cdnimg.melon.co.kr/cm/album/images/000/04/579/4579_500.jpg/melon/resize/282/quality/80/optimize,3,839,"We will forever I love you 
+81526,Love Love,비쥬,,비쥬의 첫번째 겨울..,비쥬,비쥬,199811,https://cdnimg.melon.co.kr/cm/album/images/000/04/579/4579_500.jpg/melon/resize/282/quality/80/optimize,3,839,"We will forever I love you 
 you will never knew 
 We will forever I love you 
 you will never knew 
@@ -8285,7 +8123,7 @@ J'ai besoin de toi
 아무런 소식조차 없죠
 하지만 행복할꺼라고 믿으며
 이 노래 속에 그녈 보내요",428693499 449215193
-77364,세상이 그대를 속일지라도,김장훈,발라드,#1998 Ballads For Tears,이상호,유영석,19980201,https://cdnimg.melon.co.kr/cm/album/images/000/03/736/3736_500.jpg/melon/resize/282/quality/80/optimize,31,9089,"흔들리는 그대를 보면
+77364,세상이 그대를 속일지라도,김장훈,발라드,#1998 Ballads For Tears,이상호,유영석,19980201,https://cdnimg.melon.co.kr/cm/album/images/000/03/736/3736_500.jpg/melon/resize/282/quality/80/optimize,31,9097,"흔들리는 그대를 보면
 내 마음이 더 아픈거죠
 그댈 떠나 버린
 사람이 누군지 몰라도
@@ -8329,7 +8167,7 @@ J'ai besoin de toi
 속일지 몰라도
 내가 그대 곁에
 있음을 기억해요",479848178 438456156
-1606413,회상 (December),터보,발라드,터보 (Turbo) 3집 'Born Again',이승호,윤일상,1997,https://cdnimg.melon.co.kr/cm/album/images/003/48/448/348448_500.jpg/melon/resize/282/quality/80/optimize,29,12951,"겨울 오면은 우리 둘이서 
+1606413,회상 (December),터보,발라드,터보 (Turbo) 3집 'Born Again',이승호,윤일상,1997,https://cdnimg.melon.co.kr/cm/album/images/003/48/448/348448_500.jpg/melon/resize/282/quality/80/optimize,29,12957,"겨울 오면은 우리 둘이서 
 항상 왔었던 바닷가
 시린 바람과 하얀 파도는
 예전 그대로였지만
@@ -8396,7 +8234,7 @@ J'ai besoin de toi
 함박눈 촉촉한
 너의 입맞춤과
 눈물이라는 걸",445029956 418666508
-37845,해에게서 소년에게,넥스트,록/메탈,Lazenca (A Space Rock Opera),신해철,신해철,19971130,https://cdnimg.melon.co.kr/cm/album/images/000/03/212/3212_500.jpg/melon/resize/282/quality/80/optimize,44,7119,"눈을 감으면 태양의 저편에서
+37845,해에게서 소년에게,넥스트,록/메탈,Lazenca (A Space Rock Opera),신해철,신해철,19971130,https://cdnimg.melon.co.kr/cm/album/images/000/03/212/3212_500.jpg/melon/resize/282/quality/80/optimize,45,7125,"눈을 감으면 태양의 저편에서
 들려오는 멜로디
 내게 속삭였지
 이제 그만 일어나
@@ -8441,7 +8279,7 @@ Flying to the universe
 두려움에 흘린 저 눈물이
 이 다음에 올 사람들을
 인도하고 있는것이지",403254598 418831829
-78451,외출,최재훈,록/메탈,Neverending,채정은,최재훈,19980521,https://cdnimg.melon.co.kr/cm/album/images/000/04/983/4983_500.jpg/melon/resize/282/quality/80/optimize,8,2430,"너무나도 모자란 날 알기에
+78451,외출,최재훈,록/메탈,Neverending,채정은,최재훈,19980521,https://cdnimg.melon.co.kr/cm/album/images/000/04/983/4983_500.jpg/melon/resize/282/quality/80/optimize,8,2431,"너무나도 모자란 날 알기에
 기다리라곤 못했어
 기다림에 많이 힘겨워하는 너를
 난 볼 수 없을테니까
@@ -8472,7 +8310,7 @@ Flying to the universe
 안아 줄 수 없으니
 돌아갈거야 나를 믿어줘
 널 떠난이유 이해한다면 기다려",401014454 401315821
-77872,사랑한 후에,신성우,록/메탈,Mauve,신성우,이근상,19980402,https://cdnimg.melon.co.kr/cm/album/images/000/04/149/4149_500.jpg/melon/resize/282/quality/80/optimize,17,6920,"세상을 살아오는 동안에 
+77872,사랑한 후에,신성우,록/메탈,Mauve,신성우,이근상,19980402,https://cdnimg.melon.co.kr/cm/album/images/000/04/149/4149_500.jpg/melon/resize/282/quality/80/optimize,17,6921,"세상을 살아오는 동안에 
 몇 번의 사랑들을 만나게 되고 
 때론 결코 원치 않는 이별들도 
 해야 했었답니다 
@@ -8510,7 +8348,7 @@ Flying to the universe
 당신의 마음속에 
 행복만이 가득하기를 
 이젠 내가 기도 할게요",439683766 438456156
-79953,먼 훗날,YB (윤도현 밴드),록/메탈,소외 (疏外),유병열,유병열,199807,https://cdnimg.melon.co.kr/cm/album/images/000/04/374/4374_500.jpg/melon/resize/282/quality/80/optimize,8,4071,"널 이제 잊겠어 
+79953,먼 훗날,YB (윤도현 밴드),록/메탈,소외 (疏外),유병열,유병열,199807,https://cdnimg.melon.co.kr/cm/album/images/000/04/374/4374_500.jpg/melon/resize/282/quality/80/optimize,8,4073,"널 이제 잊겠어 
 내 깊은 그리움으로 
 이 밤을 지새운건 아니었는데 
 이제는 닦아낼 눈물이 없어 
@@ -8537,7 +8375,7 @@ Flying to the universe
 못한 내가 너무나도 원망스러워 
 먼 훗날 다시 널 
 우연히 마주칠 수 있다면",406125585 439683766
-8218628,눈물 내리는 날 (비),조 트리오,발라드,첫 만찬,원태연,조규만,199810,https://cdnimg.melon.co.kr/cm/album/images/026/90/071/2690071_500.jpg?59f81be6c5400ff6ef5ea641502293a6/melon/resize/282/quality/80/optimize,4,737,"또 날 위해 온거니
+8218628,눈물 내리는 날 (비),조 트리오,발라드,첫 만찬,원태연,조규만,199810,https://cdnimg.melon.co.kr/cm/album/images/026/90/071/2690071_500.jpg?59f81be6c5400ff6ef5ea641502293a6/melon/resize/282/quality/80/optimize,4,736,"또 날 위해 온거니
 니가 날 안아줄때
 날 대신 울어주는 니가
 고마웠었는데
@@ -8604,7 +8442,7 @@ Flying to the universe
 내게 너무 이쁜 그녀를
 살아가는 날만큼 사랑할거야
 내게 너무 이쁜 그녀를",401120730 457823933
-38548,혼자한 사랑,김현정,댄스,Legend,최규성,최규성,19970101,https://cdnimg.melon.co.kr/cm/album/images/000/03/014/3014_500.jpg/melon/resize/282/quality/80/optimize,51,13647,"너의 모습을 처음 봤을때 
+38548,혼자한 사랑,김현정,댄스,Legend,최규성,최규성,19970101,https://cdnimg.melon.co.kr/cm/album/images/000/03/014/3014_500.jpg/melon/resize/282/quality/80/optimize,51,13651,"너의 모습을 처음 봤을때 
 사랑이라고 느끼고 싶었지 
 하지만 너는 
 내게 별 관심을 보이지 않아 
@@ -8644,8 +8482,8 @@ Flying to the universe
 그 어떤 슬픔조차 
 나는 감당할수 있을것 같은데 
 사랑한다는 말을 하기엔 
-넌 내게 너무나도 멀리 있는것 같아",
-38030,배려,김동률,발라드,The Shadow Of Forgetfulness,김동률,김동률,19981201,https://cdnimg.melon.co.kr/cm/album/images/000/03/167/3167_500.jpg/melon/resize/282/quality/80/optimize,7,1717,"가끔 너는 내게
+넌 내게 너무나도 멀리 있는것 같아",406125585 418666508
+38030,배려,김동률,발라드,The Shadow Of Forgetfulness,김동률,김동률,19981201,https://cdnimg.melon.co.kr/cm/album/images/000/03/167/3167_500.jpg/melon/resize/282/quality/80/optimize,7,1718,"가끔 너는 내게
 아무렇지도 않은 듯이
 나의 안부를 묻곤 하지 태연히
 나는 아직 너의
@@ -8713,7 +8551,7 @@ Flying to the universe
 모든걸 알고 싶어요 
 이룰수 있겠죠 나의 첫사랑을요 
 지난 꿈속에 내 모습처럼 
-나 행복하게요",
+나 행복하게요",438456156 423913596
 78002,하나의 사랑,박상민,발라드,The Road,조은희,김지환,199802,https://cdnimg.melon.co.kr/cm/album/images/000/03/850/3850_500.jpg/melon/resize/282/quality/80/optimize,5,2319,"가슴속에 차오르는 그대 
 이렇게 외면 하지만
 나는 이미 알고있잖아 
@@ -8735,7 +8573,7 @@ Flying to the universe
 돌아서서 젖어오는 슬픔을
 그댄 알 수 없을꺼야
 그댄 알 수 없을 꺼야",438456156 455964959
-91284,슬픈 얼굴,A.R.T,발라드,Debut,김태희,박제윤,199711,https://cdnimg.melon.co.kr/cm/album/images/000/05/272/5272_500.jpg/melon/resize/282/quality/80/optimize,31,6618,"마지막 부탁이야 힘들지 않도록 
+91284,슬픈 얼굴,A.R.T,발라드,Debut,김태희,박제윤,199711,https://cdnimg.melon.co.kr/cm/album/images/000/05/272/5272_500.jpg/melon/resize/282/quality/80/optimize,31,6620,"마지막 부탁이야 힘들지 않도록 
 슬픈얼굴 짓지 말아줘
 어둠이 나를 덮어 깊은잠에 들면 
 편히쉴수 있도록
@@ -8791,7 +8629,7 @@ Flying to the universe
 어둠이 나를 덮어 깊은 
 잠에 들면
 내가 편히 쉴 수 있도록
-바람에 흩어지는 회색먼지처럼",
+바람에 흩어지는 회색먼지처럼",101516705 433145748
 1627767,Love Song,김종서,록/메탈,20th Anniversary Greatest Hits,김종서,김종서,20070424,https://cdnimg.melon.co.kr/cm/album/images/003/50/401/350401_500.jpg/melon/resize/282/quality/80/optimize,4,437,"가끔은 생각 날까
 지금 나처럼
 내일도 그길에 미소지으며
@@ -8865,8 +8703,8 @@ Flying to the universe
 사랑해 사랑해 영원히 영원히
 이 세상 단 하나뿐인 널
 내 전부라 말하고 싶어
-널 위해 준비된 사랑",
-32729,눈물,리아,록/메탈,Yozosooknyo,리아,오석준,199810,https://cdnimg.melon.co.kr/cm/album/images/000/03/429/3429_500.jpg/melon/resize/282/quality/80/optimize,26,10941,"이럴줄은 몰랐어 사랑을 느꼈어 
+널 위해 준비된 사랑",471207675 405943595
+32729,눈물,리아,록/메탈,Yozosooknyo,리아,오석준,199810,https://cdnimg.melon.co.kr/cm/album/images/000/03/429/3429_500.jpg/melon/resize/282/quality/80/optimize,26,10943,"이럴줄은 몰랐어 사랑을 느꼈어 
 떠난다는 그말에 나 울어
 버린거야
 내겐 그런 슬픈일이 없을 줄 
@@ -8940,7 +8778,7 @@ Flying to the universe
 오늘 네 생일에 내가 준비한
 나의 선물을 받아주렴
 바로 나야",401120730 460454170
-77536,Honey,박진영,댄스,십년이 지나도...,박진영,박진영,199801,https://cdnimg.melon.co.kr/cm/album/images/000/03/965/3965_500.jpg/melon/resize/282/quality/80/optimize,13,2913,"그대를 처음 본 순간 
+77536,Honey,박진영,댄스,십년이 지나도...,박진영,박진영,199801,https://cdnimg.melon.co.kr/cm/album/images/000/03/965/3965_500.jpg/melon/resize/282/quality/80/optimize,13,2916,"그대를 처음 본 순간 
 난 움직일 수가 없었지 
 그대 그 아름다운 모습 
 난 넋을 잃고야 말았지 
@@ -9105,8 +8943,8 @@ oh honey 오 베이비
 손에 꼭 쥐고 가 언젠가 니곁에 
 가게 되는날
 그때 내가 너의 손에 끼울게
-나 늦더라도 기다려",
-611573,오직 너뿐인 나를…,이승철,발라드,6집 1999 & Live Best,이승철,외국곡,19990321,https://cdnimg.melon.co.kr/cm/album/images/000/40/272/40272_500.jpg/melon/resize/282/quality/80/optimize,6,3548,"아직도 널 잊지 못해 
+나 늦더라도 기다려",427705075 485926496
+611573,오직 너뿐인 나를…,이승철,발라드,6집 1999 & Live Best,이승철,외국곡,19990321,https://cdnimg.melon.co.kr/cm/album/images/000/40/272/40272_500.jpg/melon/resize/282/quality/80/optimize,6,3549,"아직도 널 잊지 못해 
 이유 없는 울음 삼키고 
 애써 기다린 그대 지우려하네 
 어두웠던 지난 겨울비 내린 그날 밤 
@@ -9138,7 +8976,7 @@ oh honey 오 베이비
 오직 너뿐인 나를
 오직 너뿐인 나를
 기억해줘 기억해줘",406125585 101595339
-83803,A'ddio,양파,발라드,A'ddio,임보경,이상호,19990626,https://cdnimg.melon.co.kr/cm/album/images/000/04/266/4266_500.jpg/melon/resize/282/quality/80/optimize,17,6865,"그대 뒤에서 항상 
+83803,A'ddio,양파,발라드,A'ddio,임보경,이상호,19990626,https://cdnimg.melon.co.kr/cm/album/images/000/04/266/4266_500.jpg/melon/resize/282/quality/80/optimize,17,6866,"그대 뒤에서 항상 
 바라만 보네요 
 나의 오해가 깊어 
 남은건 이별뿐 
@@ -9177,7 +9015,7 @@ oh honey 오 베이비
 그대가 날보내고 떠나가는 
 것이 아니라 
 조금더 깊이 그대 맘에 묻어 
-두려 했다는걸",
+두려 했다는걸",442706386 418666508
 66554,미절 (Misery),쿨 (COOL),댄스,Cool 4.5,이승호,박해운,199901,https://cdnimg.melon.co.kr/cm/album/images/000/05/184/5184_500.jpg/melon/resize/282/quality/80/optimize,13,3303,"누가 좀 나를 도와 주세요  
 제발 한번만 날 살려주세요  
 이러다가 정말로  
@@ -9236,48 +9074,36 @@ oh honey 오 베이비
 뛰어봤자 그녀의 손바닥 안인걸 
 언젠가 알게 될거야 
 힘든 내 사랑을",438722256 431370035
-82633,영원한 사랑,핑클 (Fin.K.L),댄스,White,김영아,주태영,199905,https://cdnimg.melon.co.kr/cm/album/images/000/05/291/5291_500.jpg/melon/resize/282/quality/80/optimize,63,24387,"이젠 내 사랑이 되어줘 
+82633,영원한 사랑,핑클 (Fin.K.L),댄스,White,김영아,주태영,199905,https://cdnimg.melon.co.kr/cm/album/images/000/05/291/5291_500.jpg/melon/resize/282/quality/80/optimize,63,24393,"이젠 내 사랑이 되어줘 
 내 모든걸 너에게 기대고 싶어 
-
 언제나 날 지켜줄 너라고 
 변치않는 영원한 사랑을 약속해줘 
-
 내겐 자신없는 듯 니 사랑을 
 감추며 돌아서지마 불안한 네 미래도 
 앞선 걱정일 뿐이야 
-
 좀더 나은 모습의 니가 되길 
 바라는 욕심은 없어 지금 네 사랑이면 
 난 정말 행복해 
-
 항상 나의곁에 있어줘 
 꼭 네게만 내꿈을 맡기고 싶어 
-
 들어봐 언제까지 내맘에 하나뿐인 
 소중한 그사람 너뿐이야 
-
 우리 함께 걸어갈 시간들이 
 어쩌면 힘들지 몰라 
-
 하지만 누구보다 너를 믿어줄 나잖아 
 이젠 네게 주고픈 소망들을 
 조금은 알수 있겠니 내 작은 가슴가득 
 너만을 사랑해 
-
 항상 나의곁에 있어줘 
 꼭 네게만 내꿈을 맡기고 싶어 
-
 들어봐 언제까지 내맘에 
 하나뿐인 소중한 그사람 
-
 내 두눈을 봐 이렇게 너의품에 안긴 내맘 
 그 누구보다 행복해 
-
 먼훗날 우리 눈감는 날까지 
 지금처럼 네사랑 내곁에 
-
-함께해줘",
-38571,되돌아온 이별,김현정,댄스,A Sea Gull Of Dream,최규성,유유진,19990202,https://cdnimg.melon.co.kr/cm/album/images/000/03/016/3016_500.jpg/melon/resize/282/quality/80/optimize,41,11616,"내겐 이런일 없을줄 알았어
+함께해줘",415051158 406125585
+38571,되돌아온 이별,김현정,댄스,A Sea Gull Of Dream,최규성,유유진,19990202,https://cdnimg.melon.co.kr/cm/album/images/000/03/016/3016_500.jpg/melon/resize/282/quality/80/optimize,41,11618,"내겐 이런일 없을줄 알았어
 내 사랑을 얻기위해 나 
 상처 받는일
 너를 만나서 나는 모든걸 
@@ -9315,8 +9141,8 @@ oh honey 오 베이비
 네가 내게준 지금 눈물은
 다 너에게로 되돌아 갈꺼야
 너를 떠올릴 추억도 없는거야
-내 기억에서 사라져줘",
-489870,열정,유승준,댄스,You Seung Jun Best & J Duet Collection,이현도,이현도,20010901,https://cdnimg.melon.co.kr/cm/album/images/000/03/394/3394_500.jpg/melon/resize/282/quality/80/optimize,118,10501,"이제 나 내가 말하는 건  
+내 기억에서 사라져줘",404939051 438722256
+489870,열정,유승준,댄스,You Seung Jun Best & J Duet Collection,이현도,이현도,20010901,https://cdnimg.melon.co.kr/cm/album/images/000/03/394/3394_500.jpg/melon/resize/282/quality/80/optimize,118,10500,"이제 나 내가 말하는 건  
 아주 커다란  
 내 가슴깊이 온통을  
 그렇게 자리한  
@@ -9399,7 +9225,7 @@ CAN YOU BE THE ONE FOR ME
 소중한것 이란건 내게 
 있을 수 없어 
 널 사랑해 너의 모든걸 
-나 영원토록 끝을 알수 없도록",
+나 영원토록 끝을 알수 없도록",406125585 400903962
 1816950,불멸의 사랑,조성모,발라드,To Heaven,양정승,양정승,19980903,https://cdnimg.melon.co.kr/cm/album/images/003/71/259/371259_500.jpg/melon/resize/282/quality/80/optimize,22,4337,"나 가진것 없지만
 널 사랑했다는 이유로
 저 다른세상
@@ -9434,7 +9260,7 @@ CAN YOU BE THE ONE FOR ME
 널 위해 바칠게
 넌 어려워마
 그리고 행복하게 살아줘
-행복하게 살아줘",
+행복하게 살아줘",427705075 517680521
 91317,신부에게,유리상자,발라드,Be Happy...,이세준(유리상자),박승화 (유리상자),19990901,https://cdnimg.melon.co.kr/cm/album/images/000/04/373/4373_500.jpg/melon/resize/282/quality/80/optimize,7,3291,"새하얀 드레스 수줍은 발걸음 
 꿈꾸는 설레임 
 나만을 믿고 내곁에 선 
@@ -9466,7 +9292,7 @@ CAN YOU BE THE ONE FOR ME
 세상 모든 기쁨과 슬픔 또 사랑
 함께 나눌 사람을 난 찾은거죠
 약속할께요 더 이상의 외로움
-없을거란걸",
+없을거란걸",406125585 417018390
 4123388,Shut Up!! (Feat. 이윤정),유승준,댄스,Now Or Never,이승호,윤일상,19990416,https://cdnimg.melon.co.kr/cm/album/images/021/86/438/2186438_500.jpg/melon/resize/282/quality/80/optimize,4,529,"어디서 뭘 했는데
 또 누굴 만난건데
 도대체 연락 안돼
@@ -9561,7 +9387,7 @@ CAN YOU BE THE ONE FOR ME
 계속 기다릴꺼야
 니가 이런 내맘을
 알아줄때까지",436389281 421063388
-37571,여름안에서,듀스,랩/힙합,Deux Forever,이현도,이현도,1996,https://cdnimg.melon.co.kr/cm/album/images/000/03/252/3252_500.jpg/melon/resize/282/quality/80/optimize,152,27098,"언제나 꿈꿔 온 순간이 
+37571,여름안에서,듀스,랩/힙합,Deux Forever,이현도,이현도,1996,https://cdnimg.melon.co.kr/cm/album/images/000/03/252/3252_500.jpg/melon/resize/282/quality/80/optimize,152,27104,"언제나 꿈꿔 온 순간이 
 여기 지금 내게 시작되고 있어
 그렇게 너를 사랑했던 
 내 마음을 넌 받아 주었어
@@ -9605,8 +9431,8 @@ CAN YOU BE THE ONE FOR ME
 난 너를 사랑해 난 너를 사랑해
 난 너를 사랑해 난 너를 사랑해
 난 너를 사랑해 난 너를 사랑해
-너는 푸른 바다야 원 투 쓰리 포",
-38751,비정(非情),김경호,록/메탈,Kyung-Ho Kim Ⅳ,김태훈,강동윤,19990422,https://cdnimg.melon.co.kr/cm/album/images/000/03/030/3030_500.jpg/melon/resize/282/quality/80/optimize,50,13948,"손가락 하나 내 뜻대로
+너는 푸른 바다야 원 투 쓰리 포",466256773 418666508
+38751,비정(非情),김경호,록/메탈,Kyung-Ho Kim Ⅳ,김태훈,강동윤,19990422,https://cdnimg.melon.co.kr/cm/album/images/000/03/030/3030_500.jpg/melon/resize/282/quality/80/optimize,50,13954,"손가락 하나 내 뜻대로
 움직이지도 못할 만큼
 취해버린 채로 눈을 감을때
 눈을 감는 그 순간에도
@@ -9629,7 +9455,7 @@ CAN YOU BE THE ONE FOR ME
 나를 이대로 내버려 둬
 어차피 나에게 올 수 
 없는거라면",101408955 517680521
-83208,몰라,엄정화,댄스,005.1999.06,김창환,김창환,199906,https://cdnimg.melon.co.kr/cm/album/images/000/04/314/4314_500.jpg/melon/resize/282/quality/80/optimize,25,5481,"어떻게 말해야 할까
+83208,몰라,엄정화,댄스,005.1999.06,김창환,김창환,199906,https://cdnimg.melon.co.kr/cm/album/images/000/04/314/4314_500.jpg/melon/resize/282/quality/80/optimize,25,5485,"어떻게 말해야 할까
 다른 사람이 생겼다고
 언제나 나만을 위해
 나를 아껴준 그대에게
@@ -9675,13 +9501,8 @@ CAN YOU BE THE ONE FOR ME
 도대체 사랑이 어떤 거길래
 나만을 아껴주었던
 그대를 왜 내가 떠나는건지
-나도 모르겠어",
-4383670,배웅,윤종신,발라드,Just Piano,하림,"
-DJ
-
-											이노래는
-										
-",20140103,https://cdnimg.melon.co.kr/cm/album/images/022/24/335/2224335_500.jpg/melon/resize/282/quality/80/optimize,23,6987,"머나먼 길 떠나는 사람처럼 
+나도 모르겠어",407307299 425182189
+4383670,배웅,윤종신,발라드,Just Piano,하림,,20140103,https://cdnimg.melon.co.kr/cm/album/images/022/24/335/2224335_500.jpg/melon/resize/282/quality/80/optimize,23,6987,"머나먼 길 떠나는 사람처럼 
 마치 배웅 나온것처럼 
 다시 돌아올 것 같은 
 그대 사라질때 까지 보네 
@@ -9717,7 +9538,44 @@ DJ
 만나면 내가 알수없게해주길 
 그대 행복 빌어주는 
 나의 처량한 모습 두려워",408992840 434967456
-1722260,사랑보다 깊은 상처,임재범,발라드,비상,최원석,신재홍,199707,https://cdnimg.melon.co.kr/cm/album/images/003/57/227/357227_500.jpg/melon/resize/282/quality/80/optimize,28,15331,,406125585 418666508
+1722260,사랑보다 깊은 상처,임재범,발라드,비상,최원석,신재홍,199707,https://cdnimg.melon.co.kr/cm/album/images/003/57/227/357227_500.jpg/melon/resize/282/quality/80/optimize,28,15332,"오랫동안 기다려 왔어
+내가 원한 너였기에
+슬픔을 감추며 널 보내줬었지
+날 속여 가면서
+잡고 싶었는지 몰라
+너의 눈물 속의 내 모습
+아직까지 남아있어
+추억을 버리긴 너무나 아쉬워
+난 너를 기억해 
+이젠 말할게 내 오랜 기다림
+너 떠나고 너의 미소 볼수 없지만
+항상 기억할게 너의 그모든걸
+사랑 보다 깊은 상처만 준 난
+이젠 깨달았어
+후회하고 있다는 걸
+이젠 모두 떠나갔지만
+나에게 넌 남아있어
+추억을 감춘채 넌 울고 있었어
+난 이젠 너에게
+아무런 말도 할 수 없어
+그런 넌 용서할지 몰라
+부족했던 내모습을
+넌 나를 지키며 항상 위로했었지
+난 그런 너에게
+이젠 이렇게 아픔만 남겼어
+너 떠나고 너의 미소 볼수 없지만
+항상 기억할게 너의 그 모든 걸
+사랑 보다 깊은 상처만 준 난
+이젠 깨달았어
+후회하고 있다는걸
+나는 상상했었지
+나의 곁에 있는 널
+이젠 모든 나의 꿈들을
+너에게 줄게
+너 떠나고 너의 미소 볼수 없지만
+항상 기억할게 너의 그 모든걸
+사랑보다 깊은 상처만 준 난
+이젠 깨달았어 후회하고 있다는걸",406125585 418666508
 38466,비원(悲願),김민종,발라드,因緣 (인연),김민종,조규만,19990317,https://cdnimg.melon.co.kr/cm/album/images/000/02/954/2954_500.jpg?d8b6c7228871e068ee27cd670165e7a3/melon/resize/282/quality/80/optimize,25,2728,"뭐가 그리 힘드니 
 내가 너를 힘들게 하니 
 그럼 편안히 내곁을 떠나 
@@ -9758,7 +9616,7 @@ DJ
 지난 시간을 기억하며 
 편히 지내왔었던
 지난 시간을 기억하며",101579569 101539167
-82979,마지막 사랑,박기영,발라드,Promise,조규만,조규만,19990427,https://cdnimg.melon.co.kr/cm/album/images/000/03/886/3886_500.jpg/melon/resize/282/quality/80/optimize,54,29589,"몰랐었어 너의 그바램들을
+82979,마지막 사랑,박기영,발라드,Promise,조규만,조규만,19990427,https://cdnimg.melon.co.kr/cm/album/images/000/03/886/3886_500.jpg/melon/resize/282/quality/80/optimize,54,29596,"몰랐었어 너의 그바램들을
 모두 이해한다 믿고만 싶었던거야
 너무 힘들다고 말하는 널 보며
 잠시 헤어지자고 말을 했던 나였어
@@ -9830,7 +9688,7 @@ Alright 연애하는 기분이라
 나는 날아 날아 올라
 그대와 함께 있을때면
 Alright 정말 좋은 것 같아",100098486 423913596
-1816948,To Heaven (천국으로 보낸 편지),조성모,발라드,To Heaven,이승호,Papertonic,19980903,https://cdnimg.melon.co.kr/cm/album/images/003/71/259/371259_500.jpg/melon/resize/282/quality/80/optimize,88,36134,"괜찮은거니 어떻게 지내는거야
+1816948,To Heaven (천국으로 보낸 편지),조성모,발라드,To Heaven,이승호,Papertonic,19980903,https://cdnimg.melon.co.kr/cm/album/images/003/71/259/371259_500.jpg/melon/resize/282/quality/80/optimize,88,36140,"괜찮은거니 어떻게 지내는거야
 나 없다고
 또 울고 그러진 않니
 매일 꿈속에 찾아와
@@ -9863,7 +9721,7 @@ Alright 정말 좋은 것 같아",100098486 423913596
 이별이 없는 그곳에
 우리 다시 만날 그날이
 그때까지 조금만
-날 기다려 줘",
+날 기다려 줘",406125585 407307299
 84229,남자이야기 -My Way,허니 패밀리,랩/힙합,남자 이야기,박명호,주라 (Jura),19990902,https://cdnimg.melon.co.kr/cm/album/images/000/05/319/5319_500.jpg/melon/resize/282/quality/80/optimize,25,5430,"이 세상 내 아버지가 살던 세상 
 이 세상 내 자식이 살아갈 세상 
 이 세상 속에서 내가 지금 
@@ -9979,7 +9837,7 @@ Alright 정말 좋은 것 같아",100098486 423913596
 그래 너라면 모든 걸 잊을 수 있어
 귀여운 그 모습에 함께 할거야
 내리기는 정말 싫어",479256091 430429343
-75070,너를 사랑해,S.E.S.,댄스,S.E.S. 2,최수정,최수정,199811,https://cdnimg.melon.co.kr/cm/album/images/000/05/407/5407_500.jpg/melon/resize/282/quality/80/optimize,62,25726,"너를 사랑해 나의 마음이 Oh 
+75070,너를 사랑해,S.E.S.,댄스,S.E.S. 2,최수정,최수정,199811,https://cdnimg.melon.co.kr/cm/album/images/000/05/407/5407_500.jpg/melon/resize/282/quality/80/optimize,62,25736,"너를 사랑해 나의 마음이 Oh 
 너를 생각할 수록  
 나는 행복해 다른 누구도  
 난 부럽지 않아  
@@ -10044,7 +9902,7 @@ oh 너를 생각할수록
 가끔가다 우리 싸울때도 
 있겠지만 
 우리 언제나 즐거울 수 있을 거야 
-서로를 사랑하고 있으니 yeah",
+서로를 사랑하고 있으니 yeah",406125585 418666508
 91307,미안해 널 미워해,자우림,록/메탈,연인(戀人),김윤아,이선규,199811,https://cdnimg.melon.co.kr/cm/album/images/000/04/663/4663_500.jpg/melon/resize/282/quality/80/optimize,63,21781,"기억 나지 않아 어젯밤 꿈조차
 지우려고 했던게 아닌데
 잠들지 않도록
@@ -10064,8 +9922,8 @@ oh 너를 생각할수록
 미안해 널 미워해 이대로 인걸
 어느새 난 빗물에 젖어 슬픈 새
 미안해 널 미워해 이대로 인걸
-이해해 넌 그렇게 그대로 인걸",
-1177976,편지할께요,박정현,R&B/Soul,A Second Helping,노영심,김형석,19990301,https://cdnimg.melon.co.kr/cm/album/images/003/17/156/317156_500.jpg/melon/resize/282/quality/80/optimize,43,15928,"꼭 편지 할게요 내일 또 만나지만 
+이해해 넌 그렇게 그대로 인걸",406125585 433145748
+1177976,편지할께요,박정현,R&B/Soul,A Second Helping,노영심,김형석,19990301,https://cdnimg.melon.co.kr/cm/album/images/003/17/156/317156_500.jpg/melon/resize/282/quality/80/optimize,43,15929,"꼭 편지 할게요 내일 또 만나지만 
 돌아온 길엔 언제나 아쉽기만 해
 더 정성스럽게 당신을 만나는 길
 그대 없이도 그대와 밤새워 얘길해
@@ -10122,7 +9980,7 @@ oh 너를 생각할수록
 지나버린 사랑 그대
 다시 누군가와 행복하기를
 지나 버린 사랑 그대",418666508 438456156
-83437,여전히 아름다운지,김연우,발라드,A Night In Seoul,유희열,유희열,199901,https://cdnimg.melon.co.kr/cm/album/images/000/05/422/5422_500.jpg/melon/resize/282/quality/80/optimize,171,98222,"첨엔 혼자라는게 편했지
+83437,여전히 아름다운지,김연우,발라드,A Night In Seoul,유희열,유희열,199901,https://cdnimg.melon.co.kr/cm/album/images/000/05/422/5422_500.jpg/melon/resize/282/quality/80/optimize,171,98229,"첨엔 혼자라는게 편했지
 자유로운 선택과 시간에
 너의 기억을 지운 듯 했어
 정말 난 그런줄로 믿었어
@@ -10147,7 +10005,7 @@ oh 너를 생각할수록
 그는 어떠니 우리 함께한 날들
 잊을 만큼 너에게 잘해주니
 행복해야돼 나의 모자람
-채워줄 좋은 사람 만났으니까",
+채워줄 좋은 사람 만났으니까",417639180 445029956
 81788,그대는 모릅니다,이승환,발라드,The War In Life,이승환,이지은,199903,https://cdnimg.melon.co.kr/cm/album/images/000/04/528/4528_500.jpg/melon/resize/282/quality/80/optimize,16,2092,"나 그 이후로 한번도 
 그대를 못 본 것은 
 언제나 고개 숙이기 때문
@@ -10173,8 +10031,8 @@ oh 너를 생각할수록
 나 사는 모습
 안 되어 보이더라도
 너무 걱정은 말아요
-내 몫이죠 그대만 편안하다면",
-27676,사랑하게 되면,안치환,포크/블루스,I Still Believe,Manjagu(맨자구),Manjagu(맨자구),19990501,https://cdnimg.melon.co.kr/cm/album/images/000/00/288/288_500.jpg/melon/resize/282/quality/80/optimize,13,3988,"나 그대가 보고파서
+내 몫이죠 그대만 편안하다면",461461544 409131004
+27676,사랑하게 되면,안치환,포크/블루스,I Still Believe,Manjagu(맨자구),Manjagu(맨자구),19990501,https://cdnimg.melon.co.kr/cm/album/images/000/00/288/288_500.jpg/melon/resize/282/quality/80/optimize,13,3990,"나 그대가 보고파서
 오늘도 이렇게 잠 못 드는데
 창가에 머무는
 부드러운 바람 소리
@@ -10203,7 +10061,7 @@ oh 너를 생각할수록
 훨훨 훨훨 이 밤을 날아서
 훨훨 훨훨
 나를 잠 못 들게 하는 사람아",438456156 454776565
-1877177,사랑하는 날까지,김종환,성인가요/트로트,사랑하는 날까지,김종환,김종환,19981201,https://cdnimg.melon.co.kr/cm/album/images/003/82/277/382277_500.jpg/melon/resize/282/quality/80/optimize,0,639,"사랑은 운명 속에
+1877177,사랑하는 날까지,김종환,성인가요/트로트,사랑하는 날까지,김종환,김종환,19981201,https://cdnimg.melon.co.kr/cm/album/images/003/82/277/382277_500.jpg/melon/resize/282/quality/80/optimize,0,640,"사랑은 운명 속에
 언제나 살고 있다
 가슴을 치는 슬픔 
 그 고통 속에도
@@ -10239,8 +10097,8 @@ oh 너를 생각할수록
 천년을 기다려도
 너를 사랑하겠다 
 마지막 남은 사랑을 위해 
-마지막 남은 사랑을 위해",457533610 401120730
-38753,아름답게 사랑하는 날까지 (금지된 사랑 Ⅱ),김경호,록/메탈,Kyung-Ho Kim Ⅳ,이경,유승범,19990422,https://cdnimg.melon.co.kr/cm/album/images/000/03/030/3030_500.jpg/melon/resize/282/quality/80/optimize,48,5891,"그래 내 안에서 살게 한거야
+마지막 남은 사랑을 위해",401120730 495162172
+38753,아름답게 사랑하는 날까지 (금지된 사랑 Ⅱ),김경호,록/메탈,Kyung-Ho Kim Ⅳ,이경,유승범,19990422,https://cdnimg.melon.co.kr/cm/album/images/000/03/030/3030_500.jpg/melon/resize/282/quality/80/optimize,48,5895,"그래 내 안에서 살게 한거야
 가엾은 너 아픔 재우고
 내 가슴 어디에서도
 숨 쉬고 있어
@@ -10271,7 +10129,7 @@ oh 너를 생각할수록
 가슴 안에 숨쉴거야
 아름답게 사랑하는 날까지
 난 살겠어",408723261 443413135
-37989,슬픈 선물,김장훈,발라드,1999 바보,유영석,유영석,199910,https://cdnimg.melon.co.kr/cm/album/images/000/03/164/3164_500.jpg/melon/resize/282/quality/80/optimize,29,4104,"다 끝난 일인거니
+37989,슬픈 선물,김장훈,발라드,1999 바보,유영석,유영석,199910,https://cdnimg.melon.co.kr/cm/album/images/000/03/164/3164_500.jpg/melon/resize/282/quality/80/optimize,29,4107,"다 끝난 일인거니
 이젠 돌이킬수 없니 
 널 잊고 살아가야 하는건
 나를 포기한다는 건데 
@@ -10307,8 +10165,8 @@ oh 너를 생각할수록
 이젠 다 잊었단 말 대신
 처음부터 정말 나는 
 너를 모른다고 말해줄께
-처음부터 우린 모르는 사이인거야",
-91314,돌아와,클론,댄스,Funky Together,김창환,김창환,199903,https://cdnimg.melon.co.kr/cm/album/images/000/05/216/5216_500.jpg/melon/resize/282/quality/80/optimize,10,1932,"돌아와 나에게 돌아와 
+처음부터 우린 모르는 사이인거야",517680521 455359115
+91314,돌아와,클론,댄스,Funky Together,김창환,김창환,199903,https://cdnimg.melon.co.kr/cm/album/images/000/05/216/5216_500.jpg/melon/resize/282/quality/80/optimize,10,1933,"돌아와 나에게 돌아와 
 돌아와 나에게 모두 내가 잘못했어 
 더 이상 망설이지 말고 
 나 이제 네게 자신있게 말할 수 있어 
@@ -10368,7 +10226,7 @@ oh 너를 생각할수록
 더 이상 망설이지 말고
 돌아와 나에게 돌아와
 돌아와 나에게 돌아와
-더 이상 망설이지 말고",
+더 이상 망설이지 말고",438722256 402472865
 38541,부메랑,김건모,발라드,Growing,문창배,문창배,19991120,https://cdnimg.melon.co.kr/cm/album/images/000/03/013/3013_500.jpg/melon/resize/282/quality/80/optimize,2,611,"다가오지마 더 이상  
 위로될 수 없다는 것을 
 모르는 것처럼  
@@ -10515,8 +10373,8 @@ Beautiful girl
 내 사랑 Beautiful girl 
 내 사랑 Beautiful girl 
 내 사랑 Beautiful girl 
-내 사랑 Beautiful girl",
-91232,시작,박기영,록/메탈,Promise,오석준,오석준,19990427,https://cdnimg.melon.co.kr/cm/album/images/000/03/886/3886_500.jpg/melon/resize/282/quality/80/optimize,75,35378,"오직 너만을 생각한 
+내 사랑 Beautiful girl",418666508 497822039
+91232,시작,박기영,록/메탈,Promise,오석준,오석준,19990427,https://cdnimg.melon.co.kr/cm/album/images/000/03/886/3886_500.jpg/melon/resize/282/quality/80/optimize,75,35389,"오직 너만을 생각한 
 밤이 있었어 
 내가 정말 왜 이러는 건지 
 아무래도 니가 너무 
@@ -10552,8 +10410,8 @@ Beautiful girl
 니가 나의 전부라는 걸 
 어떡해야 내 마음을 알겠니 
 니가 나의 전부라는 걸 
-니가 나의 모든 거야",
-84207,하루 하루,타샤니,랩/힙합,Parallel Prophecys,정연준,정연준,19990803,https://cdnimg.melon.co.kr/cm/album/images/000/05/376/5376_500.jpg/melon/resize/282/quality/80/optimize,12,7034,"et puis tu es parti 
+니가 나의 모든 거야",445029956 405487309
+84207,하루 하루,타샤니,랩/힙합,Parallel Prophecys,정연준,정연준,19990803,https://cdnimg.melon.co.kr/cm/album/images/000/05/376/5376_500.jpg/melon/resize/282/quality/80/optimize,12,7036,"et puis tu es parti 
 je ne peux pas vivre sans toi 
 Je pense a toi chaque jour 
 et toute la nuit Je vous desir 
@@ -10608,9 +10466,8 @@ chance again Je t'aime
 하루하루 지나가면 잊을 수 있을까
 그대의 모습과 사랑했던 기억들은
 끝내 이룰 수 없었던 약속들을
-나는 또 슬퍼하고 말거야",
-1786618,이야기 속으로,조pd (ZoPD),랩/힙합,In Stardom,조pd (ZoPD),조pd (ZoPD),199901,https://cdnimg.melon.co.kr/cm/album/images/003/62/830/362830_500.jpg/melon/resize/282/quality/80/optimize,3,510,None,409227846 418840306
-83190,만남,코요태,댄스,코요태 I,김진만,임기훈,19990113,https://cdnimg.melon.co.kr/cm/album/images/000/04/936/4936_500.jpg/melon/resize/282/quality/80/optimize,34,16514,"우리 이제 지난 일들 
+나는 또 슬퍼하고 말거야",407307299 418666508
+83190,만남,코요태,댄스,코요태 I,김진만,임기훈,19990113,https://cdnimg.melon.co.kr/cm/album/images/000/04/936/4936_500.jpg/melon/resize/282/quality/80/optimize,34,16524,"우리 이제 지난 일들 
 모두 잊어버려요
 원치 않던 만남으로 
 가득했던 그런 날들
@@ -10657,8 +10514,8 @@ let me hear you say hell yeah
 흘러 흘러 시간 속에 묻혀진대도 
 얼굴 맞댄 이대로 살 수만 있다면
 죽어서도 행복한 비둘기 처럼
-그냥 지금 이대로 멈춰 서요",
-84781,아이야! (I yah!),H.O.T.,댄스,I yah!,유영진,유영진,199909,https://cdnimg.melon.co.kr/cm/album/images/000/05/277/5277_500.jpg/melon/resize/282/quality/80/optimize,117,10797,"아이야 니가 속한 세상에 넌  
+그냥 지금 이대로 멈춰 서요",487081506 513801514
+84781,아이야! (I yah!),H.O.T.,댄스,I yah!,유영진,유영진,199909,https://cdnimg.melon.co.kr/cm/album/images/000/05/277/5277_500.jpg/melon/resize/282/quality/80/optimize,117,10799,"아이야 니가 속한 세상에 넌  
 너무너무나도 아름다운 세상  
 속에 넌 그렇게  
 모든것을 아름답게만 보는것만  
@@ -10737,7 +10594,7 @@ all with embrace hates
 아이야 아이야 아이야 아이야 
 우리들이 추구하는 모든 것들 
 언제나 그 안에 욕심은 없는지 
-지켜내야해 다음 세기가 올때까지",
+지켜내야해 다음 세기가 올때까지",438722256 445594812
 84736,Lying,샵,댄스,The S#arp,백종열,박근태,19981112,https://cdnimg.melon.co.kr/cm/album/images/000/05/356/5356_500.jpg/melon/resize/282/quality/80/optimize,17,2183,"오 오 가져가 가져가봐
 니가 준 나의 모든걸
 오 오 웃지마 웃기지마
@@ -10834,8 +10691,8 @@ we the SHARPS
 오 오 가지마 가지마라
 난 널 어쩔수 없다고
 오 오 기다려 기다려봐
-이젠 거짓이 아니야",
-80392,내 남은 사랑을 위해,홍경민,록/메탈,Free Throw Ⅱ Shot,이승호,Papertonic,19980901,https://cdnimg.melon.co.kr/cm/album/images/000/05/186/5186_500.jpg/melon/resize/282/quality/80/optimize,11,2950,"우 우 
+이젠 거짓이 아니야",406125585 400903962
+80392,내 남은 사랑을 위해,홍경민,록/메탈,Free Throw Ⅱ Shot,이승호,Papertonic,19980901,https://cdnimg.melon.co.kr/cm/album/images/000/05/186/5186_500.jpg/melon/resize/282/quality/80/optimize,11,2951,"우 우 
 내앞에
 네가 와 있다는 걸
 이미 알고 있지만
@@ -10917,8 +10774,8 @@ we the SHARPS
 그대가 있기에
 이 세상이 난 행복해
 너무 너무나 행복해
-Happy birthday to you",
-83326,Gimme! Gimme!,컨츄리 꼬꼬,댄스,Color Of Chameleon,최수정,최수정,19990614,https://cdnimg.melon.co.kr/cm/album/images/000/04/955/4955_500.jpg/melon/resize/282/quality/80/optimize,30,11624,"사랑이 듬뿍담긴 편지를 받았어 
+Happy birthday to you",100107421 423913596
+83326,Gimme! Gimme!,컨츄리 꼬꼬,댄스,Color Of Chameleon,최수정,최수정,19990614,https://cdnimg.melon.co.kr/cm/album/images/000/04/955/4955_500.jpg/melon/resize/282/quality/80/optimize,30,11625,"사랑이 듬뿍담긴 편지를 받았어 
 편지와 함께 한아름 꽃도 받았어 
 꽃다발 속에 담긴 너의  
 그 마음이 정말 좋았어 sexy 
@@ -10998,7 +10855,7 @@ me Tell me Tell me Tell me
 향기로운 그입술에 잊지못할
 추억은 다시 돌아올거야 
 내가슴의 운명처럼",406125585 100098244
-81075,1tym,원타임,랩/힙합,One Time For Your Mind,송백경,페리,199811,https://cdnimg.melon.co.kr/cm/album/images/000/03/490/3490_500.jpg/melon/resize/282/quality/80/optimize,21,4703,"알겠어 와 와 우리도 지금까지  
+81075,1tym,원타임,랩/힙합,One Time For Your Mind,송백경,페리,199811,https://cdnimg.melon.co.kr/cm/album/images/000/03/490/3490_500.jpg/melon/resize/282/quality/80/optimize,21,4704,"알겠어 와 와 우리도 지금까지  
 how how 너무도 긴 시간을  
 foul foul  
 참아왔던 것 you know what  
@@ -11052,8 +10909,8 @@ mind 원하는 것을 다
 1tym 조금씩 다가와 우리 
 함께 가는 거야 이대로 
 1tym is one time for your 
-mind 너에게 주겠어",
-106212,아시나요,조성모,발라드,Let Me Love,강은경,Papertonic,20000901,https://cdnimg.melon.co.kr/cm/album/images/000/04/801/4801_500.jpg/melon/resize/282/quality/80/optimize,80,32205,"아시나요 얼마나 사랑했는지 
+mind 너에게 주겠어",406125585 101408955
+106212,아시나요,조성모,발라드,Let Me Love,강은경,Papertonic,20000901,https://cdnimg.melon.co.kr/cm/album/images/000/04/801/4801_500.jpg/melon/resize/282/quality/80/optimize,80,32210,"아시나요 얼마나 사랑했는지 
 그댈 보면 자꾸 눈물이 나서 
 차마 그대 바라보지 못하고 
 외면해야 했던 나였음을 
@@ -11083,8 +10940,8 @@ mind 너에게 주겠어",
 슬픈 오늘이
 같은 하늘 아래 그대와 내가
 함께 서 있는 마지막 날인걸
-그댄 아시나요",
-1576735,다 줄거야 (Acoustic Ver.),조규만,발라드,I Will Give You All,조규만,조규만,20000101,https://cdnimg.melon.co.kr/cm/album/images/003/45/496/345496_500.jpg/melon/resize/282/quality/80/optimize,28,12321,"그대 내게 다가오는 그 모습
+그댄 아시나요",442706386 100098263
+1576735,다 줄거야 (Acoustic Ver.),조규만,발라드,I Will Give You All,조규만,조규만,20000101,https://cdnimg.melon.co.kr/cm/album/images/003/45/496/345496_500.jpg/melon/resize/282/quality/80/optimize,28,12319,"그대 내게 다가오는 그 모습
 자꾸 다시 볼수 없을 것만 같아서
 감은 두눈 뜨지 못한거야
 너를 내게 보내준 걸 감사할뿐야
@@ -11110,7 +10967,7 @@ mind 너에게 주겠어",
 다 줄꺼야 내 남은 모든 사랑을
 난 네게 너무나도 부족하지만
 다 줄거야 내 남은 모든 사랑을",417639180 100098263
-505165,Run To You,DJ DOC,댄스 랩/힙합,The Life... DOC Blues 5%,"이하늘,  정재용","박해문,  이하늘",20000516,https://cdnimg.melon.co.kr/cm/album/images/000/33/571/33571_500.jpg/melon/resize/282/quality/80/optimize,43,18445,"하나 투 원 투 쓰리 포  
+505165,Run To You,DJ DOC,댄스 랩/힙합,The Life... DOC Blues 5%,"이하늘,  정재용","박해문,  이하늘",20000516,https://cdnimg.melon.co.kr/cm/album/images/000/33/571/33571_500.jpg/melon/resize/282/quality/80/optimize,43,18447,"하나 투 원 투 쓰리 포  
 BOUNCE with me BOUNCE  
 with me 
 BOUNCE with me BOUNCE  
@@ -11215,8 +11072,8 @@ BOUNCE with me
 BOUNCE with me 
 BOUNCE with me 
 BOUNCE BOUNCE BOUNCE 
-BOUNCE",
-10435,거짓말,god,발라드,Chapter 3,박진영,박진영,20001103,https://cdnimg.melon.co.kr/cm/album/images/000/00/717/717_500.jpg/melon/resize/282/quality/80/optimize,90,34132,"미안해 
+BOUNCE",100098263 445029956
+10435,거짓말,god,발라드,Chapter 3,박진영,박진영,20001103,https://cdnimg.melon.co.kr/cm/album/images/000/00/717/717_500.jpg/melon/resize/282/quality/80/optimize,90,34141,"미안해 
 난 니가 싫어졌어 우리 
 이만 헤어져 
 다른 여자가 생겼어 너보다 
@@ -11282,4 +11139,4 @@ BOUNCE",
 나를 잊어줘 잊고 살아가줘 
 나를 잊으면 안돼 
 나는 그래 나는 괜찮아 아프잖아 
-내 걱정은 하지 말고 떠나가",
+내 걱정은 하지 말고 떠나가",442706386 403014132
