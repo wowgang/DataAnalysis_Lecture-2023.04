@@ -198,11 +198,11 @@ def propose(uid, find_songId, app):
     indices = pd.Series(df.index, index=df.songId)
 
     # 3. 곡 정보 추가
-    self_song = df[df.songId == find_songId][['title', 'artist', 'album', 'date', 'genre', 'img', 'ly_summary']].to_dict('records')[0]
+    self_song = df[df.songId == find_songId][['songId', 'title', 'artist', 'album', 'date', 'genre', 'img', 'ly_summary']].to_dict('records')[0]
     
     # 3 - 1. 검색한 기록 저장하기
     if uid :
-        print('uid = ', uid)
+        # print('uid = ', uid)
         now = datetime.now()
         user_searched_dao.insert_user_record((uid, now.strftime('%Y-%m-%d %H:%M:%S'), 
                                               find_songId, self_song['img'], self_song['title'], 
