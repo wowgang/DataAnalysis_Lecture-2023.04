@@ -1,0 +1,59 @@
+#SELECT * FROM girl_group ORDER BY debut
+
+#SELECT DISTINCT * FROM girl_group ;
+# girl_group.hit_song_id  song.sid
+#SELECT * FROM song
+
+#SELECT DISTINCT * FROM girl_group ;
+
+#DELETE FROM girl_group WHERE gid >= 1012;
+#SELECT * FROM girl_group
+#SELECT * FROM song
+
+#INSERT INTO song (title, lyrics) 
+#	VALUES('다신', '다신 날 찾지 말고 떠나')
+
+#UPDATE song SET `lyrics`='사실이 아니길 믿고 싶었어 널 놓치기 싫었어' WHERE sid=117
+
+#DELETE FROM song WHERE sid=118;
+
+
+#SELECT * FROM girl_group
+#SELECT * FROM girl_group WHERE gid=1011;
+#UPDATE girl_group SET `name`='핑클', `debut`='1998-05-12', `hit_song_id`=105 WHERE gid=1005;
+#INSERT INTO girl_group (`name`, debut, hit_song_id)
+#	VALUES('이정현', 1994-06-24, 122)
+#DELETE FROM girl_group WHERE gid=%s;	
+
+#SELECT * FROM city WHERE id > 5000;
+#DELETE FROM city WHERE id >= 5000;
+
+#DESC customer;
+
+#CREATE DATABASE project;
+#USE project;
+
+#DESC reply;
+#SHOW TABLES;
+
+
+-- SELECT * FROM users;
+
+-- TRUNCATE users;
+
+
+-- SELECT NOW();
+
+-- SELECT * FROM board;
+
+-- TRUNCATE board;
+
+-- SELECT * FROM reply
+
+-- USE world;
+-- DESC city;
+
+-- SELECT * FROM city WHERE NAME='핑클';board
+
+-- USE project;
+-- DESC users;

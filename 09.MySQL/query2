@@ -1,0 +1,8 @@
+-- CREATE DATABASE bbs;
+-- USE bbs;
+
+-- framework
+-- maven+mysql
+-- bbsbbsspring+oracle
+
+DESC reply;
